@@ -3,7 +3,7 @@ const input = document.getElementsByTagName("input")[0];
 let ol = document.querySelector("ol");
 console.log(ol);
 
-button.addEventListener("click", () => {
+const addItem = () => {
   const item = input.value;
   input.value = "";
   input.focus();
@@ -11,4 +11,12 @@ button.addEventListener("click", () => {
   li.appendChild(document.createTextNode(item));
   // ol.appendChild(li); // add to the end of the list
   ol.insertBefore(li, ol.childNodes[0]) // add to the start
+}
+
+
+button.addEventListener("click", addItem);
+input.addEventListener('keypress', (e) => {
+  if (input.value && e.keyCode == 13) {
+    addItem();
+  }
 });
