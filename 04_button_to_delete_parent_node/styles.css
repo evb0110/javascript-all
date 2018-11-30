@@ -1,0 +1,15 @@
+body {
+  font-size: 1rem;
+}
+
+p {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
+.done {
+  background-color: lightgrey;
+}
