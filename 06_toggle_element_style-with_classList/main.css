@@ -1,0 +1,35 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+.normal {
+  background: yellow;
+  height: 90vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+
+}
+
+.container {
+  position: relative;
+  height: 30vh;
+  width: 30vw;
+  left: 40%;
+  top: 45%;
+  font-size: 3rem;
+}
+
+button {
+  font-size: 3rem;
+  margin-top: 2rem;
+}
+p {
+  margin: 0;
+}
+
+.red {
+  background: red;
+  color: white;
+}
