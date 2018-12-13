@@ -3,22 +3,20 @@ html, body {
   margin: 0;
 }
 
-.normal {
-  background: yellow;
-  height: 90vh;
-  width: 100vw;
-  margin: 0;
-  padding: 0;
-
+.outer
+{
+  height: 100vh;
+  padding: 30px;
+  background-color: #f3f3f3;
 }
-
-.container {
-  position: relative;
-  height: 30vh;
-  width: 30vw;
-  left: 40%;
-  top: 45%;
-  font-size: 3rem;
+.inner
+{
+  margin: auto;
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+  background-color: #ccc;
+  border-radius: 3px;
 }
 
 button {
