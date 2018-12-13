@@ -18,6 +18,7 @@ html, body {
   width: 30vw;
   left: 40%;
   top: 45%;
+  float: center;
   font-size: 3rem;
 }
 
