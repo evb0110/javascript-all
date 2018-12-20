@@ -8,15 +8,18 @@ const { div, button, span } = hh(h);
 const initModel = 0;
 
 function view(dispatch, model) {
+  const numString = model < 0
+    ? model.toString()
+    : '' + model;
   return div([
     div({ className: 'mv2' },
       [
-        span('', `Count: `),
-        span('', `${model}`),
+        span({ className: 'dib w4' } , `Count: `),
+        span({ className: 'dib w4 tr red' } , `${numString}`),
       ]
     ),
-    button({ className: 'pv1 ph mr2 w3', onclick: () => dispatch(MSGS.SUBTRACT) }, '-'),
-    button({ className: 'pv1 ph2 w3', onclick: () => dispatch(MSGS.ADD) }, '+'),
+    button({ className: 'f-subheadline pv1 ph mr2 w4', onclick: () => dispatch(MSGS.SUBTRACT) }, '-'),
+    button({ className: 'f-subheadline pv1 ph2 w4', onclick: () => dispatch(MSGS.ADD) }, '+'),
   ]);
 }
 
