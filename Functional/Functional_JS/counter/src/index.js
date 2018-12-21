@@ -5,6 +5,11 @@ import createElement from 'virtual-dom/create-element';
 
 const { div, button, span } = hh(h);
 
+const MSGS = {
+  ADD: 'ADD',
+  SUBTRACT: 'SUBTRACT',
+}
+
 const initModel = 0;
 
 function view(dispatch, model) {
@@ -23,11 +28,8 @@ function view(dispatch, model) {
   ]);
 }
 
-const MSGS = {
-  ADD: 'ADD',
-  SUBTRACT: 'SUBTRACT',
-}
 
+//c The same as reducer in Redux!
 function update(msg, model) {
   switch (msg) {
     case MSGS.ADD:
