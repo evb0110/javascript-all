@@ -68,8 +68,16 @@ console.log("=================")
 
 //Extension 2
 function reduce(array, callback, initialValue) {
-
+  let currentValue = initialValue;
+  array.forEach(el => {
+    currentValue = callback(el,currentValue);
+  });
+  return currentValue;
 }
+
+console.log(
+  reduce([1,3,4], (a,b) => a*b, 1)
+);
 
 //Extension 3
 function intersection(...arrays) {
