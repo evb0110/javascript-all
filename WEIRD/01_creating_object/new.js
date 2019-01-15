@@ -1,7 +1,5 @@
-function Person(firstname = 'John', lastname = 'Smith') {
-  this.firstname = firstname;
-  this.lastname = lastname;
-}
+"use strict";
 
-const john = new Person('Mary', 'Doe');
-console.log(john);
+abc = 5;
+
+console.log(abc);
