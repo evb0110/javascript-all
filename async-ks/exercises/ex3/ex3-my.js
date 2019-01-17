@@ -8,7 +8,7 @@ function fakeAjax(url, cb) {
 
   console.log("Requesting: " + url);
 
-  setTimeout(function() {
+  setTimeout(function () {
     cb(fake_responses[url]);
   }, randomDelay);
 }
@@ -20,7 +20,7 @@ function output(text) {
 // **************************************
 
 function getFile(file) {
-  return new Promise(function(resolve, reject) {
+  return new Promise(function (resolve, reject) {
     fakeAjax(file, t => {
       output("→ loaded " + file);
       resolve(t);
@@ -32,18 +32,10 @@ let p1 = getFile("file1");
 let p2 = getFile("file2");
 let p3 = getFile("file3");
 
-p1.then(output)
-  .then(function() {
-    return p2;
-  })
+p1
   .then(output)
-  .then(function() {
-    return p3;
-  })
+  .then(() => p2)
   .then(output)
-  .then(function() {
-    output("Done");
-  });
-
-// request all files at once in "parallel"
-// ???
+  .then(() => p3)
+  .then(output)
+  .then(() => output("Done"));
