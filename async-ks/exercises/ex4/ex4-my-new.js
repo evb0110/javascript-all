@@ -1,7 +1,7 @@
 // to implement from scratch
 
 function fakeAjax(url, cb) {
-  const fakeResponses = filename => `data from ${url}`;
+  const fakeResponses = filename => `data from ${filename}`;
   const fakeDelay = (Math.floor(Math.random() * 1E4) % 8000) + 1000;
 
   output(`Requesting ${url}`);
