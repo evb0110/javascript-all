@@ -1,12 +1,22 @@
-const util = require("util");
-const fs = require("fs");
-const readFile = util.promisify(fs.readFile);
+const customIterator = () => ({
+  [Symbol.iterator]: () => ({
+    x: 0,
+    next() {
+      if (this.x > 10) {
+        return {
+          done: true,
+          value: this.x
+        };
+      }
+      return {
+        done: false,
+        value: this.x += 2
+      };
+    }
+  })
+});
 
-const files = ["./files/demofile.txt", "./files/demofile.other.txt"];
+for (const x of customIterator()) {
+  console.log(x);
+}
 
-(async () => {
-  for (file of files) {
-    let val = await readFile(file, "utf-8");
-    console.log(val);
-  }
-})();
