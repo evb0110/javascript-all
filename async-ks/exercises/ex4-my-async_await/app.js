@@ -23,4 +23,5 @@ for (let i = 0; i < numberOfFiles; i++) {
   for (pr of prs) {
     console.log(await pr);
   }
+  console.log("Done!");
 })();
