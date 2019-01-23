@@ -14,22 +14,21 @@ async function readUrls() {
 async function downloadUrls() {
   const urls = await readUrls();
 
-  const result = [];
+  const prs = [];
   for (url of urls) {
-
     let filename = (url.match(/Vat[\w\d._%]*jp2/g) || [])[0];
     filename = filename.replace(/jp2/, "jpg");
     console.log(url);
     console.log(filename);
-    result.push(downloadImage(url, "tmp/" + filename));
+    prs.push(downloadImage(url, "tmp/" + filename));
   }
-  return result;
+  await Promise.all(prs);
 }
 
-downloadUrls();
+downloadUrls().then(() => console.log("Done!"));
 
 async function downloadImage(url, filename) {
-  return axios
+  await axios
     .request({
       responseType: "arraybuffer",
       url: url,
@@ -41,8 +40,7 @@ async function downloadImage(url, filename) {
     .then(result => {
       console.log(`...saving file "${filename}"`);
       writeFile(filename, result.data);
-      return filename;
     })
-    .then(file => console.log(`Saved ${file}`))
     .catch(err => console.error(err));
+    return filename;
 }
