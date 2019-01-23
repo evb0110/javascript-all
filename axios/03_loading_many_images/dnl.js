@@ -42,5 +42,5 @@ async function downloadImage(url, filename) {
       writeFile(filename, result.data);
     })
     .catch(err => console.error(err));
-    return filename;
+  return filename;
 }
