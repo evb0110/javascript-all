@@ -26,5 +26,5 @@ test('', () => {
 
 test('', () => {
   // The return value of the first call to the function was 42
-  expect(mockCallback.mock.results[0].value).toBe(42);
+  expect(mockCallback.mock.results[1].value).toBe(43);
 });
