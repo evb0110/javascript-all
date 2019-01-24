@@ -1,0 +1,1 @@
+curl "http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&format=jpg&metsFile=PPN666004919&divID=PHYS_0[001-541]&width=2000" -o "#1" 
