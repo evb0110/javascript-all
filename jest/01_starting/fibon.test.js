@@ -34,3 +34,7 @@ test(`checking first 20 elements`, () => {
     expect(fib(i)).toBe(elem);
   })
 });
+
+test(`checking with wrong input`, () => {
+  expect(() => fib(20.1)).toThrow();
+})

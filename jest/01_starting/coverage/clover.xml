@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1548361113037" clover="3.2.0">
+  <project timestamp="1548361113037" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2" elements="17" coveredelements="17" complexity="0" loc="9" ncloc="9" packages="1" files="2" classes="2">
+      <file name="fibon.js" path="/home/evb/Desktop/Frontend/JavaScript.js/jest/01_starting/fibon.js">
+        <metrics statements="7" coveredstatements="7" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="70801" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="70800" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="35420" type="stmt"/>
+        <line num="8" count="35380" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+      <file name="sum.js" path="/home/evb/Desktop/Frontend/JavaScript.js/jest/01_starting/sum.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
