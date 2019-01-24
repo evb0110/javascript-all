@@ -1,7 +1,7 @@
 const util = require("util");
 
 const fakeAjax = (filename, cb) => {
-  return new Promise((resolve, reject) => {
+  return new Promise(resolve => {
     delay = (Math.round(Math.random() * 1e4) % 8e3) + 1e3;
     setTimeout(() => {
       resolve(cb(`data from ${filename}`));
@@ -13,4 +13,6 @@ const fakeAjax = (filename, cb) => {
 
 const output = t => console.log(t);
 
-fakeAjax("file1", output).then(() => console.log("done!"));
+fakeAjax("file1", output)
+  .then(() => console.log("done!"))
+  .catch(err => console.error(err));
