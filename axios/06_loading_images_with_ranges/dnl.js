@@ -14,6 +14,8 @@ const urlsFile = "";
 // This file should contain urls of images,
 // one per line.
 // You can change the filename.
+// If urlsFile is falsy, filenames 
+// will be calculated from ranges
 
 const dnlDir = "tmp/";
 // The directory where the files will
@@ -25,8 +27,16 @@ const [left, right] = [
   "http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&format=jpg&metsFile=PPN666004919&divID=PHYS_0",
   "&width=2000"
 ];
+// left and right are the parts of the url before and after 
+// the [consecutively] changing numbers
+
 const ranges = [1, 541];
+// first and last number
+
 const padding = 3;
+// length of the number part. If padding == 3, 
+// 5 will become 003, 41 will become 041,
+// 235 will stay 235
 
 const axios = require("axios");
 const fs = require("fs");
