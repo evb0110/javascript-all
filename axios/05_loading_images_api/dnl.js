@@ -41,7 +41,7 @@ async function downloadUrls() {
     let counter = 0;
     const prs = [];
     for (url of urls) {
-      let filename = (counter++).toString().padStart(5, "0") + `.${extension}`;
+      let filename = (++counter).toString().padStart(5, "0") + `.${extension}`;
       console.log(url);
       prs.push(downloadImage(url, dnlDir + filename));
     }
