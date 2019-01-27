@@ -22,6 +22,9 @@ document.querySelector(".form").addEventListener("submit", event => {
         ${record.release_date.split("-")[0]}`
         );
         node.appendChild(textnode);
+        const poster = document.createElement("img");
+        poster.src = `${imgUrl}${record.poster_path}`;
+        node.appendChild(poster);
 
         document.querySelector(".movies-list").appendChild(node);
       }

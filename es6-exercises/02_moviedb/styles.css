@@ -16,6 +16,10 @@ h1 {
   color: red;
 }
 
+img {
+  display: block;
+}
+
 .movies-list {
   padding: 5% 10%;
 }
