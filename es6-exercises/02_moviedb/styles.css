@@ -1,0 +1,21 @@
+html {
+  font-size: 30px;
+}
+
+.form-container {
+  text-align: center;
+}
+
+input {
+  font-size: 1rem;
+
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+.movies-list {
+  padding: 5% 10%;
+}
