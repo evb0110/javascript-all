@@ -1,0 +1,74 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+header {
+  padding: 20px;
+  background: rgba(184, 189, 186, 0.144);
+}
+
+.block {
+  display: block;
+}
+
+.none {
+  display: none;
+}
+
+.buttons {
+  text-align: center;
+  background: rbga(25, 25, 25, 0.5);
+}
+
+.btn {
+  font-size: 40px;
+  margin: 0 30px;
+}
+
+.super {
+  display: flex;
+  width: 100%;
+  border: 1px solid green;
+}
+
+.outer {
+  flex: 1;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+.inner {
+  min-height: 200px;
+  padding: 20px;
+  border: 1px solid red;
+  font-size: 50px;
+}
+
+.blue {
+  position: relative;
+  background: lightblue;
+}
+
+.left-blue .show-context {
+  position: absolute;
+  top: 0;
+  right: 0;
+  content: "click me";
+  font-size: 2rem;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border: 1px dotted blue;
+  background: rgba(60, 179, 114, 0.3);
+  color: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 3px 2px darkolivegreen;
+}
+
+.left-blue .show-context:hover {
+  background: rgba(37, 114, 72, 0.295);
+  box-shadow: 0 1px 2px 1px darkolivegreen;
+  cursor: pointer;
+}
