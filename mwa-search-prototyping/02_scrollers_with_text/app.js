@@ -27,8 +27,8 @@ function handleHide(event) {
 function handleScroll(event) {
   const myElement = document.getElementById('blue');
   const topPos = myElement.offsetTop;
-  const offsetLeft = leftBlue.offsetTop - left.scrollTop;
-  right.scrollTop = topPos - offsetLeft;
+  const offsetLeftFromTop = leftBlue.offsetTop - left.scrollTop;
+  right.scrollTop = topPos - offsetLeftFromTop;
 }
 
 function handleShowContextClick(event) {
