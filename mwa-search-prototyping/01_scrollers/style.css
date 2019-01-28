@@ -1,0 +1,47 @@
+header {
+  padding: 20px;
+}
+
+.block {
+  display: block;
+}
+
+.none {
+  display: none;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.btn {
+  font-size: 40px;
+  margin: 0 30px;
+}
+
+.super {
+  display: flex;
+  width: 100vw;
+  border: 1px solid green;
+}
+
+.outer1 {
+  flex-grow: 1;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+.outer2 {
+  flex-grow: 1;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+.inner {
+  height: 200px;
+  border: 1px solid red;
+}
+
+.blue {
+  background: lightblue;
+}
