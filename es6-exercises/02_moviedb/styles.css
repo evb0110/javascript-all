@@ -1,5 +1,7 @@
 html {
   font-size: 30px;
+  background-color: rgba(233, 238, 224, 0.5);
+  overflow-y: scroll;
 }
 
 .form-container {
@@ -13,13 +15,50 @@ input {
 
 h1 {
   text-align: center;
-  color: red;
+  font-family: 'Monoton', cursive;
+  font-weight: normal;
+  color: darkred;
+}
+
+.eng-title {
+  font-family: 'Special Elite', cursive;
+}
+.orig-title {
+  font-family: 'Lobster Two', cursive;
+}
+.year {
+  font-family: 'Lobster Two', cursive;
+}
+
+.card {
+  display: flex;
+  border: 1px solid gray;
+  margin: 25px;
+  box-shadow: 0 5px 5px 2px gray;
+  background-color: rgb(241, 241, 241);
+}
+
+.card:hover {
+  cursor: pointer;
+  box-shadow: 0 3px 3px 1px gray;
+  background-color: rgb(235, 235, 235);
+}
+
+.movie-info {
+  width: 60%;
+  padding: 5% 5%;
 }
 
 img {
+  margin: 30px 30px;
   display: block;
+  box-shadow: 0 5px 5px 2px gray;
 }
 
 .movies-list {
-  padding: 5% 10%;
+  padding: 2% 10% 10% 7%;
+}
+
+.eng-title {
+  font-weight: bold;
 }

@@ -1,11 +1,11 @@
 const show = document.querySelector('.show');
-show.addEventListener('click', () => handleShow());
+show.addEventListener('click', handleShow);
 
 const hide = document.querySelector('.hide');
-hide.addEventListener('click', () => handleHide());
+hide.addEventListener('click', handleHide);
 
 const scroll = document.querySelector('.scroll');
-scroll.addEventListener('click', () => handleScroll());
+scroll.addEventListener('click', handleScroll);
 
 const right = document.querySelector('.outer2');
 const left = document.querySelector('.outer1');
@@ -19,6 +19,7 @@ function handleShow() {
   right.classList.remove("none");
   right.classList.add("block");
 }
+
 function handleHide() {
   right.classList.remove("block");
   right.classList.add("none");
