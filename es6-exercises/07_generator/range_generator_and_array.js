@@ -1,5 +1,4 @@
-function* rangeIterator(m, n) {
-  const inc = m < n ? 1 : -1;
+function* rangeIterator(m, n, inc) {
   let i = m;
   while (i * inc <= n * inc) {
     yield i;
@@ -7,11 +6,11 @@ function* rangeIterator(m, n) {
   }
 }
 
-function range(m, n) {
-  return Array.from(rangeIterator(m, n));
+function range(m, n, inc = m < n ? 1 : -1) {
+  return Array.from(rangeIterator(m, n, inc));
 }
 
-const ri = range(8, 16);
+const ri = range(8, 16, 2);
 for (num of ri) {
   console.log(num);
 }
