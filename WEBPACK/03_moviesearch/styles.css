@@ -1,0 +1,159 @@
+html {
+  font-size: 20px;
+  background-color: rgba(233, 238, 224, 0.5);
+  overflow-y: scroll;
+}
+
+.form-container {
+  text-align: center;
+  padding: 2%;
+
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.movie-title {
+  font-size: 1.5rem;
+  border-radius: 5px;
+  outline: none;
+}
+
+.submit {
+  background-color: #4caf96;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  padding: 0.3rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.submit:hover {
+  cursor: pointer;
+  background-color: #409781;
+}
+
+.page-title {
+  margin: 0 auto;
+  line-height: 1.1;
+  text-align: center;
+  font-family: "Monoton", cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: darkred;
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+}
+
+.eng-title {
+  font-family: "Special Elite", cursive;
+}
+
+.orig-title {
+  font-family: "Lobster Two", cursive;
+}
+
+.year {
+  font-family: "Lobster Two", cursive;
+}
+
+img {
+  margin: 0px 30px 20px 30px;
+  object-fit: fill;
+  display: block;
+  box-shadow: 0 3px 3px 2px rgb(173, 172, 172);
+  font-size: 0.4rem;
+}
+img:hover {
+  box-shadow: 0 1.5px 1.5px 1px rgb(173, 172, 172);
+}
+
+.eng-title {
+  font-weight: bold;
+}
+
+.movie-info {
+  width: 90%;
+  padding-bottom: 0;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(241, 241, 241);
+  margin: 15px 5px;
+  border: 1px solid gray;
+  box-shadow: 0 5px 5px 2px gray;
+  min-height: 10rem;
+}
+.card:hover {
+  cursor: pointer;
+  box-shadow: 0 3px 3px 1px gray;
+  background-color: rgb(235, 235, 235);
+}
+
+.movies-list {
+  padding: 2%;
+}
+
+.page-title,
+.eng-title,
+p {
+  cursor: auto;
+}
+
+.eng-title,
+p {
+  margin-block-start: 0.3em;
+  margin-block-end: 0.3em;
+}
+
+@media (min-width: 401px) {
+
+  html {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 751px) {
+
+  .movie-title {
+    font-size: 1.5rem;
+    max-width: 25rem;
+  }
+  .form {
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+  }
+
+  .card {
+    max-width: 1200px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid gray;
+    margin: 25px auto 25px auto;
+    box-shadow: 0 5px 5px 2px gray;
+    background-color: rgb(241, 241, 241);
+  }
+
+  .movie-info {
+    width: 60%;
+    padding: 5% 5%;
+  }
+
+  .movies-list {
+    padding: 2% 10% 10% 7%;
+  }
+
+  img {
+    margin-top: 20px;
+  }
+}
