@@ -10,7 +10,7 @@ const extension = "jpg";
 // You can change it to png, jpeg etc.
 
 // const urlsFile = "./urls.txt";
-const urlsFile = "";
+const urlsFile = "urls.txt";
 // This file should contain urls of images,
 // one per line.
 // You can change the filename.
