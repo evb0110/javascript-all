@@ -5,26 +5,51 @@ const directory = "_corpus";
 
 const vols = fs.readdirSync(directory);
 
-const volsFiltered = vols.filter(dir => !/TRANS/.test(dir));
+const volsTextus = vols.filter(dir => !/TRANS/.test(dir));
+const textus = volsTextus.map(proceedVolume);
 
-const result = volsFiltered.map(proceedVolume);
+const volsVersio = vols.filter(dir => /TRANS/.test(dir));
+const versio = volsVersio.map(proceedVolume);
 
-console.log(JSON.stringify(result, null, 2));
+
+// these loops are ugly, they mutate textus,
+// but I don't know how to easily make
+// it in a better way 
+for (let i = 0; i < textus.length; i++) {
+  const volName = textus[i].volume;
+  const volVersioName = addTransToName(volName);
+  if (versio[i].volume === volVersioName) {
+    for (let j = 0; j < textus[i].texts.length; j++) {
+      let text = textus[i].texts[j]
+      for (let k = 0; k < text.contents.length; k++) {
+        let line = text.contents[k]
+        line.versio = versio[i].texts[j].contents[k].textus;
+      }
+    }
+  }
+
+}
+console.log(JSON.stringify(textus, null, 2));
+
+
+
+
+// ===== FUNCTIONS =====
 
 function proceedVolume(volume) {
   const volumePath = path.join(directory, volume);
   const texts = fs.readdirSync(volumePath);
-  const result = texts.map(text => proceedText(text, volumePath));
+  const result = texts.map(textName => proceedText(textName, volumePath));
   return { volume, texts: result }
 }
 
-function proceedText(text, volumePath) {
-  const textNumber = getNumber(text);
-  const textPath = path.join(volumePath, text);
+function proceedText(textName, volumePath) {
+  const textNumber = getNumber(textName);
+  const textPath = path.join(volumePath, textName);
   const textContents = fs.readFileSync(textPath, "utf8");
   let lines = textContents.split("\n").filter(line => /\S/.test(line));
   const result = lines.map((line, i) => proceedLine(line, i));
-  return { textNumber, text, contents: result }
+  return { textNumber, textName, contents: result }
 }
 
 function proceedLine(line, i) {
@@ -34,4 +59,8 @@ function proceedLine(line, i) {
 
 function getNumber(line) {
   return line.substr(0,3);
+}
+
+function addTransToName(str) {
+  return str + ' TRANS';
 }
