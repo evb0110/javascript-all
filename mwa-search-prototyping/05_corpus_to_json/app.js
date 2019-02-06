@@ -20,6 +20,14 @@ function proceedVolume(volume) {
 function proceedText(text, volumePath) {
   console.log(`======= ${text} =======`);
   const textPath = path.join(volumePath, text);
-  const textContents = fs.readFileSync(textPath);
-  console.log(String(textContents));
+  const textContents = fs.readFileSync(textPath, 'utf8');
+  let lines = textContents.split('\n');
+  lines = lines.filter(line => /\S/.test(line))
+  const result = lines.map((line, i) => proceedLine(line, i));
+  console.log(result);
+}
+
+function proceedLine(line, i) {
+  // console.log(`${i}: ${line}`);
+  return { lineNumber: i, lineContents: line }
 }
