@@ -19,14 +19,19 @@ function proceedVolume(volume) {
 }
 
 function proceedText(text, volumePath) {
+  const textNumber = getNumber(text);
   const textPath = path.join(volumePath, text);
   const textContents = fs.readFileSync(textPath, "utf8");
   let lines = textContents.split("\n").filter(line => /\S/.test(line));
   const result = lines.map((line, i) => proceedLine(line, i));
-  return { text, contents: result }
+  return { textNumber, text, contents: result }
 }
 
 function proceedLine(line, i) {
-  const number = line.substr(0,3);
-  return { lineNumber: number, lineContents: line };
+  const number = getNumber(line);
+  return { lineNumber: number, textus: line };
+}
+
+function getNumber(line) {
+  return line.substr(0,3);
 }
