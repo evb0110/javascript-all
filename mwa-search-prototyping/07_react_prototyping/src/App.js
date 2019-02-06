@@ -1,17 +1,30 @@
-import React, { Component } from 'react';
-import './App.css';
-import data from './data/datafile';
+import React, { Component } from "react";
+import "./App.css";
+import data from "./data/datafile";
+import grepObject from "./js/grepObject";
+import highlightPattern from './helpers/highlightPattern';
 
 class App extends Component {
   render() {
+    const reg = /mxammen/g;
 
-    console.log(data);
+    const results = grepObject(data, reg);
+
+    const textusResult = [];
+
+    for (const result of results) {
+      const { textus, versio } = result;
+      textusResult.push(highlightPattern(textus, reg));
+      textusResult.push(versio);
+    }
 
     return (
       <div className="App">
-        <pre>
-          {JSON.stringify(data, null, 2)}
-        </pre>
+        {textusResult.map((line, i) =>  {
+          return (
+            <div className='textus-line' key={i}>{line}</div>
+          )}
+        )}
       </div>
     );
   }
