@@ -1,4 +1,8 @@
 .redbold {
   color: red;
+}
+
+.redbold:hover {
+  cursor: pointer;
   font-weight: bold;
 }
