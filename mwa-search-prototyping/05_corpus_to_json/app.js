@@ -13,7 +13,8 @@ const versio = volsVersio.map(proceedVolume);
 
 
 // these loops are ugly, they mutate textus,
-// but I don't know how to easily make
+// but they do what they are supposed to and 
+// I don't know how to do
 // it in a better way 
 for (let i = 0; i < textus.length; i++) {
   const volName = textus[i].volume;
@@ -27,7 +28,6 @@ for (let i = 0; i < textus.length; i++) {
       }
     }
   }
-
 }
 console.log(JSON.stringify(textus, null, 2));
 
