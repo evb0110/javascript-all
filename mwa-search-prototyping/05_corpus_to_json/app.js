@@ -1,33 +1,32 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
-const directory = '_corpus';
+const directory = "_corpus";
 
 const vols = fs.readdirSync(directory);
 
 const volsFiltered = vols.filter(dir => !/TRANS/.test(dir));
 
-
 const result = volsFiltered.map(proceedVolume);
 
+console.log(JSON.stringify(result, null, 2));
+
 function proceedVolume(volume) {
-  console.log(volume);
   const volumePath = path.join(directory, volume);
   const texts = fs.readdirSync(volumePath);
-  const result  = texts.map(text => proceedText(text, volumePath));
+  const result = texts.map(text => proceedText(text, volumePath));
+  return { volume, texts: result }
 }
 
 function proceedText(text, volumePath) {
-  console.log(`======= ${text} =======`);
   const textPath = path.join(volumePath, text);
-  const textContents = fs.readFileSync(textPath, 'utf8');
-  let lines = textContents.split('\n');
-  lines = lines.filter(line => /\S/.test(line))
+  const textContents = fs.readFileSync(textPath, "utf8");
+  let lines = textContents.split("\n").filter(line => /\S/.test(line));
   const result = lines.map((line, i) => proceedLine(line, i));
-  console.log(result);
+  return { text, contents: result }
 }
 
 function proceedLine(line, i) {
-  // console.log(`${i}: ${line}`);
-  return { lineNumber: i, lineContents: line }
+  const number = line.substr(0,3);
+  return { lineNumber: number, lineContents: line };
 }
