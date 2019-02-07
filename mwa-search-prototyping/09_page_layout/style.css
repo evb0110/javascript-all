@@ -5,11 +5,16 @@ body {
   overflow: hidden;
 }
 
+.redbold {
+  color: red;
+  font-weight: bold;
+}
+
 header {
   position: relative;
   width: 100%;
   background: rgba(42, 187, 180, 0.144);
-  box-shadow: 0 3px 3px 3px rgba(99, 100, 99, 0.5);
+  box-shadow: 0 1px 1px 1px rgba(99, 100, 99, 0.5);
   z-index: 10;
   text-align: center;
 }
@@ -21,7 +26,7 @@ header {
   font-weight: normal;
   font-size: 4vw;
   line-height: 1;
-  background: rgba(221, 204, 204, 0.418);
+  background: rgb(245, 255, 253);
   color: rgba(126, 10, 10);
   border-bottom: 1px solid lightgrey;
 }
@@ -44,6 +49,7 @@ header {
   color: white;
   border-radius: 0.4vw;
   box-shadow: 0px 0.1vw 0.1vw 0.1vw gray;
+  text-decoration: none;
 }
 
 .btn:hover {
@@ -84,7 +90,6 @@ input::placeholder {
   flex-grow: 1;
   display: flex;
   width: 100%;
-  border: 1px solid green;
 }
 
 .outer {
@@ -96,15 +101,15 @@ input::placeholder {
 .inner {
   min-height: 10vw;
   padding: 2vw;
-  border: 1px solid red;
-  font-size: 2vw;
+  font-size: 1.3vw;
 }
 
 .card {
-  background: rgba(119, 126, 124, 0.3);
+  background: rgb(245, 255, 253);
   margin: 0.5vw;
   padding: 0.5vw;
-  border: 1px solid rgba(180, 89, 89, 0.4);
+  border: 1px solid lightgrey;
+
 }
 
 .textus,
@@ -114,14 +119,18 @@ input::placeholder {
   padding: 0.5vw;
   line-height: 1.5;
 }
+
 .volume,
 .inline-separator,
 .text-name {
-  font-family: 'Oswald', sans-serif;
   display: inline;
   color: rgb(88, 88, 88);
   font-size: 1.3vw;
+  cursor: pointer;
 }
+
+
+
 .inline-separator {
   color: darkred;
 }
@@ -133,22 +142,7 @@ input::placeholder {
   background: lightblue;
 }
 
-.left-blue .show-context {
-  position: relative;
-  top: -2vw;
-  float: right;
-  font-size: 2vw;
-  padding: 1vw;
-  margin: 1vw;
-  border: 1px solid green;
-  background: rgba(60, 179, 114, 0.3);
-  color: white;
-  border-radius: 5px;
-  box-shadow: 0 2px 3px 2px darkolivegreen;
-}
 
-.left-blue .show-context:hover {
-  background: rgba(37, 114, 72, 0.295);
-  box-shadow: 0 1px 2px 1px darkolivegreen;
-  cursor: pointer;
+@media (min-width: 1500px) {
+
 }
