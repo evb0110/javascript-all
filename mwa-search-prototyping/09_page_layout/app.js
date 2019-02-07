@@ -26,3 +26,5 @@ function handleShow(event) {
   event.preventDefault();
   console.log('Show button clicked');
 }
+
+const card = document.querySelector('#card');
