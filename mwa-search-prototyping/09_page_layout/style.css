@@ -1,0 +1,127 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+header {
+  position: relative;
+  width: 100%;
+  background: rgba(184, 189, 186, 0.144);
+  box-shadow: 0 3px 3px 3px rgba(99, 100, 99, 0.5);
+  z-index: 10;
+  text-align: center;
+}
+
+.pagetitle {
+  margin: 0;
+  padding: 0.5vw 0 1vw 0;
+  font-family: 'Bree Serif', serif;
+  font-weight: normal;
+  font-size: 4vw;
+  line-height: 1;
+  background: rgba(221, 204, 204, 0.418);
+  color: rgba(126, 10, 10);
+  border-bottom: 1px solid lightgrey;
+}
+
+.block {
+  display: block;
+}
+
+.none {
+  display: none;
+}
+
+.btn {
+  font-size: 2vw;
+  font-weight: bold;
+  margin: 0 1vw;
+  border: none;
+  padding: 0.9vw;
+  background: rgb(145, 7, 7, 0.5);
+  color: white;
+  border-radius: 0.4vw;
+  box-shadow: 0px 0.1vw 0.1vw 0.1vw gray;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: rgb(145, 7, 7, 0.8);
+  box-shadow: 0px 0.05vw 0.05vw 0.05vw gray;
+}
+.btn:active {
+  cursor: pointer;
+  background-color: rgb(145, 7, 7, 1);
+  box-shadow: none;
+}
+
+
+.forms {
+  display: flex;
+  width: 100%;
+}
+
+.form {
+  flex: 1;
+  display: flex;
+  padding: 1vw;
+}
+
+input {
+  padding: 0vw;
+  font-size: 3vw;
+  margin: 0 0.3vw;
+  border-radius: 0.4vw;
+  outline: none;
+}
+input::placeholder {
+  color: rgb(196, 192, 192);
+}
+
+.super {
+  flex-grow: 1;
+  display: flex;
+  width: 100%;
+  border: 1px solid green;
+}
+
+.outer {
+  flex: 1;
+  max-height: calc(100vh - 11.8vw);
+  overflow-y: auto;
+}
+
+.inner {
+  min-height: 10vw;
+  padding: 2vw;
+  border: 1px solid red;
+  font-size: 2vw;
+}
+
+.blue {
+  background: lightblue;
+}
+
+.left-blue .show-context {
+  position: relative;
+  top: -2vw;
+  float: right;
+  font-size: 2vw;
+  padding: 1vw;
+  margin: 1vw;
+  border: 1px solid green;
+  background: rgba(60, 179, 114, 0.3);
+  color: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 3px 2px darkolivegreen;
+}
+
+.left-blue .show-context:hover {
+  background: rgba(37, 114, 72, 0.295);
+  box-shadow: 0 1px 2px 1px darkolivegreen;
+  cursor: pointer;
+}
+
+
