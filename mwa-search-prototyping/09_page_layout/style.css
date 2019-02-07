@@ -16,7 +16,7 @@ header {
 
 .pagetitle {
   margin: 0;
-  padding: 0.5vw 0 1vw 0;
+  padding: 0 0 1vw 0;
   font-family: 'Bree Serif', serif;
   font-weight: normal;
   font-size: 4vw;
@@ -37,9 +37,9 @@ header {
 .btn {
   font-size: 2vw;
   font-weight: bold;
-  margin: 0 1vw;
+  margin: 0 0.5vw;
   border: none;
-  padding: 0.9vw;
+  padding: 0.3vw 1vw;
   background: rgb(145, 7, 7, 0.5);
   color: white;
   border-radius: 0.4vw;
@@ -67,11 +67,12 @@ header {
   flex: 1;
   display: flex;
   padding: 1vw;
+  justify-content: center;
 }
 
 input {
   padding: 0vw;
-  font-size: 3vw;
+  font-size: 2vw;
   margin: 0 0.3vw;
   border-radius: 0.4vw;
   outline: none;
