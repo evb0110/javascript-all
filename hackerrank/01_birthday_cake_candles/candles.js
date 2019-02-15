@@ -20,3 +20,4 @@ const result = ar.reduce((acc, el) => {
 console.log(result.count)
 
 // console.log(ar.filter(el => el == Math.max(...ar)).length);
+// this one is too long (about half a minute)
