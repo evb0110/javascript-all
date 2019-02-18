@@ -4,8 +4,6 @@ const lines = fs.readFileSync('input.txt', 'utf8').split(/\n/);
 
 const s = lines[1];
 
-
-
 function countingValleys(n, s) {
   const sNumbers = [...s].map(l => l == 'U' ? 1 : -1);
 
