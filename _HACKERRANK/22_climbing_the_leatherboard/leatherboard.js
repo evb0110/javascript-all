@@ -8,14 +8,20 @@ const alice = lineToNumbers(lines[3]);
 function climbingLeaderboard(scores, alice) {
   const scoresUnique = [...new Set(scores)];
   const aliceReversed = alice.reverse();
-  const acc = [];
-  let placesReversed = aliceReversed.reduce((_, el) => {
-    const currentPlace = acc[acc.length - 1] || 1;
+  const placesReversed = [];
+  aliceReversed.forEach((el) => {
+    const currentPlace = placesReversed[placesReversed.length - 1] || 1;
+    let foundFlag = false;
     for (let i = currentPlace - 1; i < scoresUnique.length; i++) {
-      if (el >= scoresUnique[i]) acc.push(i + 1);
+      if (el >= scoresUnique[i]) {
+        placesReversed.push(i + 1);
+        foundFlag = true;
+      }
     }
-    acc.push(scoresUnique.length + 1);
-  }, []);
+    if (!foundFlag) {
+      placesReversed.push(scoresUnique.length + 1);
+    }
+  });
   placesReversed = acc;
   return placesReversed.reverse();
 }
