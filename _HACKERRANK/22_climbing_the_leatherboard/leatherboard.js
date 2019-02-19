@@ -16,13 +16,13 @@ function climbingLeaderboard(scores, alice) {
       if (el >= scoresUnique[i]) {
         placesReversed.push(i + 1);
         foundFlag = true;
+        break;
       }
     }
     if (!foundFlag) {
       placesReversed.push(scoresUnique.length + 1);
     }
   });
-  placesReversed = acc;
   return placesReversed.reverse();
 }
 
