@@ -1,0 +1,18 @@
+.red {
+  color: red;
+}
+
+.magenta {
+  color: #a00aa0;
+}
+
+.blue {
+  color: blue;
+}
+
+.card {
+  background: rgb(245, 255, 253);
+  margin: 0.5vw;
+  padding: 0.5vw;
+  border: 1px solid lightgrey;
+}
