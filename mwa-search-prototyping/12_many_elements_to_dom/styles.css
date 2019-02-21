@@ -1,0 +1,7 @@
+.node {
+  width: 20rem;
+  height: 5rem;
+  margin: 1rem;
+  background: lightcyan;
+  box-shadow: 2px 2px 2px 2px grey;
+}
