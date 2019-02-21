@@ -9,7 +9,7 @@ function divAndColorify (str, regex = /^.*$/, classColor = 'red', tag = 'div') {
 
   splitText.forEach(
     (element, index) => {
-      totalNode.appendChild(makeSpan(element));
+      element && totalNode.appendChild(makeSpan(element));
       matches[index] && totalNode.appendChild(makeSpan(matches[index], classColor));
     }
   );
