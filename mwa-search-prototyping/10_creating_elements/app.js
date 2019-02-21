@@ -4,7 +4,7 @@ const data = {
   title: "Lorem ipsum dolor sit amet.",
   textus: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum, ipsam.",
   versio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, quae dignissimos.",
-  regex: /dolo|ips/g,
+  regex: /Lo|dolo|ips/g,
 }
 
 const { title, textus, versio, regex } = data;
