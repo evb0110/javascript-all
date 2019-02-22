@@ -1,0 +1,19 @@
+.root {
+  position: relative;
+  width: 1000px;
+  height: 600px;
+  overflow: hidden;
+  margin: auto;
+  border: 1px solid black;
+  background: lightgray;
+}
+
+.panel {
+  position: absolute;
+  width: 1000px;
+  min-height: 30px;
+  border-top: 1px solid black;
+  bottom: 0px;
+  background: brown;
+
+}
