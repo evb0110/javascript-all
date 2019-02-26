@@ -1,6 +1,7 @@
 const state = {
   count: 0,
-  zIndexMax: 0
+  zIndexMax: 0,
+  foregroundNumber: undefined
 };
 
 const canvas = document.querySelector('.canvas');
@@ -63,13 +64,17 @@ function makeNewWindow() {
   miniName.classList.add('mini-name');
   panel.append(miniName);
 
+  miniName.addEventListener('click', () => {
+    newWindow.classList.remove('none');
+  });
+
   closeButton.addEventListener('click', () => {
     newWindow.remove();
     miniName.remove();
   });
 
   minimizeButton.addEventListener('click', () => {
-
+    newWindow.classList.add('none');
   });
 
   windowPanel.onmousedown = function(event) {
@@ -102,6 +107,7 @@ function makeNewWindow() {
   function handleZIndex() {
     state.zIndexMax++;
     newWindow.style.zIndex = state.zIndexMax;
+    state.foregroundNumber = state.count;
   }
 
 }
