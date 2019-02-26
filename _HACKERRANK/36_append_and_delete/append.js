@@ -9,7 +9,7 @@ const k = Number(lines[2]);
 //===============
 
 function appendAndDelete(s, t, k) {
-  if (commonHeadSufficientlyShort(s,t,k)) return 'Yes';
+  if (totalLengthSufficientlyShort(s,t,k)) return 'Yes';
   if (isNonNegativeEven(k - lengthOfDifferentTails(s,t))) return 'Yes';
   return 'No';
 }
@@ -32,7 +32,7 @@ function lengthOfDifferentTails(str1, str2) {
   return str1.length + str2.length - 2 * commonHead(str1, str2).length;
 }
 
-function commonHeadSufficientlyShort(s,t,k) {
+function totalLengthSufficientlyShort(s,t,k) {
   const sN = s.length;
   const tN = t.length;
   return sN + tN <= k;
