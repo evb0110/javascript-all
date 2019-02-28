@@ -1,45 +1,40 @@
-const fs = require('fs');
+const fs = require("fs");
 
-const lines = fs.readFileSync('input.txt', 'utf8').split(/\n/);
+const lines = fs.readFileSync("input.txt", "utf8").split(/\n/);
 
 const lineToNumbers = line => line.split(/\s+/).map(str => Number(str));
 
-const [
-  [_, k], s
-] = lines.map(lineToNumbers);
-
+const [[_, k], s] = lines.map(lineToNumbers);
 
 // ===========================
-function getAllSubsetsSorted(theArray) {
-  const result = theArray.reduce(
-    (acc, value) => (
-      [...acc, ...acc.map(set => [...set, value])]
-    ),
-    [
-      []
-    ]
-  );
-  return result.sort((a, b) => -a.length + b.length);
+
+function makeHistogram(k, s) {
+  return s.reduce((acc, el) => {
+    const newAcc = [...acc];
+    const mod = el % k;
+    newAcc[mod] = 1 + (newAcc[mod] || 0);
+    return newAcc;
+  }, new Array(k).fill(0));
 }
 
-function getAllSubsetsOfTwo(arr) {
-  const result = arr.reduce((acc,el,i) => {
-    return [...acc, ...arr.slice(i+1).map(elem => [el, elem])]
-  }, []);
+function proceedHistogram(histogram) {
+  const k = histogram.length;
+  let result = 0;
+  if (histogram[0]) result++;
+  for (let i = 1; i < Math.ceil(k / 2); i++) {
+    result += Math.max(histogram[i], histogram[k - i]);
+  }
+  if (Number.isInteger(k / 2)) result++;
   return result;
 }
 
 function nonDivisibleSubset(k, s) {
-  const allSubsets = getAllSubsetsSorted(s);
-  const goodSubset = allSubsets.find(subset => isGood(k, subset));
-  return goodSubset.length;
+  const histogram = makeHistogram(k, s);
+  return proceedHistogram(histogram);
 }
 
-function isGood(k, subset) {
-  const subsetsOfTwo = getAllSubsetsOfTwo(subset);
-  return subsetsOfTwo.reduce((acc, subset) => acc && ((subset[0] + subset[1]) % k != 0));
-}
 // ===========================
 
-console.log(nonDivisibleSubset(k, s));
+const result = nonDivisibleSubset(k, s);
 
+console.log(result);
