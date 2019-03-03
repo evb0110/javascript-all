@@ -24,12 +24,17 @@ for (let i = 0; i < textus.length; i++) {
       let text = textus[i].texts[j]
       for (let k = 0; k < text.contents.length; k++) {
         let line = text.contents[k]
-        line.versio = versio[i].texts[j].contents[k].textus;
+        // try {
+
+          line.versio = versio[i].texts[j].contents[k].textus;
+        // } catch(e) {
+        //   console.log(i, j, k, versio[i].texts[j])
+        // }
       }
     }
   }
 }
-console.log(JSON.stringify(textus, null, 2));
+// console.log(JSON.stringify(textus, null, 2));
 
 
 
