@@ -13,16 +13,16 @@ function inside(r, c, n) {
   return r > 0 && r <= n && c > 0 && c <= n;
 }
 
-function calculateUnderAttack([rq, cq], n, obstaclesS) {
-  const obstaclesSet = new Set(obstaclesS);
-  const ll = [];
-  const lu = [];
-  const uu = [];
-  const ru = [];
-  const rr = [];
-  const rd = [];
-  const dd = [];
-  const ld = [];
+function calculateUnderAttack(rq, cq, n, obstaclesString) {
+  const obstaclesSet = new Set(obstaclesString);
+  const ll = [];  // left from the queen
+  const lu = [];  // left up
+  const uu = [];  // up
+  const ru = [];  // right up
+  const rr = [];  // right
+  const rd = [];  // right down
+  const dd = [];  // down
+  const ld = [];  // left down
   for (let c = cq - 1; c >= 1; c--) {
     let r = rq;
     let square = [r, c].toString();
@@ -80,8 +80,8 @@ function calculateUnderAttack([rq, cq], n, obstaclesS) {
 }
 
 function queensAttack(n, _, rq, cq, obstacles) {
-  const obstaclesS = obstacles.map(el => el.toString());
-  const underAttack = calculateUnderAttack([rq, cq], n, obstaclesS);
+  const obstaclesStrings = obstacles.map(el => el.toString());
+  const underAttack = calculateUnderAttack(rq, cq, n, obstaclesStrings);
   const underAttackFlat = underAttack.reduce((acc, el) => [...acc, ...el]);
   return underAttackFlat.length;
 }
