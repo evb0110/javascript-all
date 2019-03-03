@@ -75,8 +75,7 @@ function calculateUnderAttack(rq, cq, n, obstaclesString) {
     if (obstaclesSet.has(square)) break;
     ld.push(square);
   }
-  const result = [ll, lu, uu, ru, rr, rd, dd, ld];
-  return result;
+  return [ll, lu, uu, ru, rr, rd, dd, ld];
 }
 
 function queensAttack(n, _, rq, cq, obstacles) {
