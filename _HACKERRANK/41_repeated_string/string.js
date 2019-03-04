@@ -5,9 +5,9 @@ const n = 1000000000000;
 function repeatedString(s, n) {
   const statsA = makeStatsA(s);
   const len = s.length;
-  return statsA.reduce((acc, el) => {
-    return acc + oneA(el, len, n)
-  }, 0);
+  return statsA.reduce((acc, el) => (
+    acc + oneA(el, len, n)
+  ), 0);
 }
 
 function oneA(number, period, n) {
