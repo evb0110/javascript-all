@@ -12,17 +12,16 @@ const [[n, k], arr] = input
   .split(/\n/)
   .map(line => line.split(/\s+/).map(s => +s));
 
-
 // ======================================
 function workbook(_, k, arr) {
   const arrayOfPages = makeArrayOfPages(k, arr);
-  return arrayOfPages.filter((el, i) => el.includes(i+1)).length;
+  return arrayOfPages.filter((el, i) => el.includes(i + 1)).length;
 }
 
 function makeArrayOfPages(k, arr) {
   return arr.reduce((acc, el) => {
-    return [...acc, ...makeChapterToPages(k, el)]
-  }, [])
+    return [...acc, ...makeChapterToPages(k, el)];
+  }, []);
 }
 
 function makeChapterToPages(k, chapter) {
