@@ -8,4 +8,5 @@ function areThereDuplicates(...array) {
 }
 
 
+
 console.log(areThereDuplicates(1,2,2))
