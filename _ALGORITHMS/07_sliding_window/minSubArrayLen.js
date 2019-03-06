@@ -1,12 +1,17 @@
 function minSubArrayLen(arr, num) {
   let minLen = +Infinity;
-  for (const chunk of makeChunkIterator(arr, num)) {
-    if (chunk.sum >= num) {
-      minLen = Math.min(minLen, chunk.len);
-    }
+  for (const chunk of makeFilteredChunkIterator(arr, num)) {
+    console.log(chunk);
+    minLen = Math.min(minLen, chunk.len);
   }
   if (minLen === Infinity) return 0;
   return minLen;
+}
+
+function* makeFilteredChunkIterator(arr, num) {
+  for (const chunk of makeChunkIterator(arr, num)) {
+    if (chunk.sum >= num) yield chunk;
+  }
 }
 
 function* makeChunkIterator(arr, num) {
@@ -30,4 +35,4 @@ function* makeChunkIterator(arr, num) {
 }
 
 
-console.log(minSubarrayLen([2, 3, 1, 2, 4, 3], 7))
+console.log(minSubArrayLen([2, 3, 1, 2, 4, 3], 7))
