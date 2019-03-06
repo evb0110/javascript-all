@@ -3,33 +3,33 @@ const input = fs.readFileSync('input.txt', 'utf8');
 
 const lines = input.split(/\n/);
 const n = +lines[0];
-const map = lines.slice(1).map(ln => ln.split('').map(s => +s));
-console.log(map);
+const grid = lines.slice(1).map(ln => ln.split('').map(s => +s));
+console.log(grid);
 console.log(n);
 
-function cavityMap(map) {
-  const n = map.length;
-  const newmap = [];
+function cavityMap(grid) {
+  const n = grid.length;
+  const newGrid = [];
   for (let i = 0; i < n; i++) {
-    newmap[i] = [];
+    newGrid[i] = [];
     for (let j = 0; j < n; j++) {
       if (i * j === 0 || (i - n + 1) * (j - n + 1) === 0) {
-        newmap[i][j] = map[i][j];
+        newGrid[i][j] = grid[i][j];
         continue;
       }
-      const top = map[i - 1][j];
-      const bottom = map[i + 1][j];
-      const left = map[i][j - 1];
-      const right = map[i][j + 1];
-      const center = map[i][j];
+      const top = grid[i - 1][j];
+      const bottom = grid[i + 1][j];
+      const left = grid[i][j - 1];
+      const right = grid[i][j + 1];
+      const center = grid[i][j];
       if (center > top && center > bottom && center > right && center > left) {
-        newmap[i][j] = 'X';
+        newGrid[i][j] = 'X';
         continue;
       }
-      newmap[i][j] = map[i][j];
+      newGrid[i][j] = grid[i][j];
     }
   }
-  return newmap.map(ln => ln.join(''));
+  return newGrid.map(ln => ln.join(''));
 }
 
-console.log(cavityMap(map));
+console.log(cavityMap(grid));
