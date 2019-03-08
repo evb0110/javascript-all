@@ -1,4 +1,5 @@
 function stringSearch(long, short) {
+  if (short.length === 0) return;
   const result = [];
   outer: for (let i = 0; i < long.length - short.length + 1; i++) {
     for (let j = 0; j < short.length; j++) {
@@ -6,8 +7,7 @@ function stringSearch(long, short) {
     }
     result.push(i);
   }
-  if (result.length) return result;
-  return [-1];
+  return result;
 }
 
-console.log(stringSearch('warihoorohoori', 'oo'));
+console.log(stringSearch('warihoorohoori', 'zo'));
