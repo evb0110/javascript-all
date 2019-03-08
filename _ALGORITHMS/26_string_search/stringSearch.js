@@ -1,12 +1,13 @@
-function stringSearch(target, str) {
+function stringSearch(long, short) {
   const result = [];
-  outer: for (let i = 0; i < target.length - str.length + 1; i++) {
-    for (let j = 0; j < str.length; j++) {
-      if (target[i + j - 1] !== str[j]) continue outer;
+  outer: for (let i = 0; i < long.length - short.length + 1; i++) {
+    for (let j = 0; j < short.length; j++) {
+      if (long[i + j - 1] !== short[j]) continue outer;
     }
     result.push(i);
   }
-  console.log(result);
+  return result
 }
 
-stringSearch('wahoorohoori', 'hoo');
+console.log(stringSearch('wahoorohoori', 'hoo'));
+
