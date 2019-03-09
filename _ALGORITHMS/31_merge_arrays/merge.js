@@ -10,14 +10,11 @@ function merge(arr1, arr2) {
       result.push(arr2[start2++]);
     }
   }
-  if (start1 == arr1.length) {
-    for (let i = start2; i < arr2.length; i++) {
-      result.push(arr2[i]);
-    }
-  } else if (start2 == arr2.length) {
-    for (let i = start1; i < arr1.length; i++) {
-      result.push(arr1[i]);
-    }
+  while (start1 < arr1.length) {
+    result.push(arr1[start1++]);
+  }
+  while (start2 < arr2.length) {
+    result.push(arr2[start2++]);
   }
 
   return result;
