@@ -4,7 +4,7 @@ function selectionSort(inputArray) {
   let end = arr.length - 1;
   while (start < end) {
     const minIdx = findMinIdx(arr, start, end);
-    swapElems(arr, start, minIdx);
+    if (start !== minIdx) swapElems(arr, start, minIdx);
     start++;
   }
   return arr;
