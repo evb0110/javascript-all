@@ -21,7 +21,7 @@ function quickSort(arr) {
 
 // const arr = [5, 2, 7, 2, 3, 7, 33, 6, 34, 234, 21];
 const arr = [];
-for (let i = 0; i < 1e7; i++) {
+for (let i = 0; i < 1e5; i++) {
   arr.push(Math.random());
 }
 const result = quickSort(arr);
