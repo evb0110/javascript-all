@@ -20,7 +20,7 @@ function gridSearch(G, P) {
       matchesArray.push(matches);
     }
   }
-  return matchesArray.filter(el => arrayWithIntersections(el) > 0).length > 0 ? 'YES' : 'NO';
+  return matchesArray.filter(arrayWithIntersections).length ? 'YES' : 'NO';
 }
 
 function indicesOf(large, small) {
@@ -33,7 +33,7 @@ function indicesOf(large, small) {
 }
 
 function arrayWithIntersections(arr) {
-  return arr.reduce((acc, el) => arrIntersection(acc, el)).length; 
+  return arr.reduce(arrIntersection).length; 
 }
 
 function arrIntersection(arr1, arr2) {
