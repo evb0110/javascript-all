@@ -14,16 +14,16 @@ function gridSearch(G, P) {
     for (let k = 0; k < P.length; k++) {
       let large = G[i + k];
       let small = P[k];
-      matches.push(indices(large, small));
+      matches.push(indicesOf(large, small));
     }
     if (matches.length) {
       matchesArray.push(matches);
     }
   }
-  return matchesArray.filter(el => goodArray(el) > 0).length > 0 ? 'YES' : 'NO';
+  return matchesArray.filter(el => arrayWithIntersections(el) > 0).length > 0 ? 'YES' : 'NO';
 }
 
-function indices(large, small) {
+function indicesOf(large, small) {
   const result = [];
   let idx = 0;
   while (~(idx = large.indexOf(small, idx))) {
@@ -32,7 +32,7 @@ function indices(large, small) {
   return result;
 }
 
-function goodArray(arr) {
+function arrayWithIntersections(arr) {
   return arr.reduce((acc, el) => arrIntersection(acc, el)).length; 
 }
 
