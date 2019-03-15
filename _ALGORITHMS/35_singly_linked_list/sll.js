@@ -51,6 +51,16 @@ class SLL {
       }
     }
   }
+  shift() {
+    if (!this.head) {
+      return;
+    } else {
+      const temp = this.head;
+      this.head = this.head.next;
+      this.length--;
+      return temp;
+    }
+  }
 }
 
 const sll = new SLL;
@@ -61,11 +71,7 @@ console.log(sll);
 sll.push('!');
 console.log(sll);
 
-console.log('popped: ', sll.pop());
+console.log('shifted', sll.shift());
 console.log(sll);
-console.log('popped: ', sll.pop());
-console.log(sll);
-console.log('popped: ', sll.pop());
-console.log(sll);
-console.log('popped: ', sll.pop());
-console.log(sll);
+
+
