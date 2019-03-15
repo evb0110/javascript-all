@@ -55,10 +55,11 @@ class SLL {
     if (!this.head) {
       return;
     } else {
-      const temp = this.head;
+      const currentHead = this.head;
       this.head = this.head.next;
       this.length--;
-      return temp;
+      if (this.length === 0) this.tail = null;
+      return currentHead;
     }
   }
 }
