@@ -31,6 +31,11 @@ class SLL {
   pop() {
     if (!this.head) {
       return;
+    } else if (this.length === 1) {
+      let current = this.head;
+      this.head = this.tail = null;
+      this.length--;
+      return current;
     } else {
       let current = this.head;
       let next = current.next;
@@ -57,4 +62,8 @@ sll.push('!');
 console.log(sll);
 
 console.log('popped: ', sll.pop());
-sll.traverse();
+console.log(sll);
+console.log('popped: ', sll.pop());
+console.log(sll);
+console.log('popped: ', sll.pop());
+console.log(sll);
