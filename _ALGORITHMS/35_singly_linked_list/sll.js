@@ -55,23 +55,28 @@ class SLL {
     if (!this.head) {
       return;
     } else {
-      const temp = this.head;
+      const oldHead = this.head;
       this.head = this.head.next;
       this.length--;
-      return temp;
+      if (this.length === 0) {
+        this.head = this.tail = null;
+      }
+      return oldHead;
     }
+  }
+  unshift(val) {
+    if (!this.head) {
+      this.head = this.tail = val;
+    } else {
+      const futureHead = new Node(val);
+      futureHead.next = this.head;
+      this.head = futureHead;
+    }
+    this.length++;
   }
 }
 
-const sll = new SLL;
+const sll = new SLL();
 sll.push('Hello');
+sll.unshift('world');
 console.log(sll);
-sll.push('World');
-console.log(sll);
-sll.push('!');
-console.log(sll);
-
-console.log('shifted', sll.shift());
-console.log(sll);
-
-
