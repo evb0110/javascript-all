@@ -67,3 +67,5 @@ console.log('popped: ', sll.pop());
 console.log(sll);
 console.log('popped: ', sll.pop());
 console.log(sll);
+console.log('popped: ', sll.pop());
+console.log(sll);
