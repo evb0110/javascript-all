@@ -55,13 +55,6 @@ class SLL {
     if (!this.head) {
       return;
     } else {
-<<<<<<< HEAD
-      const currentHead = this.head;
-      this.head = this.head.next;
-      this.length--;
-      if (this.length === 0) this.tail = null;
-      return currentHead;
-=======
       const oldHead = this.head;
       this.head = this.head.next;
       this.length--;
@@ -78,7 +71,6 @@ class SLL {
       const futureHead = new Node(val);
       futureHead.next = this.head;
       this.head = futureHead;
->>>>>>> 3f77eebc3e0505c8370177565fe322bc23c9586a
     }
     this.length++;
   }
