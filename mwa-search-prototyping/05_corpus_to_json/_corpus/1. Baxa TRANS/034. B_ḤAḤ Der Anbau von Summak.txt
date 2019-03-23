@@ -1,4 +1,4 @@
-﻿001. Ich habe ein Feld, das ich mit Summak bepflanzen möchte. Das Feld ist zwanzig Hektar groß.
+001. Ich habe ein Feld, das ich mit Summak bepflanzen möchte. Das Feld ist zwanzig Hektar groß.
 002. Im Sommer ging ich hin und grub die Setzlöcher.
 003. Ich hob Gruben aus, eine Grube etwa 70 Zentimeter tief und einen halben Meter breit.
 004. Ich grub alle zwei Meter oder alle eineinhalb Meter ein Setzloch.

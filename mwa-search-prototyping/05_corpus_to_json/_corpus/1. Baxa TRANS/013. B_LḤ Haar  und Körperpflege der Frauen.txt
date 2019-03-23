@@ -1,4 +1,4 @@
-﻿001. Wir wollen heute unsere Köpfe waschen.
+001. Wir wollen heute unsere Köpfe waschen.
 002. Wir haben Kopfsand gebracht.
 003. Diesen Kopfsand holen wir aus der Sandgrube.
 004. Aus der Sandgrube, wir weichen ihn in einer Schüssel ein, wir machen diesen...

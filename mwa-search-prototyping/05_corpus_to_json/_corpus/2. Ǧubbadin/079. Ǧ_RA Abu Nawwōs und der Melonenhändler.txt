@@ -1,4 +1,4 @@
-﻿001. yōma m-yumū aḳam abu nawwōs w zalle bi-ysōfar mə-blōta lə-blōta.
+001. yōma m-yumū aḳam abu nawwōs w zalle bi-ysōfar mə-blōta lə-blōta.
 002. zalle ilḥaḳ zaləmṯa ḥammel šlīfa imlay baṭṭixō, amelle...
 003. laḥḳe — iṣhay abu nawwōs — amelle: «čmappīlay baṭṭīxča, nawəlfennax čeləmṯa?»
 004. amelle: «sōb baṭṭīxča!»
@@ -87,7 +87,7 @@
 087. ntōriṯ b-ān blatō, hōn mal nḥōm awḏ̣ṯa nmaffeḳi lō siččīna yiḥmunna.
 088. hōn mal nḥōm mažəlsa nmaffeḳi lō siččīna yiḥmunna maxramča barnaš yičʕarraf eʕla.
 089. ti mičʕarraf eʕla ib hanna nxīsil_ōbuy.
-090. imṭiṯ l-mažəlsi harūn ər-rašīd, affḳičči lō siččīna — ōyṯ baṭṭīxča yčubrunna bāh —, ḳaṣṣōta naffīḳla maxramča barnaš yišʕarraf eʕla, ōmar harūn ər-rašīd: hōḏen līlay, ti mamlačṯay, hō siččīna līlay. 
+090. imṭiṯ l-mažəlsi harūn ər-rašīd, affḳičči lō siččīna — ōyṯ baṭṭīxča yčubrunna bāh —, ḳaṣṣōta naffīḳla maxramča barnaš yičʕarraf eʕla, ōmar harūn ər-rašīd: hōḏen līlay, ti mamlačṯay, hō siččīna līlay. 
 091. maʕnūyṯa harūn ər-rašīd nxīsil_ōbuy».
 092. «mā čōmar yā harūn ər-rašīd?»
 093. amelle: «lā, ya sītay, hū nġībla m-mamlačṯa».
