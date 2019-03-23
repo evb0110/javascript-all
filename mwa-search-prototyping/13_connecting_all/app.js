@@ -1,3 +1,18 @@
+import data from './datafile.js';
+import grep from './grep.js';
+
+// =====================================================
+for (vol of data) {}
+
+
+
+
+const chunk = data[0].texts[0].contents[0].textus;
+const testDiv = grep(chunk, /ṯlē/g);
+console.log(testDiv);
+document.querySelector('header').append(testDiv);
+// =====================================================
+
 function handleShowContextClick() {
   handleShow();
   handleScroll();
@@ -6,14 +21,14 @@ function handleShowContextClick() {
 const searchButton = document.querySelector('#search');
 const showButton = document.querySelector('#show');
 
-searchButton.addEventListener('click', handleSearch )
+searchButton.addEventListener('click', handleSearch);
 
 function handleSearch(event) {
   event.preventDefault();
   console.log('Search button clicked');
 }
 
-showButton.addEventListener('click', handleShow )
+showButton.addEventListener('click', handleShow);
 
 function handleShow(event) {
   event.preventDefault();
@@ -47,7 +62,7 @@ const aCard = `<div id="card" class="inner card">
   Haus des Mannes und sagte zu ihm: »Verschwinde (wörtl.: geh hinaus)
   von hier, die Frau ist jetzt meine Ehefrau!«
 </div>
-</div>`
+</div>`;
 
 let tenCards = '';
 for (let i = 0; i < 10; i++) {
@@ -59,12 +74,11 @@ container1.innerHTML = tenCards;
 const container2 = document.querySelector('.container2');
 container2.innerHTML = tenCards;
 
-
 const testButton = document.querySelector('.test');
 testButton.addEventListener('click', function() {
   event.preventDefault();
-  console.log('before test')
-  for (let i = 0; i < 3e9; i++) {
-  }
-  console.log('after test')
+  console.log('before test');
+  // for (let i = 0; i < 3e9; i++) {
+  // }
+  console.log('after test');
 });
