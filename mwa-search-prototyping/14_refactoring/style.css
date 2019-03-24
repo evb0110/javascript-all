@@ -1,0 +1,153 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.redbold {
+  color: red;
+  font-weight: bold;
+  justify-content: stretch;
+}
+
+header {
+  position: relative;
+  width: 100%;
+  background: rgba(42, 187, 180, 0.144);
+  box-shadow: 0 1px 1px 1px rgba(99, 100, 99, 0.5);
+  z-index: 10;
+  text-align: center;
+}
+
+.pagetitle {
+  margin: 0;
+  padding: 0 0 1vw 0;
+  font-family: "Bree Serif", serif;
+  font-weight: normal;
+  font-size: 4vw;
+  line-height: 1;
+  background: rgb(245, 255, 253);
+  color: rgba(126, 10, 10);
+  border-bottom: 1px solid lightgrey;
+}
+
+.block {
+  display: block;
+}
+
+.none {
+  display: none;
+}
+
+.btn {
+  font-size: 2vw;
+  font-weight: bold;
+  margin: 0 0.5vw;
+  border: none;
+  padding: 0.3vw 1vw;
+  background: rgb(145, 7, 7, 0.6);
+  color: white;
+  border-radius: 0.4vw;
+  box-shadow: 0px 0.1vw 0.1vw 0.1vw gray;
+  text-decoration: none;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: rgb(145, 7, 7, 0.8);
+  box-shadow: 0px 0.05vw 0.05vw 0.05vw gray;
+}
+.btn:active {
+  cursor: pointer;
+  background-color: rgb(145, 7, 7, 1);
+  box-shadow: none;
+}
+
+.forms {
+  display: flex;
+  width: 100%;
+}
+
+.form {
+  flex: 1;
+  display: flex;
+  padding: 1vw;
+  justify-content: center;
+}
+
+input {
+  padding: 0vw;
+  font-size: 2vw;
+  margin: 0 0.3vw;
+  border-radius: 0.4vw;
+  outline: none;
+}
+input::placeholder {
+  color: rgb(196, 192, 192);
+}
+
+.super {
+  display: flex;
+  width: 100%;
+}
+
+.outer {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.inner {
+  min-height: 10vw;
+  padding: 2vw;
+  font-size: 1.3vw;
+}
+
+.card {
+  background: rgb(245, 255, 253);
+  margin: 0.5vw;
+  padding: 0.5vw;
+  border: 1px solid lightgrey;
+
+}
+
+.textus,
+.versio,
+.card-header {
+  margin: 0.5vw;
+  padding: 0.5vw;
+  line-height: 1.5;
+}
+
+.volume,
+.inline-separator,
+.text-name {
+  display: inline;
+  color: darkred;;
+  font-size: 1.3vw;
+  cursor: pointer;
+}
+
+
+
+.inline-separator {
+  color: darkred;
+}
+.versio {
+  color: darkblue;
+}
+
+.blue {
+  background: lightblue;
+}
+
+
+@media (min-width: 1500px) {
+
+}
