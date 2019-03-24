@@ -13,7 +13,7 @@ function handleSearch(event) {
   emptyElement(outer1);
 
   const searchString = searchBox.value;
-  if (searchString.length < 1 || searchString == ' ') return;
+  if (searchString.length < 1 || /^\s+$/.test(searchString)) return;
 
   const searchRegex = RegExp(searchString, 'g');
 
