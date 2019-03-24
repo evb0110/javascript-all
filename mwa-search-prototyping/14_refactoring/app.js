@@ -11,7 +11,7 @@ searchButton.addEventListener('click', handleSearch);
 function handleSearch(event) {
   event.preventDefault();
   emptyElement(outer1);
-  
+
   const searchString = searchBox.value;
   if (searchString.length < 1 || searchString == ' ') return;
 
