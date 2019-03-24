@@ -2,7 +2,8 @@ function divAndColorify (str, regex = /^.*$/, classColor = 'redbold', tag = 'div
   const splitText = str.split(regex);
 
   if (splitText.length <= 1) {
-    return makeDiv(str);
+    return;
+    // return makeDiv(str);
   }
   const matches = str.match(regex);
   const totalNode = document.createElement(tag);

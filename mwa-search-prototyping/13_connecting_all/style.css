@@ -129,7 +129,7 @@ input::placeholder {
 .inline-separator,
 .text-name {
   display: inline;
-  color: rgb(88, 88, 88);
+  color: darkred;;
   font-size: 1.3vw;
   cursor: pointer;
 }
