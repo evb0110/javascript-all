@@ -22,7 +22,7 @@ export default function proceedCorpus(data, regex, container) {
   }
 }
 
-function proceedLine({ volume, textName, textus, versio, regex }) {
+export function proceedLine({ volume, textName, textus, versio, regex }) {
 
   const volumeNode = createDivTextNode('volume', volume);
   const inlineSeparatorNode = createDivTextNode('inline-separator', ' | ');
@@ -32,7 +32,12 @@ function proceedLine({ volume, textName, textus, versio, regex }) {
   appendChildren(cardHeader, [volumeNode, inlineSeparatorNode, textNameNode]);
 
   const textusNode = createDivTextNode('textus');
-  const textusGrepped = colorify(textus, regex);
+  let textusGrepped;
+  if (regex) {
+    textusGrepped = colorify(textus, regex);
+  } else {
+    textusGrepped = colorify(textus);
+  }
   textusNode.appendChild(textusGrepped);
 
   const versioNode = createDivTextNode('versio', versio);
