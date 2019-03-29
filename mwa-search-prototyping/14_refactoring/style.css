@@ -28,10 +28,10 @@ header {
 
 .pagetitle {
   margin: 0;
-  padding: 0 0 1vw 0;
+  padding: 0 0 1rem 0;
   font-family: 'Bree Serif', serif;
   font-weight: normal;
-  font-size: 4vw;
+  font-size: 3rem;
   line-height: 1;
   background: rgb(245, 255, 253);
   color: rgba(126, 10, 10);
@@ -47,22 +47,22 @@ header {
 }
 
 .btn {
-  font-size: 2vw;
+  font-size: 1.5rem;
   font-weight: bold;
-  margin: 0 0.5vw;
+  margin: 0 0.2rem;
   border: none;
-  padding: 0.3vw 1vw;
+  padding: 0.15rem 1rem;
   background: rgb(145, 7, 7, 0.6);
   color: white;
-  border-radius: 0.4vw;
-  box-shadow: 0px 0.1vw 0.1vw 0.1vw gray;
+  border-radius: 0.2rem;
+  box-shadow: 0px 0.1rem 0.1rem 0.1rem gray;
   text-decoration: none;
 }
 
 .btn:hover {
   cursor: pointer;
   background-color: rgb(145, 7, 7, 0.8);
-  box-shadow: 0px 0.05vw 0.05vw 0.05vw gray;
+  box-shadow: 0px 0.02rem 0.02rem 0.02rem gray;
 }
 .btn:active {
   cursor: pointer;
@@ -78,15 +78,15 @@ header {
 .form {
   flex: 1;
   display: flex;
-  padding: 1vw;
+  padding: 0.5rem;
   justify-content: center;
 }
 
 input {
   padding: 0vw;
-  font-size: 2vw;
-  margin: 0 0.3vw;
-  border-radius: 0.4vw;
+  font-size: 1.3rem;
+  margin: 0 0.15rem;
+  border-radius: 0.2rem;
   outline: none;
 }
 input::placeholder {
@@ -105,23 +105,23 @@ input::placeholder {
 }
 
 .inner {
-  min-height: 10vw;
-  padding: 2vw;
-  font-size: 1.3vw;
+  /* min-height: 5rem; */
+  padding: 1rem;
+  font-size: 1rem;
 }
 
 .card {
   background: rgb(245, 255, 253);
-  margin: 0.5vw;
-  padding: 0.5vw;
+  margin: 0.25rem;
+  padding: 0.25rem;
   border: 1px solid lightgrey;
 }
 
 .textus,
 .versio,
 .card-header {
-  margin: 0.5vw;
-  padding: 0.5vw;
+  margin: 0.25rem;
+  padding: 0.25rem;
   line-height: 1.5;
 }
 
@@ -130,7 +130,7 @@ input::placeholder {
 .text-name {
   display: inline;
   color: darkred;
-  font-size: 1.3vw;
+  font-size: 1rem;
   cursor: pointer;
 }
 
