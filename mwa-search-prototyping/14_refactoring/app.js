@@ -31,7 +31,7 @@ function handleSearch(event) {
 function handleShow(event) {
   event.preventDefault();
   emptyElement(outer2);
-  outer1.scrollTop = 0;
+  outer2.scrollTop = 0;
 
   const volumeNumber = +volumeNumberBox.value;
   const textNumber = +textNumberBox.value;
