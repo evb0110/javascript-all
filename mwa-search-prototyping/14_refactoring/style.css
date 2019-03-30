@@ -153,12 +153,16 @@ input::placeholder {
   .pagetitle {
     font-size: 2rem;
   }
-  #searchbox {
+  #searchbox, #volume_number, #text_number {
     font-size: 1.2rem;
   }
   .btn {
     font-size: 1rem;
     padding: 0rem 0.4rem;
+  }
+  .card {
+    margin: 0;
+    padding: 0;
   }
 }
 
@@ -169,8 +173,5 @@ input::placeholder {
   .outer2 {
     display: none;
   }
-  .card {
-    margin: 0;
-    padding: 0;
-  }
+
 }
