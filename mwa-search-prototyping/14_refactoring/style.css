@@ -28,7 +28,7 @@ header {
 
 .pagetitle {
   margin: 0;
-  padding: 0 0 1rem 0;
+  padding: 0.3rem 0 0.5rem 0;
   font-family: 'Bree Serif', serif;
   font-weight: normal;
   font-size: 3rem;
@@ -149,5 +149,24 @@ input::placeholder {
   color: black;
 }
 
-@media (min-width: 1500px) {
+@media (max-width: 900px) {
+  .pagetitle {
+    font-size: 2rem;
+  }
+  #searchbox {
+    font-size: 1.2rem;
+  }
+  .btn {
+    font-size: 1rem;
+    padding: 0rem 0.4rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .right {
+    display: none;
+  }
+  .outer2 {
+    display: none;
+  }
 }
