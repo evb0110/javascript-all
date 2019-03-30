@@ -11,6 +11,7 @@ searchButton.addEventListener('click', handleSearch);
 function handleSearch(event) {
   event.preventDefault();
   emptyElement(outer1);
+  outer1.scrollTop = 0;
 
   const searchString = searchBox.value;
   if (searchString.length < 1 || /^\s+$/.test(searchString)) return;
@@ -30,11 +31,13 @@ showButton.addEventListener('click', handleShow);
 function handleShow(event) {
   event.preventDefault();
   emptyElement(outer2);
+  outer1.scrollTop = 0;
+
   const volumeNumber = +volumeNumberBox.value;
   const textNumber = +textNumberBox.value;
 
-  if (Number.isNaN(volumeNumber)) outer2.innerHTML = 'Invalid volumeNumber';
-  if (Number.isNaN(textNumber)) outer2.innerHTML = 'Invalid textNumber';
+  if (Number.isNaN(volumeNumber)) outer2.innerHTML = 'volumeNumber should be a valid number';
+  if (Number.isNaN(textNumber)) outer2.innerHTML = 'textNumber should be a valid number';
 
   produceText(data, volumeNumber, textNumber, outer2);
 }
@@ -47,13 +50,15 @@ outer1.onscroll = hideHeader;
 outer2.onscroll = hideHeader;
 const pagetitle = document.querySelector('.pagetitle');
 
-var prevScrollpos = outer1.scrollTop || outer2.scrollTop;
-function hideHeader() {
-  var currentScrollPos = outer1.scrollTop || outer2.scrollTop;
+let prevScrollpos;
+function hideHeader(event) {
+  const currentScrollPos = event.target.scrollTop;
   if (prevScrollpos > currentScrollPos) {
-    pagetitle.style.display = 'block';
+    pagetitle.classList.add('block');
+    pagetitle.classList.remove('none');
   } else {
-    pagetitle.style.display = 'none';
+    pagetitle.classList.add('none');
+    pagetitle.classList.remove('block');
   }
   prevScrollpos = currentScrollPos;
 }

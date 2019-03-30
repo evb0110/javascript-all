@@ -20,7 +20,7 @@ body {
 header {
   position: relative;
   width: 100%;
-  background: rgba(42, 187, 180, 0.144);
+  background: rgba(130, 130, 130, 0.144);
   box-shadow: 0 1px 1px 1px rgba(99, 100, 99, 0.5);
   z-index: 10;
   text-align: center;
@@ -33,7 +33,7 @@ header {
   font-weight: normal;
   font-size: 3rem;
   line-height: 1;
-  background: rgb(245, 255, 253);
+  background: rgb(250, 250, 250);
   color: rgba(126, 10, 10);
   border-bottom: 1px solid lightgrey;
 }
@@ -111,7 +111,7 @@ input::placeholder {
 }
 
 .card {
-  background: rgb(245, 255, 253);
+  background: rgb(252, 252, 252);
   margin: 0.25rem;
   padding: 0.25rem;
   border: 1px solid lightgrey;
