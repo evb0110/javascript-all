@@ -42,3 +42,18 @@ function handleShow(event) {
 function emptyElement(el) {
   while (el.firstChild) el.removeChild(el.firstChild);
 }
+
+outer1.onscroll = hideHeader;
+outer2.onscroll = hideHeader;
+const pagetitle = document.querySelector('.pagetitle');
+
+var prevScrollpos = outer1.scrollTop || outer2.scrollTop;
+function hideHeader() {
+  var currentScrollPos = outer1.scrollTop || outer2.scrollTop;
+  if (prevScrollpos > currentScrollPos) {
+    pagetitle.style.display = 'block';
+  } else {
+    pagetitle.style.display = 'none';
+  }
+  prevScrollpos = currentScrollPos;
+}
