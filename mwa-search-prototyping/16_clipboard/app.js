@@ -50,17 +50,7 @@ outer1.onscroll = hideHeader;
 outer2.onscroll = hideHeader;
 const pagetitle = document.querySelector('.pagetitle');
 
-let prevScrollpos;
-function hideHeader(event) {
-  // const currentScrollPos = event.target.scrollTop;
-  // if (prevScrollpos > currentScrollPos) {
-  //   pagetitle.classList.add('block');
-  //   pagetitle.classList.remove('none');
-  // } else {
-  //   pagetitle.classList.add('none');
-  //   pagetitle.classList.remove('block');
-  // }
-  // prevScrollpos = currentScrollPos;
+function hideHeader() {
   if ([outer1, outer2].map(c => c.scrollTop).some(x => x > 0)) {
     pagetitle.classList.add('none');
     pagetitle.classList.remove('block');
@@ -69,21 +59,5 @@ function hideHeader(event) {
     pagetitle.classList.remove('none');
   }
 }
-
-// const copyButton = document.querySelector('.copy_button');
-// copyButton.addEventListener('click', (e) => {
-//   e.preventDefault();
-//   copyToClip();
-// });
-// function copyToClip(str = outer1.innerHTML) {
-//   function listener(e) {
-//     e.preventDefault();
-//     e.clipboardData.setData('text/html', str);
-//     e.clipboardData.setData('text/plain', str);
-//   }
-//   document.addEventListener('copy', listener);
-//   document.execCommand('copy');
-//   document.removeEventListener('copy', listener);
-// }
 
 export { outer1, outer2, emptyElement, volumeNumberBox, textNumberBox };
