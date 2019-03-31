@@ -10,8 +10,7 @@ searchButton.addEventListener('click', handleSearch);
 
 const volumeNumberBox = document.querySelector('#volume_number');
 const textNumberBox = document.querySelector('#text_number');
-export let outer2 = document.querySelector('.outer2');
-
+const outer2 = document.querySelector('.outer2');
 
 const showButton = document.querySelector('#show');
 showButton.addEventListener('click', handleShow);
@@ -44,7 +43,7 @@ function handleShow(event) {
   produceText(data, volumeNumber, textNumber, outer2);
 }
 
-export function emptyElement(el) {
+function emptyElement(el) {
   while (el.firstChild) el.removeChild(el.firstChild);
 }
 
@@ -64,3 +63,6 @@ function hideHeader(event) {
   }
   prevScrollpos = currentScrollPos;
 }
+
+
+export { outer2, emptyElement, volumeNumberBox, textNumberBox }

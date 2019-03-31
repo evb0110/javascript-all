@@ -1,7 +1,7 @@
 import colorify from './helpers.js';
 import produceText from './produceText.js';
 import data from './datafile.js';
-import { outer2 } from './app.js';
+import { outer2, volumeNumberBox, textNumberBox } from './app.js';
 
 export default function proceedCorpus(data, regex, container) {
   for (const vol of data) {
@@ -34,6 +34,7 @@ export function proceedLine({ volume, textName, textus, versio, regex }) {
   cardHeader.addEventListener('click', () =>
     handleHeaderClick(volume, textName),
   );
+  cardHeader.title = 'Click me to show the context';
   appendChildren(cardHeader, [volumeNode, inlineSeparatorNode, textNameNode]);
 
   const textusNode = createDivTextNode('textus');
@@ -71,4 +72,6 @@ function handleHeaderClick(volume, textName) {
   const volumeNumber = +volume[0];
   const textNumber = +textName.slice(0, 3);
   produceText(data, volumeNumber, textNumber, outer2);
+  volumeNumberBox.value = volumeNumber;
+  textNumberBox.value = textNumber;
 }
