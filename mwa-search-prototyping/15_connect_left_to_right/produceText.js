@@ -8,7 +8,7 @@ export default function produceText(volumeNumber, textNumber) {
   const { textName, contents } = vol.texts[textNumber - 1];
   emptyElement(outer2);
   outer2.scrollTop = 0;
-  
+
   for (const line of contents) {
     const { textus, versio } = line;
     const resultCard = proceedLine({
@@ -17,6 +17,9 @@ export default function produceText(volumeNumber, textNumber) {
       textus,
       versio,
     });
+    resultCard.children[0].removeAttribute('title');
+    // removing tooltips from outer2 cards
+    
     outer2.appendChild(resultCard);
   }
 }
