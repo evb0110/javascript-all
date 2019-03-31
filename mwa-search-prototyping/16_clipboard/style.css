@@ -157,11 +157,17 @@ input::placeholder {
   background: green;
 }
 
+.green_background:hover {
+  background: darkgreen;
+}
+
 @media (max-width: 900px) {
   .pagetitle {
     font-size: 2rem;
   }
-  #searchbox, #volume_number, #text_number {
+  #searchbox,
+  #volume_number,
+  #text_number {
     font-size: 1.2rem;
   }
   .btn {
@@ -181,5 +187,4 @@ input::placeholder {
   .outer2 {
     display: none;
   }
-
 }
