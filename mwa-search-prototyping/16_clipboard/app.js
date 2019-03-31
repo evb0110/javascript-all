@@ -1,5 +1,6 @@
 import proceedCorpus from './proceedCorpus.js';
 import produceText from './produceText.js';
+import copyToClipboard from './copyToClipboard.js';
 
 const searchBox = document.querySelector('#searchbox');
 const outer1 = document.querySelector('.outer1');
@@ -59,5 +60,11 @@ function hideHeader() {
     pagetitle.classList.remove('none');
   }
 }
+
+const copyButton = document.querySelector('.copy_button');
+copyButton.addEventListener('click', event => {
+  event.preventDefault();
+  copyToClipboard('.outer1');
+});
 
 export { outer1, outer2, emptyElement, volumeNumberBox, textNumberBox };

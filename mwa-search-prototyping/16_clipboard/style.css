@@ -153,6 +153,10 @@ input::placeholder {
   color: black;
 }
 
+.green_background {
+  background: green;
+}
+
 @media (max-width: 900px) {
   .pagetitle {
     font-size: 2rem;
