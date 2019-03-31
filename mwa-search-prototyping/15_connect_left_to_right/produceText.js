@@ -16,10 +16,11 @@ export default function produceText(volumeNumber, textNumber) {
       textName,
       textus,
       versio,
-    });
-    resultCard.children[0].removeAttribute('title');
-    // removing tooltips from outer2 cards
+    }).cloneNode(true);
+    // cloned to remove event listener from header
     
+    resultCard.children[0].removeAttribute('title');
+
     outer2.appendChild(resultCard);
   }
 }

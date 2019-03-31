@@ -33,8 +33,9 @@ export function proceedLine({ volume, textName, textus, versio, regex }) {
   const textNameNode = createDivTextNode('text-name', textName);
 
   const cardHeader = createDivTextNode('card-header');
-  cardHeader.addEventListener('click', () =>
-    handleHeaderClick(volume, textName),
+  cardHeader.addEventListener(
+    'click',
+    handleHeaderClick.bind(null, volume, textName),
   );
   cardHeader.title = 'Click me to show the context';
   appendChildren(cardHeader, [volumeNode, inlineSeparatorNode, textNameNode]);
