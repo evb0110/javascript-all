@@ -1,4 +1,4 @@
-001. wōṯ iṯṯar skīnin máṯalan b-ʕirōḳ.
+﻿001. wōṯ iṯṯar skīnin máṯalan b-ʕirōḳ.
 002. hann ćūṯ ġayrēn, ḥunō.
 003. ćʕōhat bēl baʕḏ̣inn innu iḏa ṯōx psōna w ana bisnīṯa l-baʕḏ̣inn, w iḏa ṯōl ana psōna, haćć bisnīṯa, l-baʕḏ̣inn.
 004. hann walla isḳel faćərṯa ʕemmil baʕḏ̣inn, baʕdēn iḥkam waḳća ʕlēn, w xull aḥḥaḏ inǧbar innu yićfárraḳun maʕ baʕḏ̣inn.
@@ -32,7 +32,7 @@
 032. natill flanō w flanō, ṯōlun.
 033. «mā ḥmićxun?»
 034. «walla ḥminnaḥ aḥḥaḏ ḏammex bə-frōšəl ḥusən, bass.»
-035. hanna amerəl berćiḏ ḏōḏi — ćū batti yḳuṭlenna, raḥemla laʔinnu — amerla: «ǧahhiz zohəpṯa l-safra, zwōḏa w mō w...»
+035. hanna amerəl berćiḏ ḏōḏi — ćū batti yḳuṭlenna, raḥemla laʔinnu — amerla: «ǧahhiz zohəpṯis safra, zwōḏa w mō w...»
 036. walla ǧáhhazaṯ zohəptis safra, irxap ʕa lanna ḥṣōna, w amar yalla.
 037. isḳel mallxin mallxin, ḥatta ṯōli saǧərṯin naxla, naxla w nabʕil mō erraʕ mn-ōs saǧərṯa.
 038. amar: «waḷḷāhi ćūl ġēr ntaššrenna hōxa w nʕōwet.»
@@ -41,7 +41,7 @@
 041. ḏimxaṯ, šalḥil ʕbōyṯi, ġaṭṭna bā w ʕōwet ʕa tīrći.
 042. hōṯ arkšaṯ, la šćaḥyaṯ barəš.
 043. ṯiḳnaṯ bōxya, mnáććafa p-ḥōla, ćūṯ naćīǧća.
-044. baʕdēn hōṯ ōxla mn-ōṯ saǧərṯić ćamra — nḳaṭṭʕaṯ — ōxla mn-ōs saǧərṯić ćamra w šōćya mn-anna nabʕa, w mʕōwta ḳaʕyōla p-saǧərṯa.
+044. baʕdēn hōṯ ōxla mn-ōṯ saǧərṯić ćamra — nḳaṭʕaṯ — ōxla mn-ōs saǧərṯić ćamra w šōćya mn-anna nabʕa, w mʕōwta ḳaʕyōla p-saǧərṯa.
 045. hanna ṯōli amīra awret ʕal-anna nabʕa ḥatta yašḳell ḥṣōne, sayyōta.
 046. wōb mićsayyat w yiḏḏeʕəl lōṯ baḥərṯa w ṯōli ḥatta yašḳell ḥṣōni.
 047. xyōla hī m-saǧərṯa b-baḥərṯa, b-ōṯ burkṯil mō.
