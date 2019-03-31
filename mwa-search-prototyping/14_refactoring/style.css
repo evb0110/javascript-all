@@ -96,6 +96,7 @@ input::placeholder {
 .super {
   display: flex;
   width: 100%;
+  min-height: 0;
 }
 
 .outer {

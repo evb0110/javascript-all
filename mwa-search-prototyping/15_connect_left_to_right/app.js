@@ -1,4 +1,3 @@
-import data from './datafile.js';
 import proceedCorpus from './proceedCorpus.js';
 import produceText from './produceText.js';
 
@@ -17,30 +16,30 @@ showButton.addEventListener('click', handleShow);
 
 function handleSearch(event) {
   event.preventDefault();
-  emptyElement(outer1);
-  outer1.scrollTop = 0;
 
   const searchString = searchBox.value;
   if (searchString.length < 1 || /^\s+$/.test(searchString)) return;
-
   const searchRegex = RegExp(searchString, 'g');
 
-  proceedCorpus(data, searchRegex, outer1);
+  proceedCorpus(searchRegex);
 }
 
 function handleShow(event) {
   event.preventDefault();
-  outer2.scrollTop = 0;
 
   const volumeNumber = +volumeNumberBox.value;
   const textNumber = +textNumberBox.value;
 
-  if (Number.isNaN(volumeNumber))
-    outer2.innerHTML = 'volumeNumber should be a valid number';
-  if (Number.isNaN(textNumber))
-    outer2.innerHTML = 'textNumber should be a valid number';
+  if (Number.isNaN(volumeNumber)) {
+    emptyElement(outer2);
+    return outer2.textContent = 'volumeNumber should be a valid number';
+  }
+  if (Number.isNaN(textNumber)) {
+    emptyElement(outer2);
+    return outer2.textContent = 'textNumber should be a valid number';
+  }
 
-  produceText(data, volumeNumber, textNumber, outer2);
+  produceText(volumeNumber, textNumber);
 }
 
 function emptyElement(el) {
@@ -64,5 +63,4 @@ function hideHeader(event) {
   prevScrollpos = currentScrollPos;
 }
 
-
-export { outer2, emptyElement, volumeNumberBox, textNumberBox }
+export { outer1, outer2, emptyElement, volumeNumberBox, textNumberBox };

@@ -1,9 +1,11 @@
 import colorify from './helpers.js';
 import produceText from './produceText.js';
 import data from './datafile.js';
-import { outer2, volumeNumberBox, textNumberBox } from './app.js';
+import { outer1, emptyElement, volumeNumberBox, textNumberBox } from './app.js';
 
-export default function proceedCorpus(data, regex, container) {
+export default function proceedCorpus(regex) {
+  emptyElement(outer1);
+  outer1.scrollTop = 0;
   for (const vol of data) {
     const { volume, texts } = vol;
     for (const text of texts) {
@@ -18,7 +20,7 @@ export default function proceedCorpus(data, regex, container) {
             versio,
             regex,
           });
-          container.appendChild(resultCard);
+          outer1.appendChild(resultCard);
         }
       }
     }
@@ -71,7 +73,7 @@ function appendChildren(element, childrenArray) {
 function handleHeaderClick(volume, textName) {
   const volumeNumber = +volume[0];
   const textNumber = +textName.slice(0, 3);
-  produceText(data, volumeNumber, textNumber, outer2);
+  produceText(volumeNumber, textNumber);
   volumeNumberBox.value = volumeNumber;
   textNumberBox.value = textNumber;
 }

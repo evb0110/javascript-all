@@ -1,11 +1,14 @@
 import { proceedLine } from './proceedCorpus.js';
-import { emptyElement } from './app.js';
+import { emptyElement, outer2 } from './app.js';
+import data from './datafile.js';
 
-export default function produceText(data, volumeNumber, textNumber, container) {
-  emptyElement(container);
+export default function produceText(volumeNumber, textNumber) {
   const vol = data[volumeNumber - 1];
   const { volume } = vol;
   const { textName, contents } = vol.texts[textNumber - 1];
+  emptyElement(outer2);
+  outer2.scrollTop = 0;
+  
   for (const line of contents) {
     const { textus, versio } = line;
     const resultCard = proceedLine({
@@ -14,6 +17,6 @@ export default function produceText(data, volumeNumber, textNumber, container) {
       textus,
       versio,
     });
-    container.appendChild(resultCard);
+    outer2.appendChild(resultCard);
   }
 }
