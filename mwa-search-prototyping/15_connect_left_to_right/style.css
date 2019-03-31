@@ -132,6 +132,9 @@ input::placeholder {
   display: inline;
   color: darkred;
   font-size: 1rem;
+}
+
+.outer1 .card-header {
   cursor: pointer;
 }
 
