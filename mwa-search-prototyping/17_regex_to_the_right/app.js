@@ -67,36 +67,38 @@ copyButton.addEventListener('click', event => {
   copyToClipboard('.outer1');
 });
 
-outer1.addEventListener('scroll', scroll1);
-outer2.addEventListener('scroll', scroll2);
 
 const totop1 = document.querySelector('.totop1');
-totop1.addEventListener('click', top1);
+totop1.addEventListener('click', topContainer.bind(this, outer1));
 
 const totop2 = document.querySelector('.totop2');
-totop2.addEventListener('click', top2);
+totop2.addEventListener('click', topContainer.bind(this, outer2));
 
-function scroll1() {
-  if (outer1.scrollTop > 20) {
-    totop1.style.display = 'block';
+outer1.addEventListener('scroll', e => scroll1(e, totop1));
+outer2.addEventListener('scroll', e => scroll1(e, totop2));
+
+function scroll1(e, btn) {
+  const container = e.target;
+  if (container.scrollTop > 20) {
+    btn.style.display = 'block';
   } else {
-    totop1.style.display = 'none';
-  }
-}
-function scroll2() {
-  if (outer2.scrollTop > 20) {
-    totop2.style.display = 'block';
-  } else {
-    totop2.style.display = 'none';
+    btn.style.display = 'none';
   }
 }
 
-// When the user clicks on the button, scroll to the top of the document
-function top1() {
-  outer1.scrollTop = 0;
+function topContainer(container) {
+  const scrollTime = 400;
+  const stepTime = 10;
+  const containerHeight = container.scrollTop;
+  const stepPixelDecrement = (containerHeight / scrollTime) * stepTime;
+  scrollUp(container, stepPixelDecrement, stepTime);
 }
-function top2() {
-  outer2.scrollTop = 0;
+
+function scrollUp(container, decrement, stepTime) {
+  if (container.scrollTop === 0) return;
+
+  container.scrollTop -= decrement;
+  setTimeout(() => scrollUp(container, decrement, stepTime), stepTime);
 }
 
 export { outer1, outer2, emptyElement, volumeNumberBox, textNumberBox };
