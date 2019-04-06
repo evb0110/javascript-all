@@ -176,7 +176,7 @@ input::placeholder {
   border-radius: 4px;
 }
 .totop1 {
-  left: 30px;
+  left: calc(50% - 93px);
 }
 .totop2 {
   right: 30px;
