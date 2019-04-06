@@ -161,6 +161,32 @@ input::placeholder {
   background: darkgreen;
 }
 
+.totop {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: rgba(145, 7, 7, 0.2); 
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+.totop1 {
+  left: 30px;
+}
+.totop2 {
+  right: 30px;
+}
+
+.totop:hover {
+  background-color:  rgba(145, 7, 7, 0.5);
+}
+
+
 @media (max-width: 900px) {
   .pagetitle {
     font-size: 2rem;
@@ -184,10 +210,7 @@ input::placeholder {
 }
 
 @media (max-width: 500px) {
-  .right {
-    display: none;
-  }
-  .outer2 {
+  .right, .outer2 {
     display: none;
   }
 }

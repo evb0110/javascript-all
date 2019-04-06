@@ -37,7 +37,7 @@ export function proceedLine({ volume, textName, textus, versio, regex }) {
     'click',
     handleHeaderClick.bind(null, volume, textName, regex),
   );
-  cardHeader.title = 'Click me to show the context';
+  cardHeader.title = 'Click me to show the whole text';
   appendChildren(cardHeader, [volumeNode, inlineSeparatorNode, textNameNode]);
 
   const textusNode = createDivTextNode('textus');
