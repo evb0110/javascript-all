@@ -42,7 +42,7 @@ export function proceedLine({ volume, textName, textus, versio, regex }) {
 
   const textusNode = createDivTextNode('textus');
   let textusGrepped;
-  if (regex.test(textus)) {
+  if (regex && regex.test(textus)) {
     textusGrepped = colorify(textus, regex);
   } else {
     textusGrepped = colorify(textus);
