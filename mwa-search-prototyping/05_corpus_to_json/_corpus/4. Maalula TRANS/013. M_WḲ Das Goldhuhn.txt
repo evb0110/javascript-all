@@ -1,4 +1,4 @@
-001. Es war einmal eine Frau, die hatte keine Kinder. 
+﻿001. Es war einmal eine Frau, die hatte keine Kinder. 
 002. Sie erbat sich von Gott, ihr (ein Kind) zu schicken, und wenn es ein Huhn wäre. 
 003. Da erhörte sie Gott und schickte ihr ein Huhn. 
 004. Sie hielt es im Haus, baute ihm einen Hühnerstall, und das Huhn blieb, es aß und trank und blieb. 
@@ -34,7 +34,7 @@
 034. Sie sagte zu ihr: »Nein!« 
 035. Das Huhn sah den Fußreif, kam gerannt, schnappte ihn und lief in den Hühnerstall, legte ihn unter sich und setzte sich (darauf). 
 036. »Oh weh, ich bitte dich, was soll ich meinem Sohn sagen? Ich bitte dich, was soll ich ihm sagen?«
-037. Die Frau sagte zu ihr: »Sobald es schläft, holeh wir ihn unter ihr hervor.«38*4
+037. Die Frau sagte zu ihr: »Sobald es schläft, holeh wir ihn unter ihr hervor.«
 038. Sie ging zu ihrem Sohn und sagte zu ihm: »Hast du gesehen! (Das hast du nun davon, daß du gesagt hast:) Geh zu ihnen, geh zu ihnen! Da ging ich zur Eigentümerin des Huhns, und es (das Huhn) hat uns den Fußreif weggenommen.« 
 039. Er sagte zu ihr: »Ihm gehört er!« 
 040. »Nun reichts aber! Was (heißt), er gehört ihr?« 
@@ -57,7 +57,7 @@
 057. Er sagte zu seiner Mutter: »Wenn du morgen hineingehst, und wenn du ein Mädchen siehst, das Gold ausstreut, trällerst du, und wenn es ein Huhn ist, bleibst du stumm!« 
 058. Die ganze Nacht wartete sie, bis es Morgen wurde. 
 059. Sie trat ein und fand das ganze Zimmer von Gold erleuchtet und die Form (des Kleides) aus Gold auf der Mauer. 
-060. Da begann sie, Gold zu verstreuen und zu trällern, und die Hochzeit feierten sie sieben Tage und sieben Nächte lang, und niemand entzündete Feuer, außer im Hause des Königs (d.h., alle waren beim König zum Essen eingeladen und brauchten nicht zu kochen).61
+060. Da begann sie, Gold zu verstreuen und zu trällern, und die Hochzeit feierten sie sieben Tage und sieben Nächte lang, und niemand entzündete Feuer, außer im Hause des Königs (d.h., alle waren beim König zum Essen eingeladen und brauchten nicht zu kochen).
 061. Nun wurde der Sohn seines Onkels väterlicherseits eifersüchtig und sagte zu seiner Mutter: »Ich will auch ein Huhn wie mein Cousin.« 
 062. Da ging seine Mutter und sagte zu ihm: »Ja, sind denn alle Jagdzüge (so erfolgreich) wie der Jagdzug deines Cousins? Woher soll ich dir ein Goldhuhn bringen?« 
 063. Er sagte zu ihr: »Geh im Ort umher, wie die Frau meines Onkels väterlicherseits umhergegangen ist, und schau, was sie zu dir sagen!« 

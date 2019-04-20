@@ -1,4 +1,4 @@
-001. orḥa minnayy niḳəʕ ana b-bisčanō, ōmar kann sammanō ti blōta, naxle w nimər w salīm žaržūra w sarkes sirḥan: «čzellax čmayṯēḥ tuxxōna?»
+﻿001. orḥa minnayy niḳəʕ ana b-bisčanō, ōmar kann sammanō ti blōta, naxle w nimər w salīm žaržūra w sarkes sirḥan: «čzellax čmayṯēḥ tuxxōna?»
 002. amrillun: «čmappyill ḥammešʕasər warḳan?»
 003. ōmar: «ē!»
 004. alam ḳiršō w applull.
@@ -28,7 +28,7 @@
 028. amrilla: «ē, apšir, tunya ʕamnōḥča, ču batt nzill atar.»
 029. bōṯar robʕiš šaʕṯa niḥčinnaḥ, willa aṣḥaṯ hōt tunya xann.
 030. amriṯ: «wallāhi, ču bann naffenna čizxinn čsuḳlell eʕsar warḳan minn.»
-031. nfaṯaḥəl lanna ṯarʕa ḳalles ḳalles, w nmaffeḳə1 lanna baġla w lann saḥḥaryōṯa, willa ščalḳaṯ aʕəl.
+031. nfaṯaḥəl lanna ṯarʕa ḳalles ḳalles, w nmaffeḳəl lanna baġla w lann saḥḥaryōṯa, willa ščalḳaṯ aʕəl.
 032. nifḳaṯ: «wrāx lina čōz?»
 033. amrilla: «našḳell baġla.»
 034. «barnaš zelle b-anna ṭaḳsa? mō? čmažnun?»

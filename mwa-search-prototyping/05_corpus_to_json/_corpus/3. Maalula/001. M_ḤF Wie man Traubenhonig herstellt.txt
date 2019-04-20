@@ -1,4 +1,4 @@
-001. ana ḥabīb fransīs m-maʕlūla, bann naḥək ex mišwill pšōṯa w ex mišwill tepsa.
+﻿001. ana ḥabīb fransīs m-maʕlūla, bann naḥək ex mišwill pšōṯa w ex mišwill tepsa.
 002. anaḥ hōxa bə-blōta nmiʕčabrill ʕinbō maṣṭra raʔisō lə-blōta.
 003. fa bess yiṯḳan aylul yiščawyan ʕinbō ʕa maẓbuṭ, tōr batte yizlullun ʕa šṭōḥa.
 004. fa waḳčlə šṭōḥa iḳḏum b-yōma atar mžahhzill xōla w mžahhzill zwōḏa w mžahhzill ṣafwṯa w əl-ḳaṭma w_aspillun ʕa xarmō.
@@ -8,7 +8,7 @@
 008. bōṯar ma nōkbin šobʕa ṯmōnya yūm aspillun ʕa payṯa.
 009. bōṯar ma aspillun ʕa payṯa batte yispunn ʕa maʕṣarča ḥetta yišwun minnayy tepsa.
 010. mišwillun ʕa mattōra.
-011. xēfəl mattōra ḳōtrin ʕa baġla w mafčel ḥetta yṯuḳnun ex əḥmīra.
+011. xēfəl matōra ḳōtrin ʕa baġla w mafčel ḥetta yṯuḳnun ex əḥmīra.
 012. bōṯar ma ṯōḳnin ex əḥmīra mžammʕillun w_aspillun ʕa wḏ̣ōyṯa zʕōr, wḏ̣ōyṯa ḥrīṯa, w mžammʕillun xašīṯa p-ḥaṣṣil baʕḏ̣inn.
 013. uxxul_aḥḥaḏ mḳayyeḏəl ešme ʕlayy.
 014. bōṯar ḥamša šečča yūm mayṯyin ḳattūma w nōḥčin fčōča bōn, mnažžrillun šaḳfōṯa šaḳfōṯa zʕōran zʕōran.
@@ -19,7 +19,7 @@
 019. ṯēn yōma mžammʕill lann mōya w ḳalbillun ʕa ṯēn tuġōra w ṯēleṯ yōma xett xann.
 020. baʕdēn maspill lann mōya ti mṣaffyin ōxer mett, awwal yōma, mbaššlillun.
 021. nōfeḳ tepsa, hanna mšammyille ḥalyṯa, ti ṯēn yōma ṯanwṯa, ti ṯēleṯ yōma čaməzṯa.
-022. bōṯar ma nōfeḳ atar tepsa mnə-žʕilča maspille ʕa payṯa p-tankyōṯa maffille ...
+022. bōṯar ma nōfeḳ atar tepsa mnə-žʕilča maspille ʕa payṯa p-tankyōṯa maffyille...
 023. mayṯyin ḳīsəṯ ṯinō w nōḥčin ṭrōfa bē xfōḳa xfōḳa xfōḳa xann ḥetta yažmet.
 024. bess yažmet ṯōḳen žōhez l-xōla.
 025. mišwin menne exma aklan.

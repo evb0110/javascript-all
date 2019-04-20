@@ -23,7 +23,13 @@ for (let i = 0; i < textus.length; i++) {
       let text = textus[i].texts[j];
       for (let k = 0; k < text.contents.length; k++) {
         let line = text.contents[k];
+        // try {
+
           line.versio = versio[i].texts[j].contents[k].textus;
+        // } catch(e) {
+        //   console.log(i, j, k)
+        //   console.log(versio[i].texts[j])
+        // }
       }
     }
   }

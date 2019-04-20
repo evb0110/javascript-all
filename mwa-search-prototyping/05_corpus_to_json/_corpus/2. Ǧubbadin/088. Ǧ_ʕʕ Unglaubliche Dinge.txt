@@ -1,5 +1,5 @@
-001. ayṯōlay ḥatta nayṯēx // bēs šarṭa baḥ nʕažžez:
-002. ayṯōlay ḏappabīṯa // čīb awrab m-žamūsa // bin-nayṯēx ġrayrīṯa // čaršef ḳommi namūsa.
+﻿001. ayṯōlay ḥatta nayṯēx // bēs šarṭa baḥ nʕažžez:
+002. ayṯōlay ḏappabīṯa // čīb awrab m-žamūsa // bin-nayṯēx ġrayrīṯa // čaržef ḳommi namūsa.
 003. ayṯōlay fattašīṯa // čufḳuʕ aḳwa mə-ḳwōsa // ḥatta nayṯēx ḏalīṯa // ṭʕīna baṭṭīxa ḥazzez.
 004. ayṯōlay aḥḥa uḥtub // ḥaṣṣe žōles ču ṣalleṭ // nmayṯēx ṣabra m-til_ayyub // w baḥra lib yarče balleṭ.
 005. ayṯōlay aḥḥa maždub // layyef bān_uḳča yḥanneṭ // nmayṯēx aḥḥa bi-yuxṭub // b-iṯṯer w felče yžahhez.
@@ -8,11 +8,11 @@
 008. ayṯō kazlan lib šōṭar // w ġamla lib čūle snūma // nmayṯēx aḥḥa ʕamčōfar // mṣāl p-xalḳa imūma.
 009. ayṯōlay aḥḥa zōʕar // b-lēlya w rōyeb b-imūma // nmayṯ ḳzōza ču čōbar // w xulle išʕer w ḥazzez.
 010. ayṯōlay ġbečča ḥallūm // lib ṭōn əb-mūrči ʕasra // nmayṯex mn-arʕi dammūm // ṣafrōna aḳwa m-nesra.
-011. ayṯōlay čarseḥ yūḳum // w yabraḳṯa b-ġuʕr žesra // nmayṯēx ebərl_iṯṯer yūm // p-sayfa muḥḥōya yḳaṭṭeẓ.
-012. ayṯōlay ḏēba ṭayyex // w šaṯṯay šarbi manīza // nmayṯēx ḳazam lib irrex // l-ẓunnūri burži bīza.
+011. ayṯōlay čarseḥ yūḳum // w yabraḳṯa b-ġoʕr žesra // nmayṯēx ebərl_iṯṯer yūm // p-sayfa muḥḥōya yḳaṭṭeẓ.
+012. ayṯōlay ḏēba tayyex // w šaṯṯay šarbi manīza // nmayṯēx ḳazam lib irrex // l-ẓunnūri burži bīza.
 013. ayṯō ʕali l-exmi bēx // w ēli žawōz w fīsa // aḥḥa xwōṯax bin-nayṯēx // mhanədzōna w ʕamhantez.
 014. ayṯo ḥmūra p-tarkisyōn // w ḏēba w ʕezza xwō ḥunū // nmayṯēx toppa p-ḳō žardōn // w baġla lib ēle ḳarnū.
-015. ayṯō ḳeṭṭa waznah ṭōn // w ṭoḥla lib ēle ʕaynū // nmayṯēx fīla p-panṭarōn // waḳḳef žōles ču ṭawpez.
+015. ayṯō ḳeṭṭa waznah ṭōn // w ṭoḥla lib ēle ʕaynū // nmayṯēx fīla p-pantarōn // waḳḳef žōles ču ṭawpez.
 016. ayṯōlay eḥḏa čūluš // ḥmīra bal-ḥōḏi yirraḳ // nmayṯēx ḥaṯitča čūfuš // w šaḳfi taffa b-mū čiġraḳ.
 017. ablə brōm w ʕali ʕallūš // ižčmaʕ sawa w la čfarraḳ // lōzim ničneḥ ṯōra hōš // w niḥmēn šaʕba ma ʕayyez.
 018. ayṯōlay mūyi nahra // m-xawčapṯil_ešma marrīx // bin nayṯēx aḥḥa m-ṣahra // ēle čuzluč xwō tīx.

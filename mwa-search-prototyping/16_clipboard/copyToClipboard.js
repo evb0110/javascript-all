@@ -29,15 +29,15 @@ export default function CopyToClipboard(element) {
   document.body.appendChild(newelment);
 
   //get all element childs
-  var descendents = newelment.getElementsByTagName('*');
+  var descendants = newelment.getElementsByTagName('*');
 
   //loop in childs
-  for (var i = 0; i < descendents.length; ++i) {
+  for (var i = 0; i < descendants.length; ++i) {
     //get defult Style
-    var style = window.getComputedStyle(descendents[i]);
+    var style = window.getComputedStyle(descendants[i]);
     var dis = style.getPropertyValue('display');
     //get defult tag name
-    var tagname = descendents[i].tagName;
+    var tagname = descendants[i].tagName;
 
     //---------------------------
     //this part is little tricky
@@ -45,15 +45,15 @@ export default function CopyToClipboard(element) {
     //true : Element is a block level elements and css display is inline
     if (dis.includes('inline') && block_level_elements.includes(tagname)) {
       //get all Element style include default style
-      var defaultCss = document.defaultView.getComputedStyle(descendents[i], '')
+      var defaultCss = document.defaultView.getComputedStyle(descendants[i], '')
         .cssText;
       //chang Element tag from block level elements to inline level elements (span)
-      descendents[i].outerHTML = descendents[i].outerHTML.replace(
+      descendants[i].outerHTML = descendants[i].outerHTML.replace(
         new RegExp(tagname, 'ig'),
         'span',
       ); //todo: need to change RegExp to tag name only not inner text
       //add all Element style include default style to new tag
-      descendents[i].style.cssText = defaultCss;
+      descendants[i].style.cssText = defaultCss;
     }
   }
   //-----------------copy new Element--------------

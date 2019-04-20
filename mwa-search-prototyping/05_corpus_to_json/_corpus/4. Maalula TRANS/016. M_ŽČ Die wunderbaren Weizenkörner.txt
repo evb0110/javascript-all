@@ -1,4 +1,4 @@
-001. Es war einmal ein kleiner König, und als er arbeitete, fand er Weizen, dessen Körner waren (groß) wie Zitronenkerne. 
+﻿001. Es war einmal ein kleiner König, und als er arbeitete, fand er Weizen, dessen Körner waren (groß) wie Zitronenkerne. 
 002. Da wunderte er sich und begann, im Königreich zu fragen, was der Grund dafür sei, daß diese Weizenkörner so groß sind: »Schaut nach dem Ältesten in diesem Königreich, damit er mir die Sache erklärt (wörtl.: erzählt)!« 
 003. Er schickte einen seiner Minister aus, und sie gingen zu einem Mann in hohem Alter und sagten zu ihm: »Kennst du die Geschichte dieser Weizenkörner?« 
 004. Er sagte zu ihnen: »Mein Bruder ist älter als ich, vielleicht weiß er Uber sie Bescheid.« 
@@ -24,7 +24,7 @@
 024. Er sagte zu ihm: »Deswegen bin ich ein junger Mann geblieben. Ich kümmere mich um nichts und belaste mich nicht damit, irgendetwas auf mich zu nehmen. 
 025. Ich habe sie als junge (Frau) geheiratet, und sie weiß alles, und was sie nicht weiß, fragt sie mich, und ich zeige es ihr. Deswegen bin ich ein junger Mann geblieben.« 
 026. Er sagte zu ihm: »Das schnellste Reittier besiegt immer alle (anderen). Ja, wenn das Haus schmutzig ist, hilft mir ein Mann, (oder) vier, fünf, und mein Platz ist etwas anderes (als andere Plätze, nämlich) eine weite Fläche mit grünem Gras. 
-027. Und die Frau, wenn sie auf das Wort gehorcht, so ist es etwas anderes, (denn) das verlängert das Leben auf zwei (Leben), und besonders, wenn sie jung ist und ein bißchen Wissen hast.«28
+027. Und die Frau, wenn sie auf das Wort gehorcht, so ist es etwas anderes, (denn) das verlängert das Leben auf zwei (Leben), und besonders, wenn sie jung ist und ein bißchen Wissen hast.«
 028. Er sagte zu ihm: »Jetzt sind wir fertig (damit), und was ist die Geschichte der Weizenkörner?« 
 029. Er sagte zu ihm: »(Was) diese Weizenkörner (betrifft), so waren einmal zwei Brüder, einer war verheiratet, und einer war Junggeselle. 
 030. Als sie in jenem Jahr säten, kam eine fruchtbare Ernte. 

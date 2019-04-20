@@ -1,4 +1,4 @@
-001. b-yarḥič čammuz — yā rrīxa ʕomra — miščawyan mišəmšōṯa.
+﻿001. b-yarḥič čammuz — yā rrīxa ʕomra — miščawyan mišəmšōṯa.
 002. ḏukkil miščawyan baḥ naḥḥčess sella w niḥḥuč ʕa šiḳya nḳuṭfennen, w nimḥammlillen ʕa ḥmōra w nmayṯyillen.
 003. niṯyillaḥ ʕa payṯa nmašiġillen.
 004. nmišwillen b-ʕurpōla ḥetta yṣaffull mōya la yḥumʕan.
@@ -12,5 +12,5 @@
 012. mḳaʕḳaʕ tarč ḳuʕḳʕīyan, nḳaššill lōḳ ḳalles ti sukker, ču manfaʕ ṣafərṯe, w nmaḳimillen.
 013. nmassḳillen ʕa ʕakkarō, nmayṯyiss satrō w əṣ-ṣunyōṯa, nimfaḏ̣ḏ̣yill_atar lanna marmalāt bē.
 014. baḥ nisḳel iṯri ṯlōṯa yūm nsōlḳin w nnōḥčin ʕa ʕakkōra w nimḥarrkille l-ḥetta yanšef.
-015. bess yanšef nimʕappyille p-ḳaṭramizō, w nmayṯyill lanna ḳaṭramīza, nḳōtrin aʕ1e šaḳəfṯa ḥuwwōr w nmišwille xet_əp-šimša mett šoppṯiz zamōna, yīb iṯḳen kayyes.
+015. bess yanšef nimʕappyille p-ḳaṭramizō, w nmayṯyill lanna ḳaṭramīza, nḳōtrin aʕle šaḳəfṯa ḥuwwōr w nmišwille xet_əp-šimša mett šoppṯiz zamōna, yīb iṯḳen kayyes.
 016. nmaḥḥčille w nṭamrille l-šičwōyṯa, w baʕdēn nmaffḳin awwal b-awwal p-ṣaḥna w nōxlin.

@@ -1,4 +1,4 @@
-001. Es war einmal ein König, und dieser König hatte einen Sohn, der ihm sehr teuer war, und er hatte keinen anderen (Sohn). 
+﻿001. Es war einmal ein König, und dieser König hatte einen Sohn, der ihm sehr teuer war, und er hatte keinen anderen (Sohn). 
 002. Dieser Königssohn jedoch, soviel Geld er auch dabeihatte, er gab es am gleichen Tag aus. 
 003. Der König rechnete sich aus, daß am Schluß, nachdem er gestorben sein wird, (der Königssohn) die Herrschaft verlieren wird, und sein Sohn das vorhandene Geld ausgeben und in total verarmtem Zustand Zurückbleiben wird. 
 004. Da hinterließ er seiner Frau (folgendes) und sprach: »Ich habe eine Kiste an dem und dem Ort versteckt. 
@@ -78,7 +78,7 @@
 078. Der Gedanke ließ ihn nicht mehr los. Die Alte machte sich auf und ging, und er machte sich auf und ging.
 079. Er klopfte an ihre Tür, und die Wächter, die bei ihr waren, empfingen ihn und sagten zu ihm: »Wohin willst du gehen?« 
 080. Er sagte zu ihnen: »Ich will hineingehen zu diesem Mädchen, das sich hier befindet.« 
-081. Sie versuchten, ihn davon abzuhalten und sagten zu ihm: »Ach, kümmere dich um diese Sache nicht. Es kamen viel schönere als du, es kamen viel stärkere als du, es kamen viel tüchtigere als du, es kamen viel klügere als du, und alle konnten gegen sie
+081. Sie versuchten, ihn davon abzuhalten und sagten zu ihm: »Ach, kümmere dich um diese Sache nicht. Es kamen viel schönere als du, es kamen viel stärkere als du, es kamen viel tüchtigere als du, es kamen viel klügere als du, und alle konnten gegen sie nichts ausrichten, und schau, wo ihre Köpfe jetzt sind!«
 082. Er sagte zu ihnen: »Ich möchte bei ihr eintreten, und wenn auch mein Kopf wie diese Köpfe werden wird.« 
 083. Sie sagten zu ihm: »Willst du es so?« 
 084. Er sagte zu ihnen: »Ja, ich will es so!« 
@@ -104,7 +104,7 @@
 104. Als er so den Weg entlangging, begegnete ihm ein anderer Mann. 
 105. Sie begrüßten sich und er sagte zu ihm: »Wohin gehst du?« 
 106. Er sagte zu ihm: »Bei Gott, ich war unglücklich in meinem Dorf, und ich gehe, um die Luft in einem anderen Dorf zu schnuppern und von Gott meinen Lebensunterhalt zu erbitten.« 
-107. Er sagte zu ihm: »Mir geht es genauso.
+107. Er sagte zu ihm: »Mir geht es genauso. Komm, wir wollen gemeinsam weiterziehen und gemeinsam die Luft (der weiten Welt) schnuppern.«
 108. Er sagte zu ihm: »Was ist deine Arbeit?« 
 109. Er antwortete ihm: »Zimmermann.« Sie machten sich auf und gingen gemeinsam. 
 110. Als sie so dahingingen, kam ein weiterer Mann. 
