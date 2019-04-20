@@ -78,6 +78,7 @@ header {
 .check {
   flex: 0.1;
   width: 2rem;
+  margin-top: 1rem;
 }
 
 .form {
