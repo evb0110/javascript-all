@@ -75,6 +75,11 @@ header {
   width: 100%;
 }
 
+.check {
+  flex: 0.1;
+  width: 2rem;
+}
+
 .form {
   flex: 1;
   display: flex;

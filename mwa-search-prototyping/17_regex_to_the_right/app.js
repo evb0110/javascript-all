@@ -15,8 +15,15 @@ const outer2 = document.querySelector('.outer2');
 const showButton = document.querySelector('#show');
 showButton.addEventListener('click', handleShow);
 
+const checkLeft = document.getElementById('check_left');
+checkLeft.addEventListener('change', onCheckLeft);
+const checkRight = document.getElementById('check_right');
+checkRight.addEventListener('change', onCheckRight);
+
 function handleSearch(event) {
   event.preventDefault();
+  checkLeft.checked = true;
+  outer1.classList.remove('none');
 
   const searchString = searchBox.value;
   if (searchString.length < 1 || /^\s+$/.test(searchString)) return;
@@ -27,6 +34,8 @@ function handleSearch(event) {
 
 function handleShow(event) {
   event.preventDefault();
+  checkRight.checked = true;
+  outer2.classList.remove('none');
 
   const volumeNumber = +volumeNumberBox.value;
   const textNumber = +textNumberBox.value;
@@ -67,7 +76,6 @@ copyButton.addEventListener('click', event => {
   copyToClipboard('.outer1');
 });
 
-
 const totop1 = document.querySelector('.totop1');
 totop1.addEventListener('click', topContainer.bind(this, outer1));
 
@@ -99,6 +107,23 @@ function scrollUp(container, decrement, stepTime) {
 
   container.scrollTop -= decrement;
   setTimeout(() => scrollUp(container, decrement, stepTime), stepTime);
+}
+
+
+
+function onCheckLeft() {
+  if (checkLeft.checked) {
+    outer1.classList.remove('none');
+  } else {
+    outer1.classList.add('none');
+  }
+}
+function onCheckRight() {
+  if (checkRight.checked) {
+    outer2.classList.remove('none');
+  } else {
+    outer2.classList.add('none');
+  }
 }
 
 export { outer1, outer2, emptyElement, volumeNumberBox, textNumberBox };
