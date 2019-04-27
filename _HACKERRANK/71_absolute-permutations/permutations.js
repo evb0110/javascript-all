@@ -30,8 +30,5 @@ function splitArray(arr, k) {
   return result;
 }
 
-function swap(arr, i, j) {
-  [arr[i], arr[j]] = [arr[j], arr[i]];
-}
 
 console.log(absolutePermutation(86542, 1).join(' ') + '\n');
