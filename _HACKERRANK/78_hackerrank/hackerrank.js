@@ -14,8 +14,8 @@ function hackerrankInString(s) {
     }
   }
 
-  if (qCursor < q.length) return 'YES';
-  return 'NO';
+  if (qCursor < q.length) return 'NO';
+  return 'YES';
 }
 
 console.log(hackerrankInString('rhbaasdndfsdskgbfefdbrsdfhuyatrjtcrtyytktjjt'));
