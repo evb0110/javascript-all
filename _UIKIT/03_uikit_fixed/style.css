@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+}
+body {
+  flex-direction: column;
+  height: 100%;
+}
+
+#content {
+  position: relative;
+
+}
+
+#left {
+}
