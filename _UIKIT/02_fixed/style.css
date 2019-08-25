@@ -1,0 +1,29 @@
+
+*  {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+#left {
+  position: fixed;
+  background-color: green;
+  width: 50%;
+  height: 100%;
+  overflow: auto;
+}
+
+#right {
+  position: fixed;
+  background-color: red;
+  width: 50%;
+  height: 100%;
+  right: 0;
+  overflow: auto;
+}
+
+#left, #right {
+  padding: 30px;
+}
