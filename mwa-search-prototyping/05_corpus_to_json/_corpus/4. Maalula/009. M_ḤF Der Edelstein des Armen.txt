@@ -1,4 +1,4 @@
-001. msawəlfin wōṯ ġabrōna ifḳer, išmeʕ innu ōṯ b-ʕarḳūba baʕʕeḏ m-ʕa  blōte žawəhrōṯa w ḏahba.
+001. msawəlfin wōṯ ġabrōna ifḳer, išmeʕ innu ōṯ b-ʕarḳūba baʕʕeḏ m-ʕa blōte žawəhrōṯa w ḏahba.
 002. hanna ġabrōna čūle illa wattʕit tiḏōye w zalle ḳṣītl_anna ʕarḳūba ytawwar ʕa saʕte.
 003. bōṯar ṯlōṯa yūm tuwwōra iščaḥ hanna ġabrōna žawharča ḳattil ġawza.
 004. inəpṣaṭ bā baḥar w šūna b-ʕoppe w rōžaʕ l-ġappit tiḏōye w hū ʕammaḥlem b-zuppōnəl žawharča.
@@ -11,7 +11,7 @@
 011. aḥref aʕle ōġa w amerle: «hanna nōska ḥōrsil lanna ḏahba w lann žawəhrōṯa, w hū ti šaleflun w ču maffēl ti ʕamtawwrin ʕlayy yiḥmunn. yumkin hū ašfeḳ aʕlax w applēx žawharča.»
 012. amerle hanna ġabrōna: «lā, ana la ḥmičče w lā aškričče.»
 013. amerle hanna ōġa: «lōzim črōžaʕ leʕle hōš, čaḥəmtenne w čmalle "ysallmell ḏwōṯax," w illa ḏ̣arrarlax.»
-014. fakkar hanna miskīna ḳalles w ōḥes b-zawʕa ittab b-leppe, w amell lanna ōġa: «ʕarḳūba iṯḳen baʕʕeḏ w tiḏōy ti ḥayyīžin nṭirill w ču sattīḳin emmat nrōžaʕ liʕʕlayy. mō batt nišw?»
+014. fakkar hanna miskīna ḳalles w ōḥes b-zawʕa ittab b-leppe, w amell lanna ōġa: «ʕarḳūba iṯḳen baʕʕeḏ w tiḏōy ti ḥayyīžin nṭirill w ču sattīḳin emmat nrōžaʕ liʕlayy. mō batt nišw?»
 015. amerle ōġa: «kayyes, ana batti nsaʕitennax. applīl žawharča ḥetta namṭenna l-ġappit tiḏōx yzappnunna w yaṣərfun menna ḥetta črōžaʕ.»
 016. hanna ġabrōna sattḳil ōġa ḥiyalžō w_applēle žawharča w rōžaʕ l-ʕarḳūba ḥetta ysallem ʕa nōska w ymalle ysamiḥenne b-žawharča.
 017. waḳčil iməṭ ʕa ʕarḳūba ačʕeb w hū mtawwar maʕ nōska w lōmar yiščaḥyenne.
@@ -22,8 +22,8 @@
 022. aḥref ʕa ḳōḏ̣ya ōġa w_amerle: «ana la šaḳliṯ menne mett, bess hōḏ žawharča ti ana nmamlekla, ana ščḥičča b-nifəš.»
 023. šaʕʕle ḳōḏ̣ya: «ōṯ ġappax šahtō?»
 024. aḥref aʕle ōġa w amerle: «ōṯ ġappi ṯlōṯa šōhət waybin ḥammiyill waḳčil ščaḥyičča.»
-025. amerle ḳoḏ̣ya: «ayṯā šahtōx ti ʔačmaḥək miʕlayhun!»
-026. hanna ḳōḏ̣ya maʕruf b-ʕaḳle, ašfeḳ ʕal_anna ġabrōna, liʔannu iḏeʕ innu hū mōrəl žawharča, w ōmar b-leppe: lōzim nražiʕlēle žawharča ti naġəblele ōġa.
+025. amerle ḳōḏ̣ya: «ayṯā šahtōx ti ʕačmaḥək miʕlayhun!»
+026. hanna ḳōḏ̣ya maʕruf b-ʕaḳle, ašfeḳ ʕal_anna ġabrōna, liʔannu iḏeʕ innu hū mōrəl žawharča, w ōmar b-leppe: lōzim nražiʕlēle žawharča ti naġəblēle ōġa.
 027. ṯēn yōma ṯōle ōġa w šahtōye ṯlōṯa ʕa maḥkamṯa w ṯōle ġabrōna fḳīra.
 028. amerlun ḳōḏ̣ya, l-ann ḥamša ġabrūn, yʕullun l-ġappe uxxul_aḥḥaḏ balḥōḏe w ayṯēlun ḳōḏ̣ya l-uxxul_aḥḥaḏ kaməšṯil ṭīna w amerlun yišwunna ʕa šaklil žawharča ti xčlīfin aʕla.
 029. čūṯ šaʕṯil zamōna illa wayban šaḳfōṯəṭ ṭīna b-īḏəl ḳōḏ̣ya.

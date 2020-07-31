@@ -1,7 +1,7 @@
 001. ešna eḥḏa, ana w ebər ḏōḏ, ešme mḥammat ḥasan, w aḥḥa ebər ḏōḏ ḥrēna, ešme mḥammat ʕali — čwaffay — ḳaminnaḥ žčamʕinnaḥ xān w ččafḳinnaḥ ṯlaṯōṯaḥ baḥ nzellaḥ nušw šaġəlṯa bə-blōta ynufḳun marōyi blōta xān w nzawwaʕēn.
 002. ōmrin: «mā baḥ nušw?»
 003. amərnaḥəl: «uxxul_aḥḥa bi-yzelle ʕa bayṯi w yxassēn ʕuḳōl_ōbo».
-004. ana zlilllay, aspiṯ ʕuḳōla m-til_ōbuy w ḳumpōza, w mḥammat ʕali asab xēt ḳumpōza til_ōbo w ʕuḳōla, w mḥammat ḥasan aspi ʕuḳōl_ōbo w ḳumpōze w uxxul_aḥḥa xassay lupsa šečla.
+004. ana zlillay, aspiṯ ʕuḳōla m-til_ōbuy w ḳumpōza, w mḥammat ʕali asab xēt ḳumpōza til_ōbo w ʕuḳōla, w mḥammat ḥasan aspi ʕuḳōl_ōbo w ḳumpōze w uxxul_aḥḥa xassay lupsa šečla.
 005. hōṯa ešna wōyṯ ḥarba b-sabʕa w sittīn.
 006. nifḳinnaḥ, nifḳinnaḥ w zlinnaḥ ʕa ṭarfi blōta mn-ōṯa ḳočra, lčaḳyinnaḥ b-eḥḏa ḥarīmča — xičyōrča.
 007. šunaḥi ḥalaynaḥ anaḥ nnuxrōyin, šaʕʕilnaḥla b-lahəžṯa ti mičwalōyin innu: «hōn bayṯi bay ḏiyōb?»
@@ -23,7 +23,7 @@
 023. anaḥ nsallīḳin, mṭinnaḥ l-ḳommi til_abu nūyif žaffāl, lčaḳyinnaḥ bə-ṯlōṯa ōṯin mn-itrō mn-elhel.
 024. ana amrīl: «aḏ̣illōn čallīxin, la barnaš yawḳef, lab sallem ʕlayəx la barnaš yaḥref ʕlāy».
 025. ōmrin: «laʔ, ʕubrōn, nuṭmur hōxa!»
-026.  ḳaminnaḥ ʕibrinnaḥ ṭawwlinnaḥ ōṯ eʕsar tḳīḳ roḥi lanna xoṯla til_abu nūyif.
+026. ḳaminnaḥ ʕibrinnaḥ ṭawwlinnaḥ ōṯ eʕsar tḳīḳ roḥi lanna xoṯla til_abu nūyif.
 027. baʕdēn nifḳinnaḥ, lčaḳyinnaḥ anaḥ w hīn.
 028. awwal aḥḥa, ešme ḥusi ʕali žumʕa, ōmar: «márḥaba!», lasa nmaḥərfin eʕle.
 029. ḥrēna nawwōf ōmar: «márḥaba!», anaḥ lasa nmaḥərfin eʕle.
@@ -35,21 +35,21 @@
 035. aḳam ʕabdulōfi žammeʕ ōṯ ʕasra, ḥaḏaʕsar, ʕammamēl: «xān, xān ḳeṣṣṯa, w arpʕa ḥamša iʕber liʕlay w ʕimmāy sulōḥa w bēl yḳawwasunnay w...»
 036. iḳʕay aptay maḥəč salfōṯa čūban, záwwaʕi lōḏ_ommṯa.
 037. anaḥ nmarrīḳin ḳommi ṯarʕa, ameləl ʕabdulōfi: «hān hīn!»
-038. aḳam ḥmunnaḥ ameləl: «hān hīn!»
+038. aḳam ḥmunnaḥ, ameləl: «hān hīn!»
 039. aḳam infeḳ w_aṯun p-ḥaṣṣaynaḥ.
 040. hōxa anaḥ niḥčinnaḥ w yalla niḥčinnaḥ ʕa šḳōḳa, nhazminnaḥ m-ḳommi xalḳa.
 041. niḥčinnaḥ anaḥ l-ḳūr bōs ti bay ʕali žumʕa.
 042. lčaḳyinnaḥ b-aḥḥa, ʕanimšaʕʕlille: «lab barnaš amellax miʕlaynaḥ aw ḏʕīčnaḥ, aṣḥō čaḥəč miʕlaynaḥ».
 043. l-muhīm hōxa aspaṯ fečərṯa blōta innu anaḥ nnuxrōyin maʕ blōta w anaḥ bižūz nʔuḏōyin w uḳča ōyṯ sulōḥa bə-blōta, w aḳam imūma isleḳ ʕa mah hešme ʕa maḏḏanča w ōzeʕ bə-mkabbir innu: «ōyṯ maḏ̣alliyīn bə-blōta, ḳumūn bax čnufḳun p-ḥaṣṣāy ttáwwaḥun ʕlāy!»
 044. nifḳaṯ hōḏ_ommṯa, hān xalḳa xūl infeḳ w uxxul_aḥḥa aptay yzelle b-ittižōh w uxxul_aḥḥa yzelle p-ḳočra w aptay p-tawwōḥa ʕlaynaḥ.
-045. anaḥ hōxa, luḳḳi niḥčinnaḥ ʕa šḳōḳa, šayxa ti blōta ʕemmi ferəḳṯa isleḳ ʕa šenna mn-ūxa, w ferəḳṯa zāl ʕa ʕaččarōyi bay ḥassūn m-ṯeni ḳočra.
+045. anaḥ hōxa, luḳḳi niḥčinnaḥ ʕa šḳōḳa, šayxa ti blōta ʕemmi ferəḳṯa isleḳ ʕa šenna mn-ūxa, w ferəḳṯa zāl ʕa ʕaččarōyi bay ḥassūn m-ṯēni ḳočra.
 046. anaḥ amrinnaḥ, hōš lab niḥčinnaḥ ʕal-anna šḳōḳa, bižūz bi-yimḥunnaḥ p-xifō, ḳaṭlinnaḥ, nmūyṯin bə-šḳōḳa w ču barnaš yōḏaʕ bunnaḥ.
 047. amərnaḥəl: «ʕawtōn! nʕōwet ʕa blōta w nūmuṯ elʕel bə-blōta, yiḏʕun bunnaḥ mūn anaḥ».
 048. ḳaminnaḥ anaḥ mṭinnaḥ l-roḥi lanna bōs w hān xalḳa žammīʕin hōn? — ḳommi žēmʕa.
 049. luḳḳi ḥmunnaḥ, hīn aṯun mn-elʕel w anaḥ laffinnaḥ, ʕibrinnaḥ b-naḥḥīṯa mnáffaḏa...
 050. ēḥ ḏōrča ʕaččīḳa, ʕibrinnaḥ ʕal-ō ḏōrča, w anaḥ nʕappīrin, šī innu ṭapḳičči ṯarʕa ana.
 051. ṭapḳičči maxramča la yšumʕun.
-052. aḳam awwal aḥḥa ti ʕammarḥeṭ ruḥlaynaḥ ameləl: «iʕber hōxa b-ḏōrči ġmūʕča».
+052. aḳam awwal aḥḥa ti ʕammarheṭ ruḥlaynaḥ ameləl: «iʕber hōxa b-ḏōrči ġmūʕča».
 053. anaḥ b-ō laḥəḏ̣ṯa hōxa ʕibrinnaḥ ġayyirnaḥi ḳamṣaynaḥ w_uxxul_aḥḥa iʕber ʕa bayṯe w nifḳinnaḥ m-ġayr ṯarʕa w ṯinnaḥ laffinnaḥ ʕimmāy w_aptinnaḥ bə-tḳōḳa ʕal-anna ṯarʕa ḥatta nmawwahēn mawḏ̣ūʕa innu anaḥ wa čūḥ ʕilōḳča.
 054. taḳḳinnaḥ taḳḳinnaḥ luḳḳil_arčeš žōraḥ b-ḏōrča, ʕibrinnaḥ ʕimmāy w aptinnaḥ p-tawwōḥa ʕimmāy.
 055. ḳaminnaḥ w zlinnaḥ atar l-ġappi šayxa.
@@ -60,4 +60,3 @@
 060. amelle: «hān bnūyi ḥunūy w ana ḳōmiṯ l-ʕa ḳamṣōy — čūbin».
 061. ḳōmiṯ ntōriṯ eʕle amrille: «ma? čuppax ʕaḳla, ana ḥillay, nūb ḳommax!»
 062. abrem iʕlay w_aptay sabiblay w mbahətlay, w aḳam yaʕni b-lēlya, ṭūlči lēlya hōḏ_ommṯa marəhṭa w ču yaḏḏīʕin ʕa ma ʕammarəhṭin, w hōxa ḥislaṯ ḳeṣṣṯa.
-

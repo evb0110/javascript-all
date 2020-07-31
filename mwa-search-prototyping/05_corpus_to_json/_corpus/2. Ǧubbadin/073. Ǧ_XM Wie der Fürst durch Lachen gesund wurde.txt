@@ -12,10 +12,10 @@
 012. amelle amīra: «ʕačmaġreḳ wulla ʕačhōtes?»
 013. amelle: «lā, ʕanhōtes!»
 014. amelle: «bimā?»
-015. amelle: «ʕanhōtes b-baḥra uḳči ʕazzalune hōn zāl b-ʕafra tīḏe?»
+015. amelle: «ʕanhōtes b-baḥra uḳči ʕazzalunne hōn zāl b-ʕafra tīḏe?»
 016. amelle: «walla hanna čalōma maẓbuṭ!»
 017. ōḏ̣el sahhīrin l-šaʕṯa ṯarč, aġreḳ ʕōwet naḳəlṯa ḥrīṯa.
-018. amelle: bimā... amelle: ʕačmaġreḳ wulla ʕačhōtes?
+018. amelle: bimā... amelle: «ʕačmaġreḳ wulla ʕačhōtes?»
 019. amelle: «lā, ʕanhōtes!»
 020. amelle: «bimā?»
 021. amelle: «b-ān xawčbōya ib ayban šraġō, ib alō xlīḳlen šraġō, emmat baḥ nanəhrennen w emmat baḥ nṭaffennen?»
@@ -23,9 +23,8 @@
 023. l-ḥatta uḏōn xṭība ʕōwet aġreḳ.
 024. amelle: «ʕačmaġreḳ wulla ʕačhōtes?»
 025. amelle: «ʕanhōtes!»
-026. amelle: «bīma?»
+026. amelle: «bimā?»
 027. amelle: «bax! la ʕačmāf barnaš yuḏmux w lā ʕačmaġreḳ w lā ʕačmāf barnaš yaġreḳ».
 028. aḳam iḏ̣ḥeč hanna amīra, nfažraṯ hō ʕellṯa til_ayba b-ġawwe.
-029. aḳam natēl lān ḥarsō tīḏe ameləl: «ḥmūn ma bōʕ ōbu lān musunū, appulle lanna... lō zaləmṯa fḳīra!»
+029. aḳam natēl lān ḥarsō tīḏe ameləl: «ḥmūn ma bōʕ ōbu lān busunū, appulle lanna... lō zaləmṯa fḳīra!»
 030. ʕōwet appūle atar ḳiršōya w aḳam ṭaʕn lān ḳiršō w zalle ʕa bnūye w iḳʕay.
-

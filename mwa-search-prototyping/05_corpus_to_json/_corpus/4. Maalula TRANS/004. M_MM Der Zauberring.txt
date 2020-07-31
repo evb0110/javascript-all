@@ -1,4 +1,4 @@
-﻿001. Es war einmal ein König, und dieser König hatte einen Sohn, der ihm sehr teuer war, und er hatte keinen anderen (Sohn). 
+001. Es war einmal ein König, und dieser König hatte einen Sohn, der ihm sehr teuer war, und er hatte keinen anderen (Sohn). 
 002. Dieser Königssohn jedoch, soviel Geld er auch dabeihatte, er gab es am gleichen Tag aus. 
 003. Der König rechnete sich aus, daß am Schluß, nachdem er gestorben sein wird, (der Königssohn) die Herrschaft verlieren wird, und sein Sohn das vorhandene Geld ausgeben und in total verarmtem Zustand Zurückbleiben wird. 
 004. Da hinterließ er seiner Frau (folgendes) und sprach: »Ich habe eine Kiste an dem und dem Ort versteckt. 
@@ -14,7 +14,7 @@
 014. Sie weckte ihren Sohn auf und sagte zu ihm: »Steh auf! Ein Lebensunterhalt hat sich gefunden (wörtl.: ist gekommen).« 
 015. Dieser stand auf und sagte zu ihr: »Ach, was ist das für ein Lebensunterhalt?« 
 016. Sie sagte zu ihm: »Dein Vater hat, bevor er starb, an dem und dem Ort eine Kiste versteckt und mir gesagt: Zeige sie deinem Sohn nicht, bevor er zwei Jahre in Bedrängnis war, damit er den Wert des Geldes erkennt.« 
-017. Da entfernte dieser... Er nahm seinen Pickel, seine
+017. Da entfernte dieser... Er nahm seinen Pickel, seine Schaufel und seine Hacke und begann zu graben.
 018. Er grub, bis er bei dieser Kiste ankam. 
 019. Er öffnete die Kiste und fand darin eine andere Kiste. 
 020. Er öffnete^die andere Kiste und darin war (wieder) eine Kiste. 
@@ -38,7 +38,7 @@
 038. Er änderte seinen Weg und ging in eine andere Richtung weg, rannte davon und brachte ihn seinem Herrn. 
 039. Er sagte zu seinem Herrn: »Diese zweihundert Goldstücke sind der Erlös für den Hahn, und ich habe den Hahn gestohlen und ihn dir mitgebracht.« 
 040. Er sagte zu ihm: »Gut gemacht!« 
-041. Da setzte er sich und aß das Fleisch, er und der Diener, und die Knochen warf er dem Hund, der Katze und
+041. Da setzte er sich und aß das Fleisch, er und der Diener, und die Knochen warf er dem Hund, der Katze und der Maus hin, die bei ihm waren.
 042. Ei, da fiel bei der Katze ein Ring aus dem Knochen heraus. 
 043. Sie kam, sprang auf die Brust des Königssohns und gab ihm den Ring. 
 044. Er legte den Ring hin, reinigte ihn von Blut und Schmutz, spielte damit und war damit sehr zufrieden, da sah er plötzlich einen Mann, der vor ihm stand. 
@@ -63,7 +63,7 @@
 063. Er kam zu ihr und sagte zu ihr: »Ich wünsche dir einen guten Morgen, meine Tante!« 
 064. Sie antwortete ihm: »Ich wünsche dir hundertfach einen guten Morgen Was willst du?« 
 065.Er sagte zu ihr: »Ich gebe dir, was du willst, aber du mußt mir sagen, was es mit diesem Haus für eine Bewandtnis hat, und was es mit den Köpfen auf sich hat, die darauf sind.« 
-066. Sie sagte zu ihm: »Ach, mein Sohn, kümmere dich nicht um diese
+066. Sie sagte zu ihm: »Ach, mein Sohn, kümmere dich nicht um diese Angelegenheit, es ist nicht nötig, daß du es weißt.«
 067. Er sagte zu ihr: »Ich bitte darum, ich küsse deine Hände, und was du willst, gebe ich dir, wenn du mir nur erzählst, was es (damit) auf sich hat,« und er holte zehn Goldstücke hervor und gab sie ihr, und er drückte sie ihr in die Hand. 
 068. Sie sagte zu ihm: »Also, du willst es wissen?«
 069. Er sagte zu ihr: »Ja, ich will es wissen.«
@@ -128,7 +128,7 @@
 128. Das nächste Los fiel auf den Schneider.
 129. Der Schneider stand auf, schaute in die Ferne, und da sa er (etwas) wie eine Person stehen. 
 130. Er rief sie an, (aber) sie antwortete ihm nicht. 
-131. Er näherte sich, machte sich selbst Mut und näherte sich ihr, streckte seine Hand nach ihr aus, und da fand
+131. Er näherte sich, machte sich selbst Mut und näherte sich ihr, streckte seine Hand nach ihr aus, und da fand er, daß es eine Person aus Holz war.
 132. Es fiel ihm ein, daß sein Freund ein Zimmermann war, der (die Person) geschnitzt hatte, und er mußte sie jetzt ankleiden. 
 133. Da öffnete er seine Tasche und holte (Stoff)stücke heraus, er hatte (nämlich) Stoffstücke in dieser Tasche, und er holte seine Nadel und seine Schere heraus und setzte sich hin und nähte. 
 134. In diesen drei, vier Stunden hatte er ihr ein Kleid genäht, wie es kein schöneres gab. 

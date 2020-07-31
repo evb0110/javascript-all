@@ -1,6 +1,6 @@
 001. anaḥ ʕatōṯa ġappaynaḥ bə-blōta maʕlūla, aḥḥaḏ šappa zkōn irḥam eḥḏa, aw ibəʕ yxuṭbenna, ḥamēla, zelle mšatterəl emme čaḥkēle bā.
 002. ē, ṭabʕan maḥəkyōle bā w mwafīḳin əṭ-ṭarafēn.
-003. bōṯar meṯṯa mḥáttitin yōma, ynuḥčun yxuṯpull xṯōba, hanna b-nespṯa s-sarḳōy.
+003. bōṯar meṯṯa mḥáttitin yōma, ynuḥčun yxuṯpull xṯōba, hanna b-nesəpṯa s-sarḳōy.
 004. xaṯpill xṯōba, miččafḳin ʕa yōma battun atar yišwun maščūṯa, másalan: «anaḥ ʕasra b-yarḥa baḥ nišw maščūṯa.»
 005. «ē, čbōʕin nišw ḥenna?»
 006. «exmič čbōʕin», mōmrin bē ḥḏučča.
@@ -16,7 +16,7 @@
 016. ḳōye ʕṣofra, šbīna ḏōmex ḳūre.
 017. ču mʔammen ytaššrenne balḥōḏe, liʔannu zōyeʕ yṯēle mett aḥḥaḏ mnə-rfiḳōye mn-elbar yfukklēle ḥenna.
 018. w hōḏ ḥenna mamnuʕ barnaš yfukkenna ġēr šbīna, w əzkōn ṯōle aḥḥaḏ ġayrlə šbīna fakka, maḳīmin aʕle frīsča, innu: «hačč ču čōb xarž l-ōš šaġəlṯa.»
-019. fakklēle ḥenna ṯyillun hōḏ_ommṯa mbarixille.
+019. fakklēle ḥenna, ṯyillun hōḏ_ommṯa mbarixille.
 020. mšattar hū zalmōṯa m-ġappe, mʕawītin ṯēn yōma maʕzmin ʕa maščūṯa, lēlyit taxəlṯa.
 021. maʕzem šaʕrō w maʕzemlə blōta xulla sawa w maʕzem ṭōbaʕ kartō w mwazzeʕlun w ṯyillun hōḏ ommṯa tōḳḳin w mʕannyin w minbaṣṭin.
 022. ʕemmlə ʕrōba, ē, iḳḏum mil... ʕrēbəš šimša yaʕni, ʕemmlə ʕrōba, mayṯyill ḥḏūṯa, ṣamtille w mʕannyille w mšaləḥlille waʕyōṯe w mxasslille ṭaḳma kuḥlay, ṭaḳmit taxəlṯa.
@@ -63,7 +63,7 @@
 063. ʕōbrin ʕa payṯlə ḥḏūṯa, mōṭyin atar l-elġul l-ōḏ ḏōrča. «hanik wḏ̣ōyṯlə ḥḏučča? — hōḏ!»
 064. mappyilla xomərṯa, yaʕni ppōfčlə ḥmīra, ušma xomərṯa. sōlḳa ʕa korsa w lazḳōla p-ḥaṣṣiṯ ṯarʕa w mišwa warəṯṯa m-mistīḏa, yaʕni ḥetta čxammar ʕa mahla.
 065. ʕōbrin l-elġul, ṯyillun marōylə ḥḏūṯa, battun ynaḳḳṭun.
-066. ḳaʕyōla emmlə ḥḏučča, w ḥḏūṯa... waḳḳef ḥḏūṯa w ḥḏučča sawa, e emmlə ḥḏučča w ḳarribayy.
+066. ḳaʕyōla emmlə ḥḏučča, w ḥḏūṯa... waḳḳef ḥḏūṯa w ḥḏučča sawa, w emmlə ḥḏučča w ḳarribayy.
 067. ṯyōla emmlə ḥḏūṯa, našḳōla w mamrōla: «ahla w sahla!» w mkaššfōl lanna ṯawba ḥuwwōra.
 068. mxassya ṯawba ḥuwwar, hanna ṯawblə klīla.
 069. našḳōla w mkaššfōl maḳimōl lanna ġaṭa ti ḥuwwar m-ʕa ffōya w mnaḳḳṭōla.
@@ -80,6 +80,6 @@
 080. xull_ann ti išher lə-ʕṣofra mafṭar w šōṯ šāy w zelle.
 081. ṯyillun ti ḏmīxin mnə-ʕrōba misčalmin.
 082. ḥḏūṯa ʕōber ḏōmex balḥōḏe xett lə-ʕrōba.
-083. yumkin yōma yšahhrunne xett lə-ʕṣofra, ḳaʕyillun.
+083. yumkin ṯēn yōma yšahhrunne xett lə-ʕṣofra, ḳaʕyillun.
 084. ʕatōṯa anaḥ ġappaynaḥ m-maʕlūla, mil ṯalla ḥḏučča w ḥassel nḳūṭa, aspill ḥḏūṯa w mšahhrille lə-ʕṣofra.
 085. ču maffyille yitxul hōṯe yōma.

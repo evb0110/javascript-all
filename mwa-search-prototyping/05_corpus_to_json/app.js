@@ -22,13 +22,18 @@ for (let i = 0; i < textus.length; i++) {
     for (let j = 0; j < textus[i].texts.length; j++) {
       let text = textus[i].texts[j];
       for (let k = 0; k < text.contents.length; k++) {
-        let line = text.contents[k];
         // try {
+        let line = text.contents[k];
+
 
           line.versio = versio[i].texts[j].contents[k].textus;
         // } catch(e) {
         //   console.log(i, j, k)
-        //   console.log(versio[i].texts[j])
+        //   console.log(textus[i].texts[j].contents[k-1])
+        //   console.log(textus[i].texts[j].contents[k])
+        //   console.log(text.contents.length)
+
+        //   throw ''
         // }
       }
     }

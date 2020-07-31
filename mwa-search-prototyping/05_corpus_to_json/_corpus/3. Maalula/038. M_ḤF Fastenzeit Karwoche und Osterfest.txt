@@ -1,11 +1,11 @@
 001. bess yaḳreb waḳčil ṣawma rappa, iḳḏum p-šoppṯa mballšin ommṯa yhayyrull baʕḏ̣inn l-ṣawma.
 002. mʕazzlill payṯyōṯa w mnaḏ̣ḏ̣fillun w raḥḥill ačōčəl payṯa w mnaḏ̣ḏ̣fille, ḥetta yṣūmun yīb xulle mett naḏ̣ḏ̣ef w ṭōhar.
 003. mḥasslin m-nuḏ̣ḏ̣ōfa yīb ḳayyam l-ṣawma iṯər yūm, šoppṯa w ḥašoppa, mšammyillun marfʕa.
-004. b-ann iṯər yūm ti marfʕa mbaššlin xōla ẓaffer, kippō, besra, farrušō, xulle mett.
+004. b-ann iṯər yūm ti marfʕa mbaššlin xōla ẓaffer, kippō, besra, farružō, xulle mett.
 005. misḳillin xann ḥetta yōməl ḥašoppa ṯarčʕasər b-lēlya, yīb itxal yōmlə ṯrō, awwal yōma m-ṣawma.
 006. ṯarčʕasər alūla taḳḳill naḳōsa bə-klēsya, ḥetta yiḏʕun ommṯa, iṯḳen waḳəčlə fṭūra.
 007. akṯarīṯəl ommṯa yīb baššīlin nšīfa w ṭlubḥō, yaʕni mžáddara, liʔannu wōṯ rōhba mawʕeẓ ʕal_ommṯa w maršetlun ʕa ṣawma w ṣlōṯa.
-008. w hanna rōhba, awwal yōma m-ṣawma, ʕisər w arpaʕ šōʕ aṣam, la xōla w la ščū, w afṭar ʕa nšīfa w ṭlubḥō, w menna iṯḳen ommṯa mšammyill lanna yōma mžáddara ti rōhba.
+008. w hanna rōhba, awwal yōma m-ṣawma, ʕisər w arpaʕ šōʕ aṣam, lā xōla w la ščū, w afṭar ʕa nšīfa w ṭlubḥō, w menna iṯḳen ommṯa mšammyill lanna yōma mžáddara ti rōhba.
 009. w əʕrōba, šaʕṯa arpaʕ uxxul yōma, ōṯ ṣlōṯa, w uxxul yōma alūla taḳḳill naḳōsa ṯarčʕasər alūla, waḳəčlə fṭūra.
 010. waḳəčlə fṭūra mafəṭrin xōla, yīb xulle mešḥa čuppe, lā šomna w lā ẓafərṯa w lā besra, ōṯ minnayy, mafəṭrin samkōṯa.
 011. ḥammešṯa, xēmes yōma m-ṣawma, yōmlə ʕrūfča ʕrōba mṣallyin ṣlōṯa, ušma mtīḥča l-marč marya.
@@ -28,9 +28,9 @@
 028. yīb šawwīyin ṭawəlṯa bə-klēsya w ōṯ p-ḥaṣṣa ṣlība.
 029. ḳommlə ṣlība ōṯ xšurīṯa ʕa šakəl mṯallaṯ, uppa ṯarčʕasər šamʕan.
 030. uxxmil ḳōr ḳašīša inžīla, manəhrin šaməʕṯa, ḥetta yḥasslun ṯleʕsar, ṯleʕsar inžīl, yīb anəhrull xull šamʕa.
-031. ṯēn yōma, ʕrufča ʕrōba, ṣlōṯa ti žunnōzlə mšīḥa.
+031. ṯēn yōma, ʕrūfča ʕrōba, ṣlōṯa ti žunnōzlə mšīḥa.
 032. yīb zayyinill klēsya w mistīḏlə klēsya ḳommil ṯarʕa ti maḏəbḥa yīb ōṯ taržōṯa m-kursō ti klēsya.
-033. mxassyillun p-šaršfa ḥuwwar w mišwin p-ḥaṣṣayhun warta w šamʕa w ṣuryōṯa, w ḳummayhun ōṯ ṭawēlṯa, mišwill naʕša p-ḥaṣṣa, ramza lə-mšīḥa, waḳčil aḥḥčunne m-ʕa ṣlība w ṣall aʕle w aspunne ʕa mʕarrṯa.
+033. mxassyillun p-šaršfa ḥuwwar w mišwin p-ḥaṣṣayhun warta w šamʕa w ṣuryōṯa, w ḳummayhun ōṯ ṭawəlṯa, mišwill naʕša p-ḥaṣṣa, ramza lə-mšīḥa, waḳčil aḥḥčunne m-ʕa ṣlība w ṣall aʕle w aspunne ʕa mʕarrṯa.
 034. w naʕša hū ʕa šakəl santūḳa mnə-xšūra, mzayynille b-warta w muržān ʕa šakəl ḳoppṯa.
 035. iḳḏum ma yḥasslun mnə-ṣlōṯa p-ḳalles, mfarrḳin šamʕa ʕal_ommṯa, w manəhrišš šamʕa w ṯēle arpaʕ, arpaʕ zalman, ṭaʕnill naʕša w mintōrin ʕemmil ḳašīša bə-klēsya eṯlaṯ tawran.
 036. baʕdēn mṭaffyill šamʕa w zlillun, uxxl_aḥḥaḏ šōḳel warta aw ḳīsa m-muržān m-naʕša.

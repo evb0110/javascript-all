@@ -1,9 +1,9 @@
-001. wōṯ ʕēlṯa mkáwwana m-ṯlōṯa šapp w bisnīṯa.
+﻿001. wōṯ ʕēlṯa mkáwwana m-ṯlōṯa šapp w bisnīṯa.
 002. ḳōm hann ṯlōṯa šapp zallun yišćaġlun m-manṭaḳća baʕʕīḏa ḥayla w bisnīṯa ḳaʕʕunna ġappil ḥayyōṭća.
-003. ḳōm yōma m-yumō bisnīṯa ʕamnaššrōl išōra ʕa ʕakkōra, ḳōm īṭar hanna išōra.
+003. ḳōm yōma m-yumō bisnīṯa ʕamnašrōl išōra ʕa ʕakkōra, ḳōm īṭar hanna išōra.
 004. ṯḳalla ḏarkōli ḏarkōli w hū ṭōyer bə-hwō xann wala hatt əb-ḏōrća.
 005. ʕibraṯ ʕal-ōṯ ḏōrća, ćuppa barəš, yaʕni frīša w xulla mett.
-006. w ḏ̣ōʕaṯ bisnīṯa lafaš yaʕni yōḏʕa ćʕōwel ʕa tiḏō.
+006. w ḏ̣ōʕaṯ bisnīṯa lafaš yaʕni yōḏʕa ćʕōwet ʕa tiḏō.
 007. ḳʕalla b-ōṯ ḏōrća w ṯiḳnaṯ yaʕni mišćaġla, šaṭfaṯ w xanšaṯ w baššlaṯ w xulla mett.
 008. ḳōm ćū yaḏḏīʕa iḏa ḏōrća hōṯ l-ḥunō.
 009. iʕbar ḥunō, ḳōm ṭimraṯ hī b-bōla barəš.
@@ -38,12 +38,12 @@
 038. xann illex hanna ġamla b-ōṯ bisnīṯa ći p-tabūta walla ōṯ wazīra w malek, ʕammićmaššyin p-ḥadīḳa xann.
 039. ʕēn xann wazīra, amerli: «ana nšaḳell lanna ġamla w haćć ćšaḳell lōṯ santūḳća ći ʕa ḥaṣṣ.»
 040. wōfeḳ malak, šaḳəl lōṯ santūḳća, šaḳəl lōṯ santūḳća malak, zalli faṯəḥna p-payṯa xann walla iḥəm bisnīṯa yaʕni ḥalya ḥalya w xissīya ext ʕarūsća, ōǧen hanna malak eʕla, yaʕni ext mīṯa.
-041. ṭamərna bə-xzōnća ći ləli, malek.
+041. ṭamərna bə-xzōnća ći lēli, malek.
 042. ḳōm yaʕni ću ōmer l-barəš, iṯḳan la ōxel w la šōć yaʕni ḥayla inḳhar ʕal-ōṯ bisnīṯa.
 043. emmi yaʕni ćʕáǧǧabaṯ, emmil malek, ʕali xann ʕammišw?
 044. mšaʕʕlōli, ću rōṣ yaʕni yamrēla.
 045. l-muhimm hōṯ, yōma m-yumō inšil mufćḥa lə-xzōnća ći bisnīṯa ība bē, inšil mufćḥa bā.
-046. ḳōm ṯalla emmil malak amraṯ: «walla niḥəm ma ōṯ bə-xzōnća yaʕni, ʕali xann ḥikkel hamma ibər xett xann?»
+046. ḳōm ṯalla emmil malak amraṯ: «walla niḥəm ma ōṯ bə-xzōnća yaʕni, ʕali xann ḥikkell hamma ibər xett xann?»
 047. faṯḥaććlə xzōnća walla šćḥaććil lōṯ bisnīṯa xann, ḥayla yaʕni w mīṯa.
 048. ḳōm zalla ōṯ ġappa ḥkīmća yaʕni ḳadimōy, natalla miššōn yaʕni ćiḥmēla mīṯa walla ṭōba.
 049. ʕaynaṯ xann b-reġəl bisnīṯa walla šćḥaććin nībəl ġūla.
@@ -57,7 +57,7 @@
 057. ḳōm zalla, faṯəḥlall əxzōnća xann, walla nifḳaṯ hōṯ bisnīṯa.
 058. ḳōm yaʕni ćʕaǧǧab amerla: «ext xann ṣaḥḥīšna?»
 059. amrōli: «xann xann ḳeṣṣṯa.»
-060. l-muhimm hōṯ, ṣaḳənna hōṯ bisnīṯa malek, xaṭəbna w išw ʕorsa w xulla mett.
+060. l-muhimm hōṯ, šaḳənna hōṯ bisnīṯa malek, xaṭəbna w išw ʕorsa w xulla mett.
 061. wazīra axbar iḏa yaʕni bisnīṯa ći wība b-ōṯ santūḳća hī eććṯi.
 062. ḳōm yaʕni iġćar menni, wazīra iġćar.
 063. zalli batti yišw ḥīlća miššōn yšuḳəllēli eććṯi wazīra.

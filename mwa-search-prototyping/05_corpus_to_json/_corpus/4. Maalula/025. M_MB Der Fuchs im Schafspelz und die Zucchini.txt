@@ -1,6 +1,6 @@
 001. ōṯ ṯaʕla inžes, iḥles, imles, allex p-tarba willa miščaḥ fṭīsča w aʕla ʕaḳōna, ʕammōxel menna ʕaḳōna.
 002. msallem aʕle, mamelle: «mō ʕačmišw?»
-003. maʕzemle ʕaḳōna yīxul ʕemme mn-ōf ftīsča.
+003. maʕzemle ʕaḳōna yīxul ʕemme mn-ōf fṭīsča.
 004. iṯḳen soḥəpṯa ʕaḳōna w ṯaʕla.
 005. uxxul yōma ṯyillun ōxlin mn-ōf fṭīsča xann ta ḥasslaṯ.
 006. yōma m-yumō ṯēle ṯaʕla l-ʕa ʕaḳōna mamelle: «ana nirḥem nislaḳ xann mišwōra ʕemmax b-anna žawwa.»
@@ -12,9 +12,9 @@
 012. hū w salleč, mʕayn l-erraʕ miščaḥəl rōʕya erraʕ menne.
 013. mʕayn rōʕya l-elʕel, miščaḥəl ṯaʕla naḥḥeč mnə-šmō, ḳōye m-zawʕe mtaššarəl farwṯe w šōmeṭ.
 014. mʕayn ṯaʕla, miščaḥ farwṯa erraʕ menne, mōmar: «ya alō, čayṯinn p-ḥaṣṣil lōf farwṯa, ya alō, čayṯinn p-ḥaṣṣil lōf farwṯa!»
-015. išmaṭ rōʕya w xarufyōṯe xann wann willa isleč ṯaʕla p-ḥaṣṣil farwṯa.
-016. inəpṣaṭ, kōye mxassēla w mallex bā w iṯḳen mičmaxṭar.
-017. yōma m-yumō xallīlla w naffeḳ mišwōra, willa miščaḥle ḏēba.
+015. išmaṭ rōʕya w xarufyōṯe xann willa isleč ṯaʕla p-ḥaṣṣil farwṯa.
+016. inəpṣaṭ, ḳōye mxassēla w mallex bā w iṯḳen mičmaxṭar.
+017. yōma m-yumō xassīlla w naffeḳ mišwōra, willa miščaḥle ḏēba.
 018. mʕayn bē xann, ižxex b-ōf farwṯa w allex, mamelle: «mōn šulēx hōf farwṯa?»
 019. amelle: «ana! ana nmišw farwōṯa. ču čyaḏḏeʕ?»
 020. amelle: «lā!»
@@ -41,7 +41,7 @@
 041. mō mfakkar ṯaʕla elġul? ōṯ ḏēba elbar, hū ti ʕamžōʕar.
 042. uxxul yōma xann hanna hwō šaġġal w hanna žʕīra ṭayyer b-ōk kusōyṯa.
 043. ixfen ṯaʕla, mamell_eččṯe: «ḳūm, battaḥ ničṣōraʕ. či ġōleb axell ḥrēna. mō battaḥ nišw.»
-044. mičṣarīʕin, ġalebl_eččṯe, axella awwal yōma.
+044. mičṣarīʕin, ġalebl_eččṯe axella awwal yōma.
 045. ṯēn yōma ōxel ebra mnə-bnōye, ṯēleṯ yōma ebra mnə-bnōye, xann ʕa ṯlōṯa arpʕa yūm ḥassel xōla w iḳəʕ elġul.
 046. ē, mō batte yišw? la aṣəf ġappe mett, ōmar: «yalla, ya kasra ya naṣra aʕəl aw ʕa ʕatuwōy!»
 047. ḳōyem ḳappaʕ w nōfeḳ p-surʕṯa, b-rahṭa.

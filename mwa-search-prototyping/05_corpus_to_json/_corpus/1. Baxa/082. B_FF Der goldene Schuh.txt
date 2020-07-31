@@ -1,4 +1,4 @@
-001. wōṯ zaləmṯa w šunīṯa w ġappēn bisnīṯa.
+﻿001. wōṯ zaləmṯa w šunīṯa w ġappēn bisnīṯa.
 002. ḳōm mīṯaṯ emmil lōṯ bisnīṯa.
 003. hōṯ bisnīṯa ṯiḳnaṯ amrōll_ōbu yaʕni: «ya eppay, zex ikkaḥ w ana ću nmaġəṭra nōʕeš əl-ḥōl w mahma ība ḥōlć aḥsan mā niḳʕīl əl-ḥōl.
 004. ḳōm amerla yaʕni: «emḥar mʕaḏḏabōš ḥōlćiš w ću šyaḏḏiʕōll_eććṯil ōbu exət mišwa».
@@ -24,9 +24,9 @@
 024. l-muhimm hōṯ ṯiḳnaṯ bōxya hōṯ bisnīṯa ʕa ḥaṣṣil ʕakkōra.
 025. ṯalla — ōṯ sōḥərṯa — ṯalla walla amralla yaʕni: «mōš?»
 026. amrōla: «xann, xann. mʕaḏḏabill w la affunn nzill, ḥatta ʕa ḥafəlṯil malek la affunn».
-027. ḳōm amrōla: «ʕayna, nimʕayyirlōš šaʕṯa, nimʕayyirlōš šaʕṯa w hōš nmappyōš xussū iḥəl e šizlōš l-ʕa malek. bass ću šimʕawwḳa!»
+027. ḳōm amrōla: «ʕayna, nimʕayyirlōš šaʕṯa, nimʕayyirlōš šaʕṯa w hōš nmappyōš xussū iḥəl w šizlōš l-ʕa malek. bass ću šimʕawwḳa!»
 028. amrōla: «ē!»
-029. hōṯ appalla wuʕyōṯa ḥaylin w xassalla kuntarćiḏ ḏahba w xann yaʕni ḥayla iḥəl xussū.
+029. hōṯ appalla wuʕyōṯa ḥalyin w xassalla kuntarćiḏ ḏahba w xann yaʕni ḥayla iḥəl xussū.
 030. w hī ḥalya, zalla hōṯ walla inəbhar bā.
 031. xullun iṯḳan mʕēnyin bā kiṯər ma ḥalya.
 032. ʕēn xann bā ebril malak, ḳōm ʕakbaćći ḥayla.
@@ -45,8 +45,8 @@
 045. zalli malek, šaḳlil lōṯ kuntarća, ḳōm iṯḳan ḥōyeṣ payṯa payṯa yaʕni yiḥəm ći nōfḳa ʕa reġla hōṯ kuntarća ykūn hī hōṯ bisnīṯa.
 046. iṯḳan tōyer xann b-ōṯ ḳrīṯa, ḳom imṭil payṯil lōṯ bisnīṯa.
 047. ṯōlun bisənyōṯa, hōṯ w bnōṯəl ḥōlća.
-048. iṯḳan xann mġarbilla ʕa riġlēn lamar ćunfuḳ.
-049. ṯalla hī xann hōtya w xann, ōḳfaṯ walla ġarbaćća walla nifḳaṯ ʕa reġla ábadan.
+048. iṯḳan xann mġarrbilla ʕa riġlēn lamar ćunfuḳ.
+049. ṯalla hī xann hōtya w xann, ōḳfaṯ walla ġarrbaćća walla nifḳaṯ ʕa reġla ábadan.
 050. ḳōm inġaẓ menna bnōṯəl ḥōlća, yaʕni iġćar w_iṯḳan ōzin yḳuṭlunna.
 051. ḳōm amerla yaʕni: «hašš ći šwība šxassyōl lanna xussū?»
 052. amrōli: «ē!» w ṯiḳnaṯ amrōli inni ḥōlć mʕaḏḏabōl w xann.

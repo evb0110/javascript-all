@@ -4,11 +4,11 @@
 004. ayṯlūle hanna zaləmṯa til_eppi dīna baḥer, amelle: «čḳōʕ čádamay willa nḳaṭellax?»
 005. amelle: «ana niḳəʕ nádamay bēs marōyi lō blōta čūp dīna».
 006. amelle: «hāč ma bex bōn? uxxu ʕezza wa ʕallīḳa p-čarʕūba, ḳʕō čádamay».
-007. hanna lasa ḳōʕ, aḳam šattar roḥle, bēlē yḳuṭlenne.
-008. amēl lanna ḥaras tīḏe: «zlōn ayṯunne w_uspunne ʕa barrīya ʕal-ō ġōpṯa, ḳuṭlunne w ṭaššarunne l-xalpō yḳaṭṭaʕunne šaḳfōṯa, xalpō w ḏibō w ṯaʕlō w hān waḥšōyil_aybin b-ō ġopṯa».
+007. hanna lasa ḳōʕ, aḳam šattar roḥle, bēle yḳuṭlenne.
+008. amēl lanna ḥaras tīḏe: «zlōn ayṯunne w_uspunne ʕa barrīya ʕal-ō ġōpṯa, ḳuṭlunne w ṭaššarunne l-xalpō yḳaṭṭaʕunne šaḳfōṯa, xalpō w ḏibō w ṯaʕlō w hān waḥšōyil_aybin b-ō ġōpṯa».
 009. zāl aspunni hān ḥaras ʕal-ō ġōpṯa bēl yḳuṭlunne.
 010. uḳči žammaʕ čuləḥčulle w bi-yimḥunne p-sayfa yḳimlūle muḥḥe ameləl: «awḳfōn ḏemʕṯa! affunnay nṣāl w tōr čḳaṭlillay!»
-011. aptay ḳimən ṣlōṯa w ballaš bi-yṣāl, aptay mṣāl hūh, žammaʕ hān xalpō w hān ḏībō w hān ḥaywanū til_aybin b-ō ġopṯa w_aptay mṣallin roḥle, xūl sawa.
+011. aptay ḳimən ṣlōṯa w ballaš bi-yṣāl, aptay mṣāl hūh, žammaʕ hān xalpō w hān ḏibō w hān ḥaywanū til_aybin b-ō ġōpṯa w_aptay mṣallin roḥle, xūl sawa.
 012. uḳčil_aptay mṣallin roḥle, hanna ti ḥaras w hanna ḥaras azaʕ menne, lasa mčarrin yḳuṭlunne.
 013. ameləl hanna raʔīs ḥaras tīḏun: «ṭaššarunne, la čḳuṭlunne!»
 014. žabḏunni zaləmṯa w ʕōwet bē ʕa blōta.
@@ -20,7 +20,6 @@
 020. amelle: «ṯinnaḥ baḥ nḳuṭlenne amellaḥ: īlay ṭalab ġappayəx.
 021. amərnaḥle: mā hanna ṭalab?
 022. ōmar: ṭálabay bīlay nṣāl ṯarč ručəʕ.
-023. amərnaḥle: «ē, ṣallō! uḳči ḳimən ṣlōṯa w ballaš aptay mṣāl aptay hān waḥšōyil_aybin b-ō ġōpṯā mṣallin roḥle, w hōxa anaḥ lasa nimčarrin nḳuṭlenne. fa lab čbōʕ čḳuṭlenne hāč, ḳuṭīl! anaḥ čū nimčarrin nḳuṭlenne».
+023. amərnaḥle: «ē, ṣallō! uḳči ḳimən ṣlōṯa w ballaš aptay mṣāl aptay hān waḥšōyil_aybin b-ō ġōpṯa mṣallin roḥle, w hōxa anaḥ lasa nimčarrin nḳuṭlenne. fa lab čbōʕ čḳuṭlenne hāč, ḳuṭlī! anaḥ čū nimčarrin nḳuṭlenne».
 024. amēl: «lčō ṭaššarunne lab čū mūyeṯ l-ḥōle hūh!»
 025. l-ḥattal_uḳčil_ameṯ hūh baʕd ʕomri ṭawwīl l-ḥōle, aḳam hanna šulṭōna, šwēle ḳabra w šwēle mazōra mn-ān rappō w hōxa ḥislaṯ ḥučīṯa.
-

@@ -1,4 +1,4 @@
-001. wōṯ ʕēlṯa, ġappēn bisnīṯa mn-emma mīṯa.
+﻿001. wōṯ ʕēlṯa, ġappēn bisnīṯa mn-emma mīṯa.
 002. zaləmṯa yaʕni, ġappi bisnīṯa, eććṯi mīṯa w ġappi ṯarć bisnī ḥrōn mn-eććṯi ḥaććṯa.
 003. ḳōm hann bisənyōṯa miġćōrun m-ḥōṯun ḥōṯ ḥayla yaʕni.
 004. yōma m-yumō yaʕni zallun ma ešmi... ḥōlća šattraćća l-ʕa ʕammṯa xann ʕrōpəš šimša minšōn ḏ̣ḏ̣awwʕenna, ću baʕōla.
@@ -17,7 +17,7 @@
 017. zalla batōl ma ćnaḏ̣ḏ̣ef ṯiḳnaṯ mwassaxlōla payṯa w ḳaṭlōl ṯinaġlōṯa w ḳaṭlaććil l-ebra w xann yaʕni išwaṯ.
 018. zalla ʕammṯa amralla, l-bisnīṯa ći naḏ̣ḏ̣iflalla payṯa awwal mett, amralla: «ḳʕēš b-anna bīra w min mirḳaṯ neǧəmṯa summōḳća natīl!»
 019. ḳōm amralla: «ē!»
-020. ḳʕalla hōṯ bisnīṯa bil-lelya xann, walla iḥmaṯ neǧəmṯa, ḳōm amrall ʕammṯa: «ṯalla neǧəmṯa.»
+020. ḳʕalla hōṯ bisnīṯa bil-lēlya xann, walla iḥmaṯ neǧəmṯa, ḳōm amrall ʕammṯa: «ṯalla neǧəmṯa.»
 021. amrōla: «ē, nfuḳ w ḏmux hōš!»
 022. ḳōm lə-ḥrīṯa amralla xett: «min... ḳʕēš b-anna bīra w min mirḳaṯ neǧəmṯa kkōmća amrīl!»
 023. ḳōm ḳʕalla walla mirḳaṯ hann... neǧəmṯa kkōma, ḳōm amralla: «ya ʕammiṯ, mirḳaṯ neǧəmṯa.»
@@ -69,7 +69,7 @@
 069. amralli... amralli: «ē, šuḳənnún w applīl hann yasmīn!»
 070. šaḳlaććil yasmīn w zalli l-ʕa berći amerla: «yā birəć, yaʕni hann ʕaynō nufḥannún xann, ḥmā balki mʕōwtin, biǧūz ʕaynōš hann!»
 071. šwaććun b-īḏa w nafḥaććun walla ʕōwet ʕaynō ʕa ṭabīʕćun, yaʕni ṯiḳnaṯ ḥōmya.
-072. hōṯ zalli ōbu arkeʕ išeṭla sarəksa iḥəl w xasslēla, amrēla: «yalla ziš, batt nsuḳlinniš l-ʕa ʕarīsiš.»
+072. hōṯ zalli ōbu arkeʕ išeṭla sarəksa iḥəl w xasslēla, amrēla: «yalla ziš, batt nšuḳlinniš l-ʕa ʕarīsiš.»
 073. zalla hōṯ bisnīṯa l-ʕa ʕarīsa walla išćḥaććil ḥafəlṯa ḳayyō ći ʕarīsa w ćū yaʕni ḳanneʕ ʕarīsa iḏa hōṯ ʕarūsći ći ġappi.
 074. ʕēn xann hann bisənyōṯa kiṯər ma ḥalyin, hōṯ bisnīṯa, xullēn, iṯḳan ṭōmer roḥla yaʕni, iṯḳan ṭōmer roḥla m-kiṯr... m-ǧamōla yaʕni.
 075. walla ʕēn xann bā ʕarīsa, iḏəʕna.
@@ -81,8 +81,8 @@
 081. zalli natēl ḥōlća w l-ʕarūsći, berćil ḥōlća, ḥōṯa.
 082. ḳō amerlun... zalli laḥš... ḳamṭil maḥəpsa w laḥəšni b-nūra.
 083. zalla ʕarūsći ćnawlenna, zalla ʕarūsći ćnawlenna walla... b-nūra, walla tafəšna ʕa nūra, lōṯ ʕarūsća, berćil ḥōlća.
-084. ḳōm ṯalla ḥōlća l-bisnīṯa ćnawlell berća, kōm tafəšna, ṯarćinn sawa.
+084. ḳōm ṯalla ḥōlća l-bisnīṯa ćnawlell berća, ḳōm tafəšna, ṯarćinn sawa.
 085. xarreḥ hann, eććṯi, emmil bisnīṯa w ʕarūsća.
 086. xarreḥ hann, affann yiḳtaʕ faḥəmṯa w baʕdēn taḳḳla m-ġirmēn semla.
 087. ṯiḳnaṯ sōlḳa w nōḥća, yaʕni šćafyaṯ minnēn.
-088. amrall_ōbu, aḥkall ḳesṣṯa l-xull ommṯa, w b-axerća aʕīšaṯ ʕemmi w nbaṣṭaṯ. bass.
+088. amrall_ōbu, aḥkall ḳeṣṣṯa l-xull ommṯa, w b-axerća aʕīšaṯ ʕemmi w nbaṣṭaṯ. bass.

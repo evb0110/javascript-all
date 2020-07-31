@@ -1,6 +1,6 @@
 001. yōma m-yumū ōyṯ ġappaynaḥ xān šappō, ferḳṯa, mḥáššašin, šōṯin ḥašīšča.
 002. ōyṯ aḥḥa mə-rfiḳōy, ōmar: «ḳō, baḥ nzellaḥ hanna yōma nashar hanna ġappi flanū».
-003. amərnaḥle: «wrōx hān šaġlōṯun ču manfʕan w anaḥ maraynaḥ ḳayyam yaʕni... bēs yiḏʕun bunnaḥ bižūž yazʕlun minnaynaḥ».
+003. amərnaḥle: «wrōx hān šaġlōṯun ču manfʕan w anaḥ maraynaḥ ḳayyam yaʕni... bēs yiḏʕun bunnaḥ bižūz yazʕlun minnaynaḥ».
 004. ōmar: «ḳō, ču barnaš yōḏaʕ».
 005. ḳaminnaḥ w zlinnaḥ liʕlāy.
 006. awwal ma faṯəḥnaḥi lanna ṯarʕa, hō taxənṯa naffīḳa mn-ulġul w ḳēm īḏax ču čḥamēla w hīn exət ḳaʕin ču nyaḏḏeʕ.
@@ -19,16 +19,15 @@
 019. «ē, ṭayyeb».
 020. «ana imūma, bīlay nṣāl ʕa mēt šaġəlṯa naḏ̣ḏ̣īfa, yaʕni ču ṯōḳen nṣāl ʕal_arʕa w arʕa ḳayyōma eppa ṭīna w ġbarō w hān».
 021. aḳam ayṯlūle hanna ṯarʕa ti wa bi-yišwlūl lanna žēmʕa, mattlūle ḳomme w aḳam awḳef ḳummāy.
-022. ameləl: «hōš čṣōffin hačəx ruḥlay p-ṣiffō w ana īxet nmušw, xulle ti nammīlay exət ʕanmušw, čmišwin ruḥlay».
+022. ameləl: «hōš čṣōffin hačəx ruḥlay p-ṣiffō w ana īxet nmušw, xulle ti ḥammīlay exət ʕanmušw, čmišwin ruḥlay».
 023. aḳam anway w aptay mṣāl bōn, irčaʕ, irčaʕ roḥle.
-024. luḳḳil imṭay l-arʕa w inḥeč, ittaḳ ṣabunūye ʕal_arʕa, aṯa maṣəmra čuḥči ṣabōne, aḳam matti reġle xān b-zaxma.
+024. luḳḳil_imṭay l-arʕa w inḥeč, ittaḳ ṣabunūye ʕal_arʕa, aṯa maṣəmra čuḥči ṣabōne, aḳam matti reġle xān b-zaxma.
 025. mā b-ʕaḳlīn hīn? xān lōzim yišwun hīn.
-026. aptay uxxul_aḥḥa mateti reġle, atar hīn ʕaya ḳarrībin ʕa ṣiffō w ṭawbīzin nūḥeṯ, aptay maḥīl baʕḏ̣īn ʕa muḥḥōyi baʕḏ̣in.
+026. aptay uxxul_aḥḥa mateti reġle, atar hīn ʕaya ḳarrībin ʕa ṣiffō w ṭawbīzin nūḥeṯ, aptay maḥīl baʕḏ̣īn ʕa muḥḥōyi baʕḏ̣īn.
 027. iḳʕay amelle aḥḥa: «ōx, ma...» aḥḥa mn-ān ti ʕamḥáššašin amellun: «wrōx, mā hōḏen ṣlōṯa».
-028. amelle: «xān iṯḳen ʕimmay».
-029. aḥḥa ḥrēna, rfīḳe, amelle: «wrōx, ʕanū hāč lō šawfṯa, innu ti ʕammaḥīl muḥḥōyi baʕḏ̣in. bēs wayla ʕa ti wa ṯyōle reġle ʕa ʕaḏ̣ōḏ̣ča w maḥē ʕa ʕḏ̣oḏ̣ča».
+028. amelle: «xān iṯḳen ʕimmāy».
+029. aḥḥa ḥrēna, rfīḳe, amelle: «wrōx, ʕanū hāč lō šawfṯa, innu ti ʕammaḥīl muḥḥōyi baʕḏ̣īn. bēs wayla ʕa ti wa ṯyōle reġle ʕa ʕaḏ̣ōḏ̣ča w maḥē ʕa ʕḏ̣ōḏ̣ča».
 030. amelle: «hanna fašḥaṯ reġle aw čabraṯ».
 031. amelle: «šaġəlṯa xīt čūb hōxa».
 032. ōṭeḥ aḥḥa, rfīḳe, amelle: «ʕoləḳṯa čūb hōxa, ʕoləḳṯa ʕal-ān til_aybin ēxer mīt w ʕammaḥīl riġlāy bə-hwō. hān infeḳ mn-ulġul reġla awrax m-reġla».
 033. w hōxa ḥislaṯ ḥučīṯa.
-

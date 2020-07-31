@@ -1,4 +1,4 @@
-001. wōyṯ awwalča, ʕa zamūnil_awwalča zaləmṯa ēle bisnīṯa ču ḥayla, w hō saləfṯa ʕa zamūn luḳmūn.
+﻿001. wōyṯ awwalča, ʕa zamūnil_awwalča zaləmṯa ēle bisnīṯa ču ḥayla, w hō saləfṯa ʕa zamūn luḳmūn.
 002. luḳmūn wōb ḥčīma b-aṯīn yumū.
 003. aḳam ōmrin: «ḳumūn nzellaḥ, nuspenna l-ʕa ḥčīma lčō naḥmēn twō mā».
 004. zāl leʕle, aspunna w zāl leʕle.
@@ -10,16 +10,16 @@
 010. ameləl: «hō bisnīṯa čūla ġappay twō. bax čʕawwtunna ʕa blatayəx».
 011. aḳam hān ṭaʕnūl lō bisnīṯa w_aspunna maxramča bi-yʕōwtun ʕa blatāy.
 012. hīn ʕawītin p-tarba, imṭay l-ḏoččṯa ṣaḥərṯa hīn marrīḳin p-tarba.
-013. čšōwar b-baʕḏ̣īn baʕḏ̣a innu: «ʕaya ču nimṭaššarilla b-ō ṣaḥərṯa čūmūṯ hōxa, aḥsa mā nuspenna nūʕel bāh b-bayṯa».
+013. čšōwar b-baʕḏ̣īn baʕḏ̣a innu: «ʕaya ču nimṭaššarilla b-ō ṣaḥərṯa čūmuṯ hōxa, aḥsa mā nuspenna nūʕel bāh b-bayṯa».
 014. iččfeḳ xūl sawa ʕa xān.
-015. awwalča wa čūyṯ, lā mačinyōṯa w lā ġayre, wa ʕamsofrin ʕa ġamlōya w ʕa naḳōṯa w ʕal-anna mēt hanna.
+015. awwalča wa čūyṯ, lā mačinyōṯa w lā ġayre, wa ʕamsōfrin ʕa ġamlōya w ʕa naḳōṯa w ʕal-anna mēt hanna.
 016. aḳam iščḥay... ōyṯ rōġma p-tarbun, arnḥūl lō ḥarīmča, lō bisnīṯa b-anna rōġma w ōmrin b-baʕḏ̣īn baʕḏ̣a: «ṯōn nuḥlobla ṯōr ḥalba m-nūḳṯa w nušwlēla ḳomma, maxramča yaʕni la čūmuṯ m-xafna, belči alō marzeḳla mēt xōla aw šaġəlṯa mēt».
 017. aḳam tawwaḥ ʕa wʕōya maxramča yḥulpun bē, lasa miščaḥyin... lōsa miščaḥyin wʕō.
-018. hīn ʕamtáwwaḥin aḳam iščḥay muḥḥa ti zaləmṯa, ti ḥarīmča ti zaləmṯa ču maʕruf mah hū, bēs ṯḳelle baḥer mēṯ, yaʕni mūre — žumzomṯa.
+018. hīn ʕamtáwwaḥin aḳam iščḥay muḥḥa ti zaləmṯa, ti ḥarīmča ti zaləmṯa ču maʕruf mah hū, bēs ṯḳelle baḥer mēṯ, yaʕni mūre — žumžomṯa.
 019. aḳam ḥalpūle bāh m-nūḳṯa, halpūl lō nūḳṯa b-ō žumžomṯa w šulūla ḳomma w ṭaššarunna w zāl.
 020. hīn ṭaššarunna w zāl, aṣfaṯ hōḏen l-ḥōla.
 021. ʕaynaṯ xān mn-anna rōġma willa infeḳ ḥūya mn-ān rappō mn-anna rōġma, aptay mfaḏ̣ḏ̣ē samme b-misti lanna ḥalba til_ōb b-ō žumžomṯa.
-022. hōḏen mbaṣṭaṯ hō bisnīṯa, ōmra: «čayyes lčō hōš min nšōṯya mn-anna ḥalba nmūyṯa w nmičīḥa mn-ū ḥayōṯa xulla».
+022. hōḏen mbaṣṭaṯ hō bisnīṯa, ōmra: «čayyes lčō hōš min nšōṯya mn-anna ḥalba nmūyṯa w nmičnīḥa mn-ū ḥayōṯa xulla».
 023. ḳōmaṯ ščačči lanna ḥalba — wa šlīla hī, hō bisnīṯa, yaʕni ču maḳtra čallex banawəb.
 024. min ščačči lanna ḥalba, ḳōmaṯ awḳfaṯ w_aptaṯ b-rahṭa bi-čluḳḥēn marōh.
 025. ačimmaṯ rahṭa rahṭa l-ḥatta uḳči laḳḥačči marōh.
@@ -28,7 +28,6 @@
 028. aḳam ʕōwet leʕle, aspūl lō bisnīṯa w ʕōwet l-ʕa luḳmūn.
 029. imṭay leʕle, amrūle: «exət amrīčlaḥ hō bisnīṯa čūla twō w hō bisnīṯa ayṭbaṯ? anaḥ nsibilla ʕa tarba w_iṯḳen ḳaḏ̣īṯa xōn ʕa xōn».
 030. ameləl: «ē, ana twō nyaḏḏīʕle, bēs čūb ġappay.
-031. mina bin nžammaʕleləx ḥūya allef, ṯḳelle ʕomre baḥer šnū, w mina bin nayṯeləx nūḳṯa ḳayyam yaʕni ḳayyōma ču sība ġamlō, čuḥlub, w mina bin nayṯeləx ṭōšča ti bain ōdam, yaʕni ti bisniṯa nifḳaṯ, ḳayyōma bičrōy.
+031. mina bin nžammaʕleləx ḥūya allef, ṯḳelle ʕomre baḥer šnū, w mina bin nayṯeləx nūḳṯa ḳayyam yaʕni ḳayyōma ču sība ġamlō, čuḥlub, w mina bin nayṯeləx ṭōsča ti bani ōdam, yaʕni ti bisnīṯa nifḳaṯ, ḳayyōma bičrōy.
 032. čū ḥay nžammaʕēn ʕemmi baʕḏ̣īn baʕḏ̣a, wa čūbin».
 033. w hanna twō w ḥislaṯ ḥučīṯa.
-

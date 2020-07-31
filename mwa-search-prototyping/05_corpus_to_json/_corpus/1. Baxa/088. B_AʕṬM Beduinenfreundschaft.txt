@@ -40,7 +40,7 @@
 040. amerla: «mā?»
 041. amrōli: «ana hōš yaʕni ṯiḳniṯ eććṯax, bass ʕamma namrēx tarć kiləm uḳḏum, w baʕdēn haćć ćṣarref ext ma ćbōʕ.»
 042. amerla: «aḥká niḥəm ma battiš.»
-043. amrōli: «ana nxiṭbōll_ebril ḥōnəl amīra, ći xaṭəblēx haćć lēx, yaʕni līl, w ana berćiḏ ḏōḏi w nbaʕōli w baʕīl yaʕni.
+043. amrōli: «ana nxiṭbōl_ebril ḥōnəl amīra, ći xaṭəblēx haćć lēx, yaʕni līl, w ana berćiḏ ḏōḏi w nbaʕōli w baʕīl yaʕni.
 044. bass hū infaḳ keləmṯa menni inni yaʕni xaṭəblēx, lafaš maġtar yićrōǧaʕ w haćć ext ma ćbōʕ atar ćṣarref.»
 045. amerla: «ṭayyeb, xann išw hū?»
 046. amrōli: «ē!»
@@ -113,7 +113,7 @@
 113. amerli: «ebrax...»
 114. amerli: «ḳaṭlīćni ću xann?»
 115. amerli: «ē!»
-116. amerli: «ana iḏʕiṯ inni hōṯ ʕōṯṯa ći bē, hanna psōna batta ćḳuṭlenni. ǧalləs, šaġəlṯa basiṭōy.
+116. amerli: «ana iḏʕiṯ inni hōṯ ʕōṯṯa ći bē, hanna psōna batta ćḳuṭlenni. ǧallés, šaġəlṯa basiṭōy.
 117. haćć ēx iʕəl akṯar m-xann, ḳayyam la awəflillax taynax ana.»
 118. liʔannu ʕerḏ̣a yaʕni ġappēn badawōyin ʕerḏ̣a, yaʕni zōyet maʕl_eḏma.
 119. amerli: «la awəflillax taynax ana.»
@@ -152,7 +152,7 @@
 152. amerli: «mā?»
 153. amerli: «hanna ḥattit tunya bēnṯ w bēnṯax, xalaṣ, ćmarḥel miʕəl.
 154. ćḥōm ma ēx, ćšaḳellun w ćmarḥel m-ʕa ʕarab ći līl.»
-155. amerli «ʕaǧa?»
+155. amerli: «ʕaǧa?»
 156. amerli: «wala keləmṯa, ćū nōz namrēx, la ʕaǧa wala mett.
 157. ana w haćć ḥunō w nmisḳillin ḥunō, bass ćmaǧǧel miʕəl yaʕni.
 158. ćḥōm ma ēx, ćšaḳellun w ćmallex.»
@@ -205,5 +205,5 @@
 205. irxap xull aḥḥaḏ ʕa_asīlća w yalla ruḥlēn.
 206. isḳel mn-anna tā ṭappunnun uḳḏum ma yabəʕḏun ḥayla.
 207. ṯōli ʕlēn amerlun: «ʕawtún! ana htīṯax aḳəblićća w la isḳel bēnṯ w bēnṯax mett, w birć l-ebrax mḥammad w ana w haćć yaʕni lafaš malbeḳlaḥ... lafaš maləpḳōḥ šīxṯa.
-208. lēzim niḳʕēḥ atar nisćreḥ.  mḥammad lēzim nišwenni amīra ʕlaynaḥ ʕal_iṯṯar ʕarab ći lēḥ w ći lēlxun w applilli birć.»
+208. lēzim niḳʕēḥ atar nisćreḥ. mḥammad lēzim nišwenni amīra ʕlaynaḥ ʕal_iṯṯar ʕarab ći lēḥ w ći lēlxun w applilli birć.»
 209. zallun atar ʕōwet xullēn sawa akkḥunnlə mḥammad l-berćil ṣaxr w naṣṣapunni amīra ʕlēn w ōʕeš sawa.

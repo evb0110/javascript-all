@@ -14,7 +14,7 @@
 014. mamella: «ṣabāḥ il-xēr, ahla w sahla!»
 015. amrōle: «ḏukkṯil miʕčarfan ḥarīma hanuk hī?»
 016. amella: «tulli ʕa payṯiš, ntullinniš!»
-017. ōmar: «yinḥam muṭrōnaw ḳašīša w ḳandalafət ʕemmil baʕḏ̣inn!»
+017. ōmar: «yinḥam muṭrōna w ḳašīša w ḳandalafət ʕemmil baʕḏ̣inn!»
 018. ṯyōla hōḏ zaʕlōn ʕa payṯa.
 019. amella beʕla: «wrēš mōš čzaʕlōn? ppaʕlō inne ʕčarfiš.»
 020. amrōle: «huss la čfakkrinn!»
@@ -32,7 +32,7 @@
 032. ṯōlun atar, battayy yiṯlullun liʕlayhun, ḳōye beʕla ṭōmar.
 033. ṭōmar, sōleḳ ṭōmar ʕa ʕakkarō.
 034. ṯyillun hann, muṭrōna w haṯinn.
-035. muṭrōna šalḥil waʕyōṯe ʕallḳannen, ḳašīša xett šalḥil waʕyōṯa ʕallḳannen w ayyiṯilla... muṭrōna ayyīṯla šaḳəfṯiž žūxa čišwenne betəlṯa.
+035. muṭrōna šalḥil waʕyōṯe ʕallḳannen, ḳašīša xett šalḥil waʕyōṯa ʕallḳannen w ayyiṯilla... muṭrōna ayyīṯla šaḳəfṯiž žūxa čišwenne batəlṯa.
 036. ḳašīša ayyīṯla šaḳəfṯa čišwenna ṯannūrča.
 037. ḳandalafət ču ʕemme baḥar ʕemme ḳiršō, ayṯ ḳall xann mušakkale.
 038. w ṯōlun hannun, willa intaḳ ṯarʕa.
@@ -49,12 +49,12 @@
 049. zōʕeḳ aʕla: «wrīš yāāā šunīṯa, ayṯāy ḳīsa! wrīš ōṯ šiḏanō hōxa.»
 050. ḳōyma mappyōle ḳīsa, šōmṭin muṭrōna w ḳašīša.
 051. zlillun mičbaḳḳi ḳandalafət, ōb roḥəṯ ṯarʕa.
-052. ʕayn, ščiḥhil ḳandalafət roḥəṯ ṯarʕa.
+052. ʕayn, ščiḥnil ḳandalafət roḥəṯ ṯarʕa.
 053. inḥeč p-ḳandalafət ḳṭōla: «hōxa mayṭeblax w hōxa manfaʕlax! hōxa mayṭeblax w hōxa manfaʕlax!»
 054. ahərne, baʕdēn ōṯ mužbalīṯəṭ ṭīna ḳommiṯ ṯarʕa.
 055. imzaṭ menne, ṯōle ʕammōneṭ, ōneṭ m-misti mužbalīṯəṭ ṭīna.
 056. iṯḳen p-ḥōle ṣuxōma w afal w zalle.
-057. zalle hanna isleḳ ʔa payṯa.
+057. zalle hanna isleḳ ʕa payṯa.
 058. amella: «la nxarrḥell abūhun aḥḥaḏ aḥḥaḏ. xammīnin ommṯa ṭōšra lēlun. emḥar... mō ayyīṯliš muṭrōna?»
 059. amrōle: «ayyīṯəl batəlṯa kappūta nišwenne, šaḳəfṯa nišwenna kappūta, w ḳašīša ayyīṯəl šaḳəfṯa nišwenna ṯannūrča, w hōṯe ayyeṯ ḳalles mšakkale, ḳalles fustuḳ ʕabīd, ḳass mlabbas ḳass ḳuḏ̣ōme, bizrō.»
 060. amella: «ayṯāy hanna... ayṯāy ṣaḥna w išway b-ann bizrō hōxa ḳummaynaḥ, nīxul anaḥ w hann ṭiflō!»
@@ -65,7 +65,7 @@
 065. amrōla: «ʕaža lā.»
 066. amrōla: «ʕaža lā. ayṯannēn nimḥayyiṭlōš!»
 067. ḳōmaṯ hōḏ, ayṯillalla, ḥayyṭlalla.
-068. tōle ʕēḏa, xassaččil lann waʕyōṯa w zlalla ʕa ṣlōṯa.
+068. ṯōle ʕēḏa, xassaččil lann waʕyōṯa w zlalla ʕa ṣlōṯa.
 069. ʕamṣallya w klēsya malya.
 070. naffeḳ ḳašīša w muṭrōna p-xenša tayyīrin.
 071. ḥimna muṭrōna, amella: «yīb brīxa yā... yīb brīxa kappūta w mō ušme... w hōb batəlṯa ti nayṯillīš ana yā hana!»

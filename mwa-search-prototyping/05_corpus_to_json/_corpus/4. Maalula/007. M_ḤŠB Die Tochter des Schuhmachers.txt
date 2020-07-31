@@ -1,4 +1,4 @@
-001. ōṯ aḥḥaḏ mīṯaṯ eččṯe w īlaf skarbīnča.
+﻿001. ōṯ aḥḥaḏ mīṯaṯ eččṯe w īlaf skarbīnča.
 002. amrōle: «amōnča bə-ḳḏōla, la čixṭub eḥḏa ġēr... ġēr ṯṯēla hōs skarbīnča ʕa reġra!»
 003. amella: «ē, apšir ʕayniš!»
 004. laḳḳeṭəl lōs skarbīnča w tayyer b-ōm mḏīnča ṯṯēla mett eḥḏa hōḏ skarbīnča ʕa reġra — lōmar ṯṯēla.
@@ -13,7 +13,7 @@
 013. ḳōmaṯ... zalle inḥeč ʕal-ōm mḏīnča ʕal-ōṣ ṣōġṯa šwēla ḳoppṯiḏ ḏahba, w ayṯ lōḳ ḳoppṯiḏ ḏahba w ṯōle.
 014. amrōle: «ux, ux, ʕāl. hōḏ orḥa nxaṭbōx.»
 015. zalle, činya lina, yayṯ ġarḏ̣ō, ʕillaṯ ʕal-ōḳ ḳoppṯa, sakkračča mn-elġul w ḳʕalla bā.
-016. mtawwar ʕa berče, mtawwar mtawwar, inəcxwaṯ, lōmar yiščḥenna.
+016. mtawwar ʕa berče, mtawwar mtawwar, inəxwaṯ, lōmar yiščḥenna.
 017. ḳōyem maḥḥečəl lōḳ ḳoppṯa ʕa mḏīnča w mzappella.
 018. la barnaš aḳtar yzubnenna ġēr ebər malka.
 019. ḳōyem mamrill malka: «xāāānn xāāānn ḳaḏ̣īṯa w ōṯ aḥḥaḏ ʕemme ḳoppṯa w batte yzappnenna.»
@@ -27,11 +27,11 @@
 027. ṯiḳnaṯ mkaṯṯra b-zawta, ōmar: «l-ʕama, ana bann nīḳu niḥəm mōn hanna ti ʕammaxell lanna xōla.»
 028. aḳa bib-lēlya, šūnəl ḥōle ġarreḳ willa iščaḥ bisnīṯa ex batra, w saʕra l-felkil ḥaṣṣa w naffīḳa ʕammaxlōl lanna xōla.
 029. aḳa ḥakkīna, amella: «yā bisnīṯa, la čīzuʕ! mō ḳiṣṣṯiš?»
-030. amrōle: «ana ḳiṣəṯ xāāānn xāāānn xāāā.»
+030. amrōle: «ana ḳiṣəṯ xāāānn xāāānn xāāānn.»
 031. amella: «ē, čiʕnīš!»
-032. hah, la ṭawwlaṯ əḥkōyṯa ġēr iṯḳen ḥarba bə-blayayy.
+032. hah, la ṭawwlaṯ əḥkōyṯa ġēr iṯḳen ḥarba bə-blatayy.
 033. ḳōye ṭaʕell ḥōle zelle ʕa ḥarba.
-034. mamell_emme: «yā emmay, aṣḥiš hōḳ ḳoppṯa! la čaffḳinna ʕa šimša w xōla ti čība čmassiḳlōl assḳul uxxul yōma!
+034. mamell_emme: «yā emmay, aṣḥiš hōḳ ḳoppṯa! la čaffḳinna ʕa šimša w xōla ti čība čmassiḳlōl assḳu uxxul yōma!
 035. aṣḥiš čičʔaxxar w bess hōḳ ḳoppṯa la čaffḳinna l-elbar!»
 036. amrōle: «lā, ya čḳubrinni, ex bann naffḳenna?»
 037. ḳōye, ṭaʕell ḥōle w zelle, zelle ʕa ḥarba.
@@ -48,14 +48,14 @@
 048. ṯōle ʕal-ōḳ ḳoppṯa, la ščiḥəl bisnīṯa. ḳōyem miččžaʕ.
 049. hōb bisnīṯa — b-amril alō batte yibʕenne — ḏukkṯil šalfanna ʕa syōġa sōḳṭa ʕa nahra.
 050. ḳaʕyōla ʕa ḥaffṯin nahra, ṯyallen ṯarč yawən mišwlalla ʕaynōya — mfaṯṯḥa.
-051. ḏukkṯil mfaṯṯḥa msarrba xann w zlōla ʕal_axerčil lanna nahra willa miščaḥya aḥḥaṯ iḳəʕ b-bisčōna — ʕamnōṭar.
+051. ḏukkṯil mfaṯṯḥa msarrba xann w zlōla ʕal_axerčil lanna nahra willa miščaḥya aḥḥaḏ iḳəʕ b-bisčōna — ʕamnōṭar.
 052. iṯḳen zōʕeḳ aʕla — mxammella batta činġub, ḥramōy —: «ṯāš l-ōxa!»
 053. ṯalla leʕle, amella: «yā bisnīṯa, mō ḳiṣṣṯiš?»
 054. amrōle: «taxīlax, ġappax amōna?»
 055. amella: «hašš birči b-ʕahtil alō.»
 056. amrōle: «ḳiṣṣṯi xāāānn xāāānn xāāānn.»
 057. amella: «wa law, čūṯ aʕaz minniš ġēr ti xalḳiš.»
-058. hah, ebər malka infeḳ b-ōm mamlakṯa ču ḥayle.
+058. hah, ebər malka infeḳ ṣīṭe b-ōm mamlakṯa ču ḥayle.
 059. atar hū, ebər malka appīlla xōčma xassiyōle b-īḏa.
 060. infeḳ ṣīṭe ču ḥayle, hanna mayṯēle burtḳān, hanna mayṯēle mōz, hanna mayṯēle xoḏ̣ərṯa, hanna mayṯēle buššōl ḥazzeḳ yīxul yayṭeb, lōmar yayṭeb.
 061. baʕdēn amrōl mōrəl lanna bisčōna — iḏʕaṯ hī —: «ya eppay, ġappax xeška?»
@@ -66,7 +66,7 @@
 066. amrōle: «šḳōl hanna xeška applēll_ebər malka!»
 067. amella: «uš əp-ḥayyiš, ex bann nšuḳəllēle? ʕamṯēle htiyōṯa.»
 068. amrōle: «hačč šuḳəllēle hanna xeška w ṯōx! la čīzuʕ! in taffšunnax, ḳaṭlunnax, la čīzuʕ! čbaḳḳi tuġray ssalleḳ leʕle!»
-069. infaḏ hanna ʕa ṯarʕa w hann ʕaptō, hanna mtaffešle mn-ōxa, hanna maḥək ʕemme «xōlət tunya la ayṭbe w hōḳ ḳalles xeška ti čišḳīlle batte yayṭbenne?»
+069. infaḏ hanna ʕa ṯarʕa w hann ʕaptō, hanna mtaffešle mn-ōxa, hanna maḥək ʕemme: «xōlət tunya la ayṭbe w hōḳ ḳalles xeška ti čišḳīlle batte yayṭbenne?»
 070. amellun «yā ġmōʕča, taššrunnī ninfuḏ leʕle!»
 071. iḏeʕ ebər malka, amellun: «appullē amōna w taššrunnē yislaḳ!»
 072. isleḳ leʕle ʕa ḳaṣra, ayṯ hanna xeška b-zuptōyṯa w applēle.
@@ -80,20 +80,20 @@
 080. amelle: «b-ḏokkṯa flayōyṯa p-šiḳya. nʕammīrin nočfil kūxa w nḳaʕyin.»
 081. amelle: «yōma flanō, waḳča flanō mann nzurennax!»
 082. appēle ḳiršō, ḏahbō, millēle xoržiḏ ḏahbō w amelle: «zēx! alō yīb ʕemmax!»
-083. lā, ya alō, la appēle ḏahbo, šattre. amelle: «zēx!»
+083. lā, ya alō, la appēle ḏahbō, šattre. amelle: «zēx!»
 084. ḏukkṯit talle ʕa payṯa, ṯōle amella. amella: «uš, ḳaḏ̣īṯa xāāānn xāāānn. batte yṯēle ebər malka yzurennaḥ.
 085. w ex ya waylaynaḥ? ču ġappaynaḥ korsa naḳʕenne.»
 086. amrōle: «wa law, la čīzuʕ! marzeḳ alō.»
 087. hah, willa šattīrlun ḳiršō ʕemmil ʕaptō.
 088. ḳōymin šaḳlill lann ḏahbō w zlillun ʕa mḏīnča, mayṯyin b-anna sužžād w mayṯyin b-ann kursō w fōrsin ex ḳahwe b-ōš šiḳya. ḳaʕyillun.
 089. hah, willa ṯōle ebər malka w wzirōye liʕlayy.
-090. infaḏ leʕla, amella: «mōn naffḏiš l-ōxa»
+090. infaḏ leʕla, amella: «mōn naffḏiš l-ōxa?»
 091. amrōle: «ana ḳiṣəṯ xāāānn xāāānn xāāānn. affḳanni bnōṯəl ḥōlčax, aḳʕanni p-šimša.
 092. ana nḏōḳiṯ m-šimša, ṭaʕniččil ḥōl w nifḳiṯ m-ḳoppṯa.
 093. nifḳiṯ m-ḳoppṯa. ḏukkṯin nifḳiṯ m-ḳoppṯa w ḥmann, ḳaləʕlall ʕaynōy w šalfann ʕa syōġča.
 094. hōs syōġča ōṯ erraʕ menna nahra, zaḥliṯ w zlill ʕal-anna nahra.
 095. la ḥissiṯ w_atriṯ illa ṯarč yawən ḥuwwōran ayṯillall w šulall ʕaynōy — faṯṯḥiṯ.
-096. ḏukkṯil faṯṯḥiṯ ʕayniṯ, ščaḥyiṯ ġabrōna p-ṭarfīš šiḳya.
+096. ḏukkṯil faṯṯḥiṯ ʕayniṯ, ščaḥyiṯ ġabrōna p-ṭarfiš šiḳya.
 097. allxiṯ ḳalles ḳalles w zlill leʕle w člōžiṯ ġappe w ḳʕill ġappe.»
 098. amella «xāāānn?»
 099. amrōle: «ē, xann!»
@@ -104,5 +104,5 @@
 104. uxxul_eḥḏa ḳatra b-ḏenpis sūsča w amell ʕaptō: «yalla ruxpōn ʕal-anna raxša!»
 105. irxep ʕal-anna raxša w žarrunn.
 106. raxša marheṭ bōn m-ḳomma w xalpō nōhšin bōn m-roḥla l-ḥēēētta la čbaḳḳēlen ʕnēna.
-107. ṭaʕnull ḥallay hann ʕaptō w rōžaʕ leʕle, amrulle: «yā malikna z-zamān, exmil amrīčlaḥ šwinnaḥ.»
+107. ṭaʕnull ḥalayy hann ʕaptō w rōžaʕ leʕle, amrulle: «yā malikna z-zamān, exmil amrīčlaḥ šwinnaḥ.»
 108. w luḳbōlča l-uxxul lēlya čiṯyullxun liʕlaynaḥ naḥkēlxun ḥkōyṯa.

@@ -1,4 +1,4 @@
-001. iṯḳen ḥōdiṯ ʕimmay wa nīzel ʕa irōḳ, w m-ʕirōḳ asəʕfunnay ʕa mustašfa w m-mustašfa ayṯunnay ʕa ḏemseḳ.
+001. iṯḳen ḥōdiṯ ʕimmay wa nīzel ʕa ʕirōḳ, w m-ʕirōḳ asəʕfunnay ʕa mustašfa w m-mustašfa ayṯunnay ʕa ḏemseḳ.
 002. b-ḏemseḳ išwiṯ eṯlaṯ ʕamalōy, lasa manəžḥan.
 003. luḳḳi lasa manəžḥan, ōmrin: «bax čīz ʕal_almūnya».
 004. šattriṯ warḳōṯa ʕal_almūnya, aḳam šattrūlay mn-ēl: ē, ṯōḳna hō ʕamalōyṯa.
@@ -18,103 +18,102 @@
 018. amillay: «yā ḥūnay, hān ġarḏ̣ō tīx ču zlīl, ōyṯ sukērta mʕáwwaḏ̣a eʕlax. lab ʕōwtaṯ šanṭṯa mḳaṭṭaʕlēx w lab la ʕōwtaṯ mʕáwwaḏ̣a eʕlax ḳiršō, čbōʕ ġarḏ̣ōya».
 019. amrille: «hōš bīlay nzillay, mina bin nirxab?»
 020. amillay: «ḳʕō, ščō šāy, w hōš tōr čōz, šaʕṯa ṯarəč, bi-čallex ṭayyōrča, črōxeb».
-021. iḳʕiṯ, iščiṯ šāy w šaʕṯa ṯarəč silḳiṯ ʕa taržōṯa ʕa káhraba, awḳfiṯ ʕa tarəžta w ōḏ̣el sallīḳin l-ḥatta l-elʕel — la laxṯa w la mīt.
+021. iḳʕiṯ, iščiṯ šāy w šaʕṯa ṯarəč silḳiṯ ʕa taržōṯa ʕa káhraba, awḳfiṯ ʕa tarəžṯa w ōḏ̣el sallīḳin l-ḥatta l-elʕel — la laxṯa w la mīt.
 022. ʕibriṯ ōyṯ ṯarəč faččšannay w ʕibriṯ l-ṯēni ġorfṯa, uxxul_aḥḥa zwōḏe ʕa ṭawəlṯa, ṭaʕenla... ṭaʕən zwōḏe w zelle ʕa ṭayyōrča.
 023. rixpiṯ atar p-ṭayyōrča mə-myunex l-homburəg.
 024. b-homburəg ču nyōḏaʕ ana, šaʕʕliṯ — ču nyōḏaʕ.
-025. aṯa ḏ̣ōpṭa b-eṯlaṯ nižəm ʕa xaffṯe, ḥōčnay b-almūnay, lasa nmifčham eʕle.
-026. īlay warḳṯa xṯība b-almūnay. appičlēle, innu ixṯeb: ražaʔān tillnūy ana, bin nīz ʕa mustašfa flanūyṯa.
-027. aḳam hanna ḏ̣ōpṭa, ṭaʕən lō šanṭṯa tīḏay w zalle, aššar l-taksi.
-028. awḳfa w_arxpay, amelle: «hanna časeble ʕa mustašfa ando, mustašfa ando!»
-029. aspay hanna šufayr ʕa mustašfa ando, mṭinnaḥ l-ēl.
-030. ōmar hanna til_ōb p-ṯarʕa: «hāč mawʕṯax ʕisər w arpʕa b-yarḥa w hōš ʕisər w iṯṯer b-yarḥa. ču misčaḳəblillax, bax čzellax čuḏmux b-utayl iṯṯer yūm w tōr čṯēx».
-031. aḳam hanna mūr taksi ḳayyam ʕimmay, arəxpay w aspay ʕal_utayl.
-032. mṭinnaḥ l-utayl, amillay: «marək hunūb?» yaʕn hōn aybin ḳiršō.
-033. awmille, amrille: «ḥmīl b-ʕuppay». aḳam ʕōwet.
-034. luḳḳi ʕōwet ana čxawwašiṯ.
-035. ōmriṯ: mā, bi-yuspinnay yšallaḥinnay yaʕn?
-036. aḳam arxpay w ʕawwtay ʕa mustašfa.
-037. ameləl: «hanna īzel ʕa mustašfa w ʕemme ḳiršō l-ʕamalōyṯa. rubbama barnaš ynaštarlēle.
-038. ammanlūle hōxa w tōr naseble ʕa mustašfa».
-039. ʕanū šaʕba ma fahman.
-040. amrūle: «ē, waḷḷa slōḳ l-ʕa flanūyṯa l-elʕel».
-041. ōyṯ eḥḏa činya mah hešma... šmešta mā.
-042. silḳiṯ l-elʕel, l-muhīm ti masʔūlay maʕ santūḳa.
-043. amella: «hanna ēle ḳiršōya w ḳaḏ̣īṯe xān xān, aspičče ʕal_utayl w ʕawwtičče.
-044. ammanlūle ḳiršōye w nīz w nimʕawwetle ʕal_utayl».
-045. amrōle: «hōn aybin ḳiršō?»
-046. amrilla: «ḥmīl».
-047. amrōlay: «basporət!»
-048. appičlēla, affḳičči markōya w aspačči lān tmanṭaʕšar aləf marək, šaččōya bōn w ōyṯ ḥammeš aləf marək ʕimmay ḳiršō.
-049. aspāč, arnḥāč p-santūḳa, ḳayyḏaččil_išmay ʕlāy w appallay waṣla w xaṯpaṯ... w appallay eṯlaṯ emʕa marək: «hān maṣrūfax b-utayl».
-050. amrōle: «spī l-utayl!»
-051. rafʕačči talafōn... amrōle: «lihan aspīčne?»
-052. amella: «l-utayl flanū».
-053. rafʕačči talafōn hī w xápparaṯ ʕal_utayl, amrōle: «hō zaləmṯa hanna ʕárabay w ču yōḏaʕ b-almūnay.
-054. hanna hāč čmasʔul meʕle. ʕisər w arpʕa b-yarḥa, saʕṯa ṯmūn bēle ib ōb b-mustašfa».
-055. amella: «šattrū!»
-056. rixpiṯ ana w hanna šufayr w zlinnaḥ ʕal_utayl.
-057. min mṭinnaḥ sčaḳəblannaḥ.
-058. ʕibrinnaḥ l-ulġul, appīlay mufčḥa w amillay: «hanna raḳma w zē ttawwaḥ ʕa ġorfṯa!»
-059. zlillay táwwaḥiṯ ʕa ġorfṯa, sčahtiṯ ʕa raḳma, ʕibriṯ, ḏimxiṯ ōṯ ṯarč šaʕ.
-060. ṯarč šaʕ ḳōmiṯ nixfen, bīlay nūḳu nūxul w ču nyōḏaʕ.
-061. nifḳiṯ lə-xlōya, aššarlay amillay: «hōn čōz?»
-062. šwille b-īḏay, innu awmille ʕa ṯimmay innu bin nūxul.
-063. ōyṯ psōna amelle b-almūnay: «zē tillnī ʕa maṭəʕma!»
-064. allex hanna psōna ḳummay w zalle aššarlay ʕa maṭəʕma.
-065. ʕibriṯ, aspiṯ felči farrūža, šarriṯ w ʕōwtiṯ atar l-ulġul.
-066. l-ʕisər w arpʕa iḳʕiṯ iṯṯer yūm.
-067. ʕisər w arpʕa b-yarḥa aṯa, ittaḳ iʕlay šaʕṯa ṯmūn baččar, amillay: «ʕa mustašfa ando, mašfa ando!»
-068. aššarlay taksi, awḳfaṯ, rixpiṯ bāh w zlillay ʕa mustašfa. (awḳēf atar šrīṭa!).
-069. mṭinnaḥ l-mustašfa: «ṣabāḥ al-xēr! — ṣabāh al-xēr!», appičlēl lān warḳōṯa.
-070. ḥmūl lān warḳōṯa: «slōḳ l-elʕel!»
-071. silḳiṯ l-elʕel, ē, ču nyōḏaʕ, la nmafhem ʕlāy w la mafəhmin iʕlay.
-072. hī — hō til_aspačči warḳōṯa minnay, l-ḳiršōya minnay w affāč ġappah — eḏʕaṯ, innu yōmi ʕisər w arpʕa b-yarḥa bin nīṯ w ču nyōḏaʕ almūnay.
-073. ḳōmaṯ xárrapaṯ eḥḏa ḳuryōy m-israʔēl ayba hēl, šmesta, mumarriḏ̣a, ayṯačča.
-074. waḷḷa min imṭiṯ ana, čapsačči žarsa, xápparaṯ p-talafōn — aṯaṯ.
-075. min ʕibraṯ ōmraṯ: «ṣabāḥ al-xēr» b-arbeṯ, ana ifṯaḥ lippay.
-076. ču nyōḏaʕ, čū nyōḏaʕ b-almūnay.
-077. min ōmraṯ: «ṣabān əl-xēr» ifṯaḥ lippay, amrilla: «ṣabāḥ əl-xēr».
-078. sállamaṯ iʕlay: «ahla w sahla ibn lə-blād. šlōnak? šlōn lə-blād?»
-079. sállamiṯ l-muhīm eʕlah w_iḳʕiṯ.
-080. amrōla: «mallū hanna hōš bēle yfuḥṣunne w bi-yzelle ʕa mustašfa motomoro, baʕʕīḏa mn-ūxa ōṯ emʕa w ḥiməš kilumetr».
-081. hēl mišwlūle ʕamalyōṯe, hōxa ġappaynaḥ čūle afaš ʕamal.
-082. šoġle hēl, bēs hōṯa mustašfa čbīʕa l-ōḏen, w mallū, ablū raḳmi talafūniš.
-083. mah mi bōʕ w mah mi miʕčaz yxapparinniš w hāš šimxapparōḥ.
-084. mah mi misčaṣʕeb eʕle yxapparinniš w hāš šimčarəžmū dakturōya».
-085. bala ṭūl sire ḳʕinnaḥ ōṯ šaʕṯa, aptaṯ: «mā ʕomrax?» w «mina hāč?» w  «hōn iṯḳen ḥōdiṯ ʕemmax?» w «mah hešmi blōtax?» w «mā raḳmi bayṯax w ʕinwōnax?»
-086. appičlēla xūl, aṯa daktūr.
-087. zlinnaḥ atar faḥṣay w ḥimən ṣuryōṯa, w ʕimmay ana warḳōṯa mn-ūxa wa nsīblen w ōmar: «hōš bax čzellax ʕa motomoro, čōseb taksi w čzellax. ʕemmax ḳiršō?»
-088. amrille: «ē». amrille: «ḳiršōya...» aššarille miʕlāy ōḏ̣el ʕemmi lō.
-089. ḥōčna b-almūnay, amrōle: «xūl ḳiršō...» amella_atar: «ʕawwtūl lō mah hešma ḳuryōyṯa, almanūyṯa, mah hešme, hō ti m-israʔēl». 
-090. amrūla: «fahhamū, mallū ḳiršōye ču zlīl, hōxa ʕaya ammīnin p-santūḳa w hān ḳiršōya ʕemmi maṣrūfa.
-091. emmat mi ṭalebəl nimšattarlūle».
-092. aṯaṯ amrōlay: «hōxa ḳiršōx čū zlīl w ammīnin, w ʕemmax waṣla bōn, la čūzuʕ!»
-093. amrilla: «lā, ču nzayyeʕ, bēs bīlay nfahhamēn innu aybin ʕimmāy».
-094. ḳōmiṯ awḳfiṯ taksi w zillay ʕa motomoro, zillay ʕa motomoro atar.
-095. min imṭiṯ l-ēl, xapparūn mn-ūxa.
-096. min imṭiṯ l-ṯarʕa ščaḳəblunnay dakturōya, appūlay ġorfṯa, appūlay čaxča w appūlay xzōnča.
-097. iḳʕiṯ iṯṯer činya ṯlōṯa yūm, aḳam bōṯar ṯlōṯa yūm asab minnay xazəʕṯa maxramča l-faḥṣa.
-098. bōṯar ṯlōṯa yūm ḥayyṭunna w lčahbaṯ riġlay, aptaṯ mawčʕōlay baḥer baḥer. ṭūlči lēlya nimḳalleb.
-099. aṯa ṯēni yōma ʕṣofra ḥčīma, farṭi lō ḳoṭəpṯa ti xazəʕṯa.
-100. malya eḏma w ʕamla, aptaṯ čōppa ʕa xlō.
-101. aḳam aspunnay atar ʕa ḏoččṯa maxr... ḏočči ltihabōya, ḳesma maxramča rfiḳōy, yaʕni la niḳəʕ ʕimmāy. 
-102. aspunnay ʕa ḳesma xēt ġayr ḳesma.
-103. iḳʕiṯ aptiṯ atar awwal b-awwal nlōḳeṭ minnāy čalōma w nyōḏaʕ innu hō ġarḏ̣a, hanna ġarḏ̣a, hanna mā ti ʕammaḥčin meʕle, nimlaṭṭeš laṭṭōša.
-104. iḳʕit šečča yarəḥ hēl šwūlay awwal ʕamalōyṯa, lasa manəžḥa, w ṯēni ʕamalōyṯa w ṯēleṯ ʕamalōyṯa.
-105. bōṯar atar šečča yarəḥ šwūlay ʕamalōyṯa, ōmrin anəžḥaṯ.
-106. ḳōmiṯ aṯiṯ l-ōxa.
-107. ʕōwtiṯ zlillay ščaġliṯ ʕa mačīna ʕa sʕudōyṯa ʕa šaḥna.
-108. ščaġliṯ ōṯ iṯṯer yarəḥ, ʕōwtaṯ lčahbaṯ.
-109. ḳōmiṯ aṯiṯ ʕa ḏemseḳ ʕa dakturō.
-110. ōmrin: «bax čzellax čišwēn... čʕōwet ʕal_almūnya, ḏočči šwičəl lō ʕamalōyṯa.
-111. reġlax eppa ltihōb w hōxa čūḥ mēt lə-ltihōb xwō almūnya».
-112. ḳōmiṯ ʕōwtiṯ, sawwičči warḳōṯay w rixpiṯ w zlillay liʕlāy, lō-ḥmay ġayr nūb hēl.
-113. aḥamčlēl warḳōṯa, ḥmūn riġlay, amēl: «bax čʕawwtunne ʕa mustašfa ando».
-114. ḳōmiṯ xīt, aspiṯ taksi w zlillay l-ēl.
-115. šwūlay ʕamalōyṯa w ḳiršōya la tafʕīl.
-116. amrīl: «awwal naḳəlṯa asab minnay tmanṭaʕšar aləf warəḳ, ṯēn naḳəlṯa ču ʕimmay ḳiršōya».
-117. aʕyay hīn mamrillay: «bex čutfuʕ ḳiršō!»
-118. amrīl: «ya ʕawwtunnay ʕa blatōy, ya šwullay ʕamalōyṯa! hačəx šučlūlay ʕamalōyṯa, čūlay ḳiršō ana».
-119. ē, šwūlay ʕamalōyṯa atar w ʕōwtiṯ.
-120. bēs, saččōr atar!
+025. aṯa ḏ̣ōpṭa b-eṯlaṯ nižəm ʕa xaffṯe, ḥōčnay b-almūnay, lasa nmifčham eʕle. īlay warḳṯa xṯība b-almūnay. appičlēle, innu ixṯeb: ražaʔān tillnūy ana, bin nīz ʕa mustašfa flanūyṯa.
+026. aḳam hanna ḏ̣ōpṭa, ṭaʕən lō šanṭṯa tīḏay w zalle, aššar l-taksi.
+027. awḳfa w_arxpay, amelle: «hanna časeble ʕa mustašfa ando, mustašfa ando!»
+028. aspay hanna šufayr ʕa mustašfa ando, mṭinnaḥ l-ēl.
+029. ōmar hanna til_ōb p-ṯarʕa: «hāč mawʕəṯax ʕisər w arpʕa b-yarḥa w hōš ʕisər w iṯṯer b-yarḥa. ču misčaḳəblillax, bax čzellax čuḏmux b-utayl iṯṯer yūm w tōr čṯēx».
+030. aḳam hanna mūr taksi ḳayyam ʕimmay, arəxpay w aspay ʕal_utayl.
+031. mṭinnaḥ l-utayl, amillay: «marək hunūb?» yaʕn hōn aybin ḳiršō.
+032. awmille, amrille: «ḥmīl b-ʕuppay». aḳam ʕōwet.
+033. luḳḳi ʕōwet ana čxáwwašiṯ.
+034. ōmriṯ: mā, bi-yuspinnay yšallaḥinnay yaʕn?
+035. aḳam arxpay w ʕawwtay ʕa mustašfa.
+036. ameləl: «hanna īzel ʕa mustašfa w ʕemme ḳiršō l-ʕamalōyṯa. rubbama barnaš ynaštarlēle.
+037. ammanlūle hōxa w tōr naseble ʕa mustašfa».
+038. ʕanū šaʕba ma fahman.
+039. amrūle: «ē, waḷḷa slōḳ l-ʕa flanūyṯa l-elʕel».
+040. ōyṯ eḥḏa činya mah hešma... šmesta mā.
+041. silḳiṯ l-elʕel, l-muhīm ti masʔūlay maʕ santūḳa.
+042. amella: «hanna ēle ḳiršōya w ḳaḏ̣īṯe xān xān, aspičče ʕal_utayl w ʕawwtičče.
+043. ammanlūle ḳiršōye w nīz w nimʕawwetle ʕal_utayl».
+044. amrōle: «hōn aybin ḳiršō?»
+045. amrilla: «ḥmīl».
+046. amrōlay: «basporət!»
+047. appičlēla, affḳičči markōya w aspačči lān tmanṭaʕšar aləf marək, šaččōya bōn w ōyṯ ḥammeš aləf marək ʕimmay ḳiršō.
+048. aspāč, arnḥāč p-santūḳa, ḳayyḏaččil_išmay ʕlāy w appallay waṣla w xaṯpaṯ... w appallay eṯlaṯ emʕa marək: «hān maṣrūfax b-utayl».
+049. amrōle: «spī l-utayl!»
+050. rafʕačči talafōn... amrōle: «lihan aspīčne?»
+051. amella: «l-utayl flanū».
+052. rafʕačči talafōn hī w xápparaṯ ʕal_utayl, amrōle: «hō zaləmṯa hanna ʕárabay w ču yōḏaʕ b-almūnay.
+053. hanna hāč čmasʔul meʕle. ʕisər w arpʕa b-yarḥa, šaʕṯa ṯmūn bēle ib ōb b-mustašfa».
+054. amella: «šattrū!»
+055. rixpiṯ ana w hanna šufayr w zlinnaḥ ʕal_utayl.
+056. min mṭinnaḥ sčaḳəblannaḥ.
+057. ʕibrinnaḥ l-ulġul, appīlay mufčḥa w amillay: «hanna raḳma w zē ttawwaḥ ʕa ġorfṯa!»
+058. zlillay táwwaḥiṯ ʕa ġorfṯa, sčahtiṯ ʕa raḳma, ʕibriṯ, ḏimxiṯ ōṯ ṯarč šaʕ.
+059. ṯarč šaʕ ḳōmiṯ nixfen, bīlay nūḳu nūxul w ču nyōḏaʕ.
+060. nifḳiṯ lə-xlōya, aššarlay amillay: «hōn čōz?»
+061. šwille b-īḏay, innu awmille ʕa ṯimmay innu bin nūxul.
+062. ōyṯ psōna amelle b-almūnay: «zē tillnī ʕa maṭəʕma!»
+063. allex hanna psōna ḳummay w zalle aššarlay ʕa maṭəʕma.
+064. ʕibriṯ, aspiṯ felči farrūža, šarriṯ w ʕōwtiṯ atar l-ulġul.
+065. l-ʕisər w arpʕa iḳʕiṯ iṯṯer yūm.
+066. ʕisər w arpʕa b-yarḥa aṯa, ittaḳ iʕlay šaʕṯa ṯmūn baččar, amillay: «ʕa mustašfa ando, mašfa ando!»
+067. aššarlay taksi, awḳfaṯ, rixpiṯ bāh w zlillay ʕa mustašfa. (awḳēf atar šrīṭa!).
+068. mṭinnaḥ l-mustašfa: «ṣabāḥ al-xēr! — ṣabāḥ al-xēr!», appičlēl lān warḳōṯa.
+069. ḥmūl lān warḳōṯa: «slōḳ l-elʕel!»
+070. silḳiṯ l-elʕel, ē, ču nyōḏaʕ, la nmafhem ʕlāy w la mafəhmin iʕlay.
+071. hī — hō til_aspačči warḳōṯa minnay, l-ḳiršōya minnay w affāč ġappah — eḏʕaṯ, innu yōmi ʕisər w arpʕa b-yarḥa bin nīṯ w ču nyōḏaʕ almūnay.
+072. ḳōmaṯ xárrapaṯ eḥḏa ḳuryōy m-israʔēl ayba hēl, šmesta, mumarriḏ̣a, ayṯačča.
+073. waḷḷa min imṭiṯ ana, čapsačči žarsa, xápparaṯ p-talafōn — aṯaṯ.
+074. min ʕibraṯ ōmraṯ: «ṣabāḥ al-xēr» b-ʕarbeṯ, ana ifṯaḥ lippay.
+075. ču nyōḏaʕ, čū nyōḏaʕ b-almūnay.
+076. min ōmraṯ: «ṣabāḥ əl-xēr» ifṯaḥ lippay, amrilla: «ṣabāḥ əl-xēr».
+077. sállamaṯ iʕlay: «ahla w sahla ibn lə-blād. šlōnak? šlōn lə-blād?»
+078. sállamiṯ l-muhīm eʕlah w_iḳʕiṯ.
+079. amrōla: «mallū hanna hōš bēle yfuḥṣunne w bi-yzelle ʕa mustašfa motomoro, baʕʕīḏa mn-ūxa ōṯ emʕa w ḥiməš kilumetr».
+080. hēl mišwlūle ʕamalyōṯe, hōxa ġappaynaḥ čūle afaš ʕamal.
+081. šoġle hēl, bēs hōṯa mustašfa čbīʕa l-ōḏen, w mallū, ablū raḳmi talafūniš.
+082. mah mi bōʕ w mah mi miʕčaz yxapparinniš w hāš šimxapparōḥ.
+083. mah mi misčaṣʕeb eʕle yxapparinniš w hāš šimčarəžmū dakturōya».
+084. bala ṭūl sīre ḳʕinnaḥ ōṯ šaʕṯa, aptaṯ: «mā ʕomrax?» w «mina hāč?» w «hōn iṯḳen ḥōdiṯ ʕemmax?» w «mah hešmi blōtax?» w «mā raḳmi bayṯax w ʕinwōnax?»
+085. appičlēla xūl, aṯa daktūr.
+086. zlinnaḥ atar faḥṣay w ḥimən ṣuryōṯa, w ʕimmay ana warḳōṯa mn-ūxa wa nsīblen w ōmar: «hōš bax čzellax ʕa motomoro, čōseb taksi w čzellax. ʕemmax ḳiršō?»
+087. amrille: «ē». amrille: «ḳiršōya...» aššarille miʕlāy ōḏ̣el ʕemmi lō.
+088. ḥōčna b-almūnay, amrōle: «xūl ḳiršō...» amella_atar: «ʕawwtūl lō mah hešma ḳuryōyṯa, almanūyṯa, mah hešme, hō ti m-israʔēl». 
+089. amrūla: «fahhamū, mallū ḳiršōye ču zlīl, hōxa ʕaya ammīnin p-santūḳa w hān ḳiršōya ʕemmi maṣrūfa.
+090. emmat mi ṭalebəl nimšattarlūle».
+091. aṯaṯ amrōlay: «hōxa ḳiršōx čū zlīl w ammīnin, w ʕemmax waṣla bōn, la čūzuʕ!»
+092. amrilla: «lā, ču nzayyeʕ, bēs bīlay nfahhamēn innu aybin ʕimmāy».
+093. ḳōmiṯ awḳfiṯ taksi w zillay ʕa motomoro, zillay ʕa motomoro atar.
+094. min imṭiṯ l-ēl, xapparūn mn-ūxa.
+095. min imṭiṯ l-ṯarʕa ščaḳəblunnay dakturōya, appūlay ġorfṯa, appūlay čaxča w appūlay xzōnča.
+096. iḳʕiṯ iṯṯer činya ṯlōṯa yūm, aḳam bōṯar ṯlōṯa yūm asab minnay xazəʕṯa maxramča l-faḥṣa.
+097. bōṯar ṯlōṯa yūm ḥayyṭunna w lčahbaṯ riġlay, aptaṯ mawčʕōlay baḥer baḥer. ṭūlči lēlya nimḳalleb.
+098. aṯa ṯēni yōma ʕṣofra ḥčīma, farṭi lō ḳoṭəpṯa ti xazəʕṯa.
+099. malya eḏma w ʕamla, aptaṯ čōppa ʕa xlō.
+100. aḳam aspunnay atar ʕa ḏoččṯa maxr... ḏočči ltihabōya, ḳesma maxramča rfiḳōy, yaʕni la niḳəʕ ʕimmāy. 
+101. aspunnay ʕa ḳesma xēt ġayr ḳesma.
+102. iḳʕiṯ aptiṯ atar awwal b-awwal nlōḳeṭ minnāy čalōma w nyōḏaʕ innu hō ġarḏ̣a, hanna ġarḏ̣a, hanna mā ti ʕammaḥčin meʕle, nimlaṭṭeš laṭṭōša.
+103. iḳʕiṯ šečča yarəḥ hēl, šwūlay awwal ʕamalōyṯa, lasa manəžḥa, w ṯēni ʕamalōyṯa w ṯēleṯ ʕamalōyṯa.
+104. bōṯar atar šečča yarəḥ šwūlay ʕamalōyṯa, ōmrin anəžḥaṯ.
+105. ḳōmiṯ aṯiṯ l-ōxa.
+106. ʕōwtiṯ zlillay ščaġliṯ ʕa mačīna ʕa sʕudōyṯa ʕa šaḥna.
+107. ščaġliṯ ōṯ iṯṯer yarəḥ, ʕōwtaṯ lčahbaṯ.
+108. ḳōmiṯ aṯiṯ ʕa ḏemseḳ ʕa dakturō.
+109. ōmrin: «bax čzellax čišwēn... čʕōwet ʕal_almūnya, ḏočči šwičəl lō ʕamalōyṯa.
+110. reġlax eppa ltihōb w hōxa čūḥ mēt lə-ltihōb xwō almūnya».
+111. ḳōmiṯ ʕōwtiṯ, sawwičči warḳōṯay w rixpiṯ w zlillay liʕlāy, lō-ḥmay ġayr nūb hēl.
+112. aḥamčlēl warḳōṯa, ḥmūn riġlay, amēl: «bax čʕawwtunne ʕa mustašfa ando».
+113. ḳōmiṯ xīt, aspiṯ taksi w zlillay l-ēl.
+114. šwūlay ʕamalōyṯa w ḳiršōya la tafʕīl.
+115. amrīl: «awwal naḳəlṯa asab minnay tmanṭaʕšar aləf warəḳ, ṯēn naḳəlṯa ču ʕimmay ḳiršōya».
+116. aʕyay hīn, mamrillay: «bex čutfuʕ ḳiršō!»
+117. amrīl: «ya ʕawwtunnay ʕa blatōy, ya šwullay ʕamalōyṯa! hačəx šučlūlay ʕamalōyṯa, čūlay ḳiršō ana».
+118. ē, šwūlay ʕamalōyṯa atar w ʕōwtiṯ.
+119. bēs, saččōr atar!

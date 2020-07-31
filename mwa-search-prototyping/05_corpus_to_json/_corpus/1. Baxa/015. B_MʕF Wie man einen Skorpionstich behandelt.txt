@@ -1,14 +1,14 @@
 001. m-mett eʕsar išən taḳrīban ōṯ ġappaynaḥ riḥlō, yaʕni b-ʕittīṯəl mett tarć emʕa rēš, ṯarć emʕa w ḥiməš rēš.
 002. p-ḥayōṯəl marḥūma eppay fōš nizlillaḥ nimsōfrin ʕa tīrćlə šmōla, manṭaḳća ešma ḥisya.
 003. ṭabʕan riḥlō, hann fōš nmišwillun iṯṯar ḳisəm, ḳesma ǧalta w ḳesma raġṯa.
-004. raġṯa fōš aḥḥaḏ mxaṣṣaṣlēlun w ǧalta fōš aḥḥaḏ mxaṣṣaṣlēlun.
+004. raġṯa fōš aḥḥaḏ mxaṣṣaṣ lēlun w ǧalta fōš aḥḥaḏ mxaṣṣaṣ lēlun.
 005. niṯlillaḥ l-ōxan b-yumōylə rbīʕa laʔinnu manṭaḳća helhel šawba, yaʕni ṭarša ću mićḥammelli bima innu tīrćaḥ hōxan abrad ḳalles.
 006. nimmaḏ̣ḏ̣yin mett iṯṯar yarəḥ, ṯlōṯa yarəḥ taḳrīban b-yumōylə ḥṣōḏa w ʕoḳbil ma fōx hwō taḳrīban yaʕni kuḥkull_eṣ-ṣlība, yaʕni miʕōtəl ʕinbō nimsōfrin p-ṭarša mn-ōxan l-arəʕwōṯəl ḥisya.
 007. ṭabʕan nimǧahhazill ḥalaynaḥ, yaʕni riḥlō mallxin l-ḥalēn w ʕēlṯa w zhōba zlōla m-makinyōṯa.
 008. riḥlō mallxin, battax ćīmar, yaʕni awwal yōma, ṯēni yōma l-ḥatta ṯlōṯa yūm ʕa terba l-ḥatta yimṭun l-elhel.
 009. ṭabʕan yaʕni hann riḥlō minʕarḏ̣in ʕa kumruk minšōn yappēlun ćisrīḥa laḥatta la barš yisćaʕrḏ̣ennun ʕa terba.
-010. nmōṭyin l-elhel, ṭabʕan manṭaḳća helhel ǧabalōy, ōṯ marəʕya helhel w ġappaynaḥ payṯō w ḥawšō w yaxurō w ġappaynaḥ birō.
-011. birō hann nxiṣṣiṣillin l-ṭarša minšōn nēši mō p-ṣahriǧō liʔannu ćūṯ nabʕō ġappaynaḥ helhel.
+010. nmōṭyin l-elhel, ṭabʕan manṭaḳća helhel ǧabalōy. ōṯ marəʕya helhel w ġappaynaḥ payṯō w ḥawšō w yaxurō w ġappaynaḥ birō.
+011. birō hann nxiṣṣiṣillun l-ṭarša minšōn nēši mō p-ṣahriǧō liʔannu ćūṯ nabʕō ġappaynaḥ helhel.
 012. ṯōḳnin ṣahriǧō mišṭillaḥ b-aġra xull ṣahrīǧa mxaṣṣaṣli taḳrīban yaʕni l-ḥattil emʕa, emʕa w ʕisər warəḳ.
 013. mafḏ̣ēli b-anna bīra w nṯōḳnin nmašəḳyin menni awwal b-awwal.
 014. ḥayōṯa helhel ṭabʕan ḥurrōyṯa b-nesəpṯal ommṯa ći ḳaʕyillun helhel.
@@ -28,7 +28,7 @@
 028. anaḥ w niḏmīxin b-anna lēlya, walla ḳarṭin aḳərba.
 029. ḳōmiṯ aḥissiṯ eʕli w rakkašiććil marḥūma eppay.
 030. ḳōmiṯ ṯiḳniṯ mʔallmōl īḏ, ḳriṭəl p-ṯarć ḏukk.
-031. ḳamminnaḥ atar, ṭašširlaḥəl wuʕyōṯa b-arʕa w_eppay ēli maʕrefća ʕemmil šayxa ći brēǧ, ešmi ōbəl ġāzi.
+031. ḳaminnaḥ atar, ṭašširlaḥəl wuʕyōṯa b-arʕa w_eppay ēli maʕrefća ʕemmil šayxa ći brēǧ, ešmi ōbəl ġāzi.
 032. zalli, taḳḳiṯ ṯarʕa eʕli, zarpir riḥlō p-ḥawša w zalli leʕli b-anna lēlya amerli: «iṯḳan ʕimm meškla b-anna psōna w ću nyōḏaʕ mā.»
 033. w ana nbōx m-kiṯər mā nmićʔōlam mn-īḏ.
 034. l-muhimm, arkšaṯ xull ʕēlṯa iʕəl kiṯər ma ṯiḳniṯ niḏ̣ḏ̣iyyeḳ ana mn-īḏ, mn-ōṯ ḳorṭṯa.

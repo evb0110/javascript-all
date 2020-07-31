@@ -10,7 +10,7 @@
 010. amralle: «ē!»
 011. ṯyillun xaṭbilla w xaṯpill əxṯōba aʕla w asebla.
 012. ṯēle hanna, bōṯar meṯṯa batte ysōfar.
-013. amella: «ana hōs safərṯa tīḏ mann nōġeb bā ešna, w bōṯar ma nimrōšaʕ mn-ōs safərṯa, mann nrōžaʕ niščaḥ ġapp ṭefla.»
+013. amella: «ana hōs safərṯa tīḏ mann nōġeb bā ešna, w bōṯar ma nimrōžaʕ mn-ōs safərṯa, mann nrōžaʕ niščaḥ ġapp ṭefla.»
 014. amralle: «nimwaffīḳa ʕal-anna mett.» hī zakya.
 015. ḳōyem hū, ṭaʕəl ḥōle w nōfeḳ mnə-blōta, aseblə zwōḏe w l-xōle w lə-ščūye w zelle ʕal-anna tarba.
 016. ḳōyma hī laḥḥḳōle.
@@ -21,11 +21,11 @@
 021. amrōle: «hačč čiʕzem ġapp.»
 022. hī b-ešmil ġabrōna naḥḥīča, ʕamšaṭiʕōle innu asōsəl ġabrōna.
 023. maʕzemle, ṯēle leʕle yiḏmux ġappiš šunīṯe.
-024. hū ču mbaḳḳarəš šunīṯe xann, ṯēle b-lēlya, ʕočma.
+024. hū ču mbaḳḳarəš šunīṯe xann, ṯēle b-lēlya, ʕočma atar.
 025. b-awwalča čūṯ, la káhraba w la ġayre, čūṯ nuhrō, ʕočma.
 026. mžamaʕəš šunīṯe w ṯēn yōma maṣəpḥin w ḳōymin uxxul mōn zelle ʕa šaġəlṯe.
 027. hōṯe mkammell safərṯe zelle p-tarbe w hī mražīʕa ʕa payṯa.
-028. hū, iḳḏum ma yiffuḳ mnə-blōṯa, ūle sūsča, xett ʕallna m-mohra.
+028. hū, iḳḏum ma yiffuḳ mnə-blōta, ūle sūsča, xett ʕallna m-mohra.
 029. bōṯar ṭešʕa yarəḥ ti hinn, mrōžaʕ ʕa blōta.
 030. mrōžaʕ miščaḥ ġappil sūsča ti taššra bə-blōta xallīfa, w miščaḥəl eččṯe ġappa ṭefla.
 031. ṯēle, nōfeḳ xolḳe aʕla: «minalliš hanna ṭefla, čūb ibər, ebra čūb ibər.»
@@ -40,7 +40,7 @@
 040. amella: «ē!»
 041. amralle: «w ana mennax. hanna ṭefla mennax.»
 042. amella: «ču ṯōḳen, ana mn-ešna la aḳərbiṯ aʕliš, m-yōməz zlill mn-ōxa, ex xallfiš tuġray?»
-043. «yōməl ḏokkṯa flanōyṯa ti lčaḳyič hačč w hū, šaṭīʕax šaṭranž w arbḥax, čizzakīrle?»
+043. «yōməl ḏokkṯa flanōyṯa ti lčaḳyič hačč w hū, šaṭīʕax šaṭranž w arbḥax, čizzakkīrle?»
 044. amella: «ē!»
 045. amralle hī: «ana hanna ġabrōna.»
 046. amralle: «šarṭōx ti waybin, battax eḥḏa rrīxa, p-ṭūla rrīxa hī, ana nirrīxa p-ṭūla, w nḳuṣṣōr, liššōn ḳuṣṣur w nšarifōy yaʕni ču nxaynōx w nmanyūk mennax.

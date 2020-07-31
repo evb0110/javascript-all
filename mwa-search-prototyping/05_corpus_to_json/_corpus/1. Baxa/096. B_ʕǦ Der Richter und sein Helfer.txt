@@ -1,4 +1,4 @@
-001. orḥa wōṯ aḥḥaḏ ḳōḏ̣ya, w yōḏaʕ aḥḥaḏ falleć, la šaġəlṯa w la ʕaməlṯa.
+﻿001. orḥa wōṯ aḥḥaḏ ḳōḏ̣ya, w yōḏaʕ aḥḥaḏ falleć, la šaġəlṯa w la ʕaməlṯa.
 002. ʕala ṭūl hanna hanik ma ḥōm aḥḥaḏ maḥēli, hanik ma ḥōm šaġəlṯa naġepla w ʕal-anna namaṭ, yaʕni ćū maff mett ġēr maǧrēli.
 003. orḥa ṯōli ʕal-anna ḳōḏ̣ya amerli: «ḳaṭlannaḥ xafna, ṭayyeb ma battaḥ nišćġel anaḥ, ma battaḥ nišw?»
 004. amerli: «zex šwā mašōkel haćć w lā ćūzuʕ. mahma šćakyaṯ eʕlax ommṯa mahma išwaṯ, ana nimtapperlax.»
@@ -25,7 +25,7 @@
 025. aḳam ḳaṭṭar, ihǧam ʕa baʕḏ̣inn ṯrinn.
 026. luḳḳa ihǧam ʕa baʕḏ̣inn, iṯḳan yaʕni mḳaṭṭrin, ṯalla ommṯa ṯiḳnaṯ mṣalḥōlun.
 027. m-ḏ̣emnil ommṯa ći ʕamṣalḥillun ṯōli aḥḥaḏ, inḥać baynṯinn.
-028. hinn w ʕammaḥyill baʕḏ̣inn ṯrinn, ṯalla īḏəl lanna farrōna b-ʕēl lanna zaləmṯa, aḳam ḳaləlēli ʕayni.
+028. hinn w ʕammaḥyill baʕḏ̣inn ṯrinn, ṯalla īḏəl lanna farrōna b-ʕēl lanna zaləmṯa, aḳam ḳaləʕlēli ʕayni.
 029. aḳam ḏarkunni ṯrinn.
 030. luḳḳa ḏarkunni ṯrinn, mōrəṯ ṯanaġelća w ći nḳalʕaṯ ʕayni, išmaṭ b-anna šūḳa.
 031. hū w šammeṭ, iḥəm aḥḥaḏ ʕemmi ḥmōra, ʕamzappen eʕli.
@@ -43,7 +43,7 @@
 043. isḳel šammeṭ m-tirbēn. iḥəm mayḏanća, aḳam islaḳ eʕla.
 044. islaḳ l-axerćil mayḏanća l-elʕel.
 045. ʕēn xann, batti yunḥuć yaʕni w hinn ḏirkilli, ext batti yišw?
-046. ʕēn xann, ćūṯ ḳōmmi ġēr ǧēmʕa erraʕ.
+046. ʕēn xann, ćūṯ ḳommi ġēr ǧēmʕa erraʕ.
 047. ōneṭ mn-elʕel, aḳam ṯōle ʕal-aḥḥaḏ b-ǧēmʕa ʕamṣall, áḥkemni ʕa ḳḏōli ćabərlēli ḳḏōli.
 048. īmaṯ man? ći ōneṭ eʕli hū.
 049. isḳel šammeṭ, ḏarkaćći hōṯ ommṯa xett ći b-ǧēmʕa.
@@ -81,7 +81,7 @@
 081. amerli: «ʕamḳaṭṭar hū w hanna zaləmṯa w ṯinn nuffuḳ ana baynṯinn.»
 082. amerli: «ē.»
 083. amerli: «aḳam hanna zaləmṯa maṯḥil īḏi ʕa ʕēn, baxəṣlīl ʕēn.»
-084. amerli: «yaʕni ćbaʕēl ṯrisća?»
+084. amerli: «yaʕni ćbaʕēl ṯrīsća?»
 085. amerli: «ē!»
 086. amerli: «awwal mett nmiʕćabrin inni hōṯ ʕayna ćūba, haćć ćbaʕēl ṯrīsćax.»
 087. amerli: «haćć ćbaxəṣlēli ʕayni w hū baxəṣlēx ʕaynax.»

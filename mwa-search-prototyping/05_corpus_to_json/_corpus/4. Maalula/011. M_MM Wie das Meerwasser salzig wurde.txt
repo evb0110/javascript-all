@@ -7,7 +7,7 @@
 007. nōfeḏ l-barrīya, mayṯ lēle arpʕa ʕumər siḥō w ṯēle mzappenlun w zōben ḳalles leḥma, zōben ḳalles tōma w ṯēle ʕa payṯa.
 008. axellun hū w eččṯe w bnōye.
 009. yōma m-yumō amrōle eččṯe: «wrāx abʕēḏ mišwōrax ḳalles, balki čmayṯ akṯar ḳalles!»
-010. ṭaʕəl ḥōle w zalle hanna ġabrōna abəʕḏil mišwōre.
+010. ṭaʕəl ḥōle w zalle hanna ġabrōna, abəʕḏil mišwōre.
 011. hū ʕamḥaṭṭeb, la ōḥes w_atər illa inəfṯaḥ mʕarrṯa ḳomme.
 012. ixṯeb ʕa ṯarəʕlə mʕarrṯa: «ražəʕṯa bōṯar ḥammeš tḳīḳyan!»
 013. iʕber l-mayla ġawwanō, willa iščaḥ kawmṯiḏ ḏahba, ḳōye mʕappēla.
@@ -20,7 +20,7 @@
 020. hōš ayṯillaḥəl xēfa mō, m-ḳell xifō ġappaynaḥ, nayṯell lōġ ġrōrča.»
 021. l-ḥāṣla hū, massaṯ tunya ṭaʕəl ḥōle w rōžaʕ ʕa payṯa.
 022. rōžaʕ, amrōle eččṯe: «mō čayyeṯ imōḏ?»
-023.  amella: «waḷḷa imōḏ ču nayyeṯ mett. nayyīṯliš hōġ ġrōrča.»
+023. amella: «waḷḷa imōḏ ču nayyeṯ mett. nayyīṯliš hōġ ġrōrča.»
 024. amrōle: «wrāx, hōḏ mō baḥ nišw bā?»
 025. amella: «waḷḷa, xann iṯḳen ʕimmi, sōləfṯi kaza kaza, w xann iṯḳen ʕimmaynaḥ. ṭamʕaḥ l-ōxa amṭannaḥ.»
 026. ḳōyma amrōle: «ōṯ ṯumnōyṯlə nšīfa, ḳō nġursenna lakōni w nbaššlenna w nīxul w naṭəʕmell lann ṭiflō.»
@@ -39,8 +39,8 @@
 039. amrōle: «mō aʕle.» 
 040. amella: «hanna payṯa ti nḳaʕyin bē, hanna iṯḳen ʕatman. baḥ nʕammarlaḥ mett ḳaṣra yīb kayyes, yīb lōyeḳ bāḥ w b-ʔommṯa ti batta čṯēla liʕlaynaḥ.»
 041. amrōle: «ma zāl ōṯ ḳiršō, ʕaya ḥetta ničbōxal ʕa baʕḏ̣innaḥ. ḳō nabən!»
-042. ḳōmin zōbnin arʕa w zlillun mʕammrilla, mʕammrilla ḳaṣra mlūkay.
-043. bōṯar mil ḥassel w iṯḳen ġappayhun payṯa kayyes, amella: «baḥ naʕzmell zaʕimōyəl lōb blōta liʕlaynaḥ mett ḥetta nbayynil baʕḏ̣innaḥ ḳummayhun w hinnun ybaḳḳrunnaḥ w anaḥ nbaḳḳrennun.
+042. ḳōymin zōbnin arʕa w zlillun mʕammrilla, mʕammrilla ḳaṣra mlūkay.
+043. bōṯar mil ḥassel w iṯḳen ġappayhun payṯa kayyes, amella: «baḥ naʕzmell zaʕimōyəl lōb blōta liʕlaynaḥ mett ḥetta nbayynill baʕḏ̣innaḥ ḳummayhun w hinnun ybaḳḳrunnaḥ w anaḥ nbaḳḳrennun.
 044. ma zāl iṯḳen ʕimmaynaḥ ḳiršō w ṯiḳninnaḥ ex... xwaṯinnun w aḥsan.»
 045. amrōle: «mō aʕle.»
 046. zallun aʕzmull zaʕimōyəl lōṯa blōta.
@@ -49,20 +49,20 @@
 049. waḷḷa hanna arpaʕ išən ḥrōn, miʕnōyṯa ṯōḳen aḥsan minnaynaḥ w ṯōḳen msayṭar ʕlaynaḥ w ṯōḳen mišw zaʕīma ʕlaynaḥ.
 050. ḳumōn niččfeḳ baynṯil baʕḏ̣innaḥ w nḥužzell lanna mōla ti ġappe!»
 051. mišwin ḥažza aʕle ṯyillun šaḳəllille payṯe w šaḳəllille ačōčəl payṯa xulle sawa ti ōb ġappe.
-052. ḳōye mičražžēlun ržō, amellun: «maxrōmčal_alō, xulle mett šaḳəlčunne, amma hōġ ġrōrča nrayyīṯla m-tiḏōy, tašširlull raḥəmṯa maʕ ṯiḏōy!»
+052. ḳōye mičražžēlun ržō, amellun: «maxrōmčal_alō, xulle mett šaḳəlčunne, amma hōġ ġrōrča nrayyīṯla m-tiḏōy, tašširlull raḥəmṯa maʕ tiḏōy!»
 053. amrulle: «ṭuʕnā ʕa ḥaṣṣax!»
 054. ču yaḏḏiʕill ġrōrča mō hī, mṭašərlille ġrōrča.
 055. šaḳella w zelle, ḳaʕēle ġapplə šbabō.
 056. ḳōyem ṯēn yōma, amell_eččṯe: «wrīš ya šunīṯa, hann blatō čūbin blataynaḥ.
 057. hann čḥaṭṭaṭ ʕlaynaḥ, lōfaš mṭaššrillaḥ. ḳūm, baḥ nsōfar l-ġayrlə blōta!»
-058. ḳōymin ġōrsin ʕa ṣummeč ḳalles kiršō, ṭaʕnillun p-šanṭōyṯa w msafīrin ʕa ġayrlə blōta.
+058. ḳōymin ġōrsin ʕa ṣummeč ḳalles ḳiršō, ṭaʕnillun p-šanṭōyṯa w msafīrin ʕa ġayrlə blōta.
 059. xetti ḳōymin mabənyin ḳaṣra, aḥsan m-ḳaṣra ti abnunne b-ōṯa blōta ti waybin ḳaʕyin bā.
 060. amella: «baḥ ničʕarraf ʕa zaʕimōyəl lōb blōta.»
 061. ḳōymin maʕzmillun liʕlayy bōṯar mil išw payṯa kayyes.
 062. ṯōlun liʕlayhun ḥrinōy, xetti bōṯar mil axal w išči m-ġappayhun, infeḳ išw alʕan mn-awwalnōy.
 063. ḳōymin ḥažzill... mičʔamīrin ʕlayhun w ḥažəzlillun payṯa w ḥažəzlillun mōla ti ōb ʕimmayhun xulle sawa w šaḳlille.
 064. xett aṣəf ʕal_arʕa ḥuwwōrča.
-065. amell_eččṯe: «čyaḏḏīʕa wrīš ya šunīṯa, bižūz ġayrlə blatō arḥam mnə-blōta ti nḳaʕyin bā. ḳūm baḥ nsōfar ʕal_amērka ana w hašš!»
+065. amell_eččṯe: «čyaḏḏīʕa, wrīš ya šunīṯa, bižūz ġayrlə blatō arḥam mnə-blōta ti nḳaʕyin bā. ḳūm baḥ nsōfar ʕal_amērka ana w hašš!»
 066. ḳōymin ġōrsin ḳalles nawlōn l-tarba w rōxpin.
 067. mišwin mʕamalča w rōxpin m-markba w ṭaʕnill ḥalayhun w zlillun.
 068. hinnun w ōzin ʕa tarba, ḳōyma minfaḳta melḥa m-maṭəpxa ti markba.

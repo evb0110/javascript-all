@@ -4,12 +4,12 @@
 004. hanna ḥōkma bə-blōta w stīḳe muḥāmi bə-blōta, yaʕni mabəʕḏan m-ʕa baʕḏ̣innen šaʕṯa w felke laxṯa bess.
 005. amell_ebre: «čzellax l-ġapplə flanō w člōyef muḥāmi?»
 006. amelle: «naʕam!» zalle.
-007. ilef, išḳal waḳča, ilef. ṯōle l-ʕal_ōbu, amelle: «ilfīč muḥamaynūṯa?»
+007. ilef, išḳal waḳča, ilef. ṯōle l-ʕal_ōbu, amelle: «ilfič muḥamaynūṯa?»
 008. amelle: «naʕam!»
 009. ḳōyem mtawwarle ʕa mḥalla w mišwēle makəčba l-muḥamaynūṯa.
 010. ōbu ḥōkma, ṯōle studʕa l-anna ḥōkma mn-aḥḥaḏ batte yṭallḳell_eččṯe.
 011. amelle: «e, ʕaža bax čṭallḳenna?»
-012. amelle: «liʔannu hemla w ḳallīla mrūṯa. yīb ṭayyinōl ʕakkōra p-ṣayfōyṯa, wōb la aḏlef p-šičwōyṯa w nazʕlēḥ ġarḏ̣aynaḥ, w ġarḏ̣aynaḥ maṯəmnin.»
+012. amelle: «liʔannu hemla w ḳallīla mrūṯa. yīb ṭayyinōl ʕakkōra p-ṣayfōyṯa, wōb la aḏlef p-šičwōyṯa w nazəʕlēḥ ġarḏ̣aynaḥ, w ġarḏ̣aynaḥ maṯəmnin.»
 013. amelle: «ṭayyeb, nnōḏ̣rin b-ōt taʕwṯa.»
 014. bōṯar iṯər yūm willa ōṯya eččṯe, ayyīṯa studʕa w ōṯya l-ʕa ḥōkma.
 015. ḳirəl lanna studʕa, ḳayyīla bə-studʕa, batta ṭṭallḳell beʕla, ušme flanō.
@@ -37,7 +37,7 @@
 037. amelle: «ōṯ ḳeṣṣṯa bann naḥklēx.»
 038. hanna šappa ti muḥāmi ʕammaḥkēl mōn? lə-ʕwōra.
 039. amelle: «mō hī?»
-040. amelle: «ġabrōna batte yṭallḳell eččṯe, ʕayattil la ṭayynaččil ʕakkōra, ḥetta aḏlef w nazʕlēle waʕyōṯe, w ṯalla hī batta ṭṭalḳell beʕla ʕayattil la ʕarklil ʕakkōra, w ġabrōna ihmel, ču mtawwar ʕa payṯa, w aṣəʕbaṯ aʕəl hōḏ.»
+040. amelle: «ġabrōna batte yṭallḳell eččṯe, ʕayattil la ṭayynaččil ʕakkōra, ḥetta aḏlef w nazʕlēle waʕyōṯe, w ṯalla hī batta ṭṭalḳell beʕla ʕayattil la ʕarklil ʕakkōra, w ġabrōna ihmel, ču mtawwar ʕa payṯe, w aṣəʕbaṯ aʕəl hōḏ.»
 041. amelle: «lā, hōḏ hayyīna.»
 042. amelle: «aməhlannūn! m-ḥaṣṣil lanna yarḥiš šičwōyṯa, mil ḥassel ṭaḳḳ, ḥassel naḳḳ, miḏ ḥassel ḏalfa hū mbaṭṭel yṭalleḳ, w hī mbaṭṭla ṭṭalleḳ. aməhlannūn hanna yarḥa, yīb zalle šičwōyṯa.»
 043. w mō mōmar xett? mōmar: «xušš šaġəlṯa ti ṣaʕba, aməhlā, hī fakkōl baʕḏ̣a! ṯēla waḳča fakkōl baʕḏ̣a.»

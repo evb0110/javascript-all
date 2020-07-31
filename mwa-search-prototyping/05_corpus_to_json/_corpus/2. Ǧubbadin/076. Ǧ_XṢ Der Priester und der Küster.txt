@@ -1,4 +1,4 @@
-001. bin naḥčēx ḥučīṯa maʕ ḳandleft w xūray, hān ōyṯ uḳči mʕárrafin bē, bə-čnīsča.
+﻿001. bin naḥčēx ḥučīṯa maʕ ḳandleft w xūray, hān ōyṯ uḳči mʕárrafin bē, bə-čnīsča.
 002. ōyṯ hanna ḳandleft ēle eččṯa xḥōla w čiṯər ma xḥōla aḳam ažhel eʕla mannu? — xūray til_ōb bə-čnīsča.
 003. hanna xūray exət ma zlōla mʕaynēla w exət ma ṯyōla mʕaynēla.
 004. aḳam arnḥi ʕayne eʕla w aptay ḏōmex ʕemmah.
@@ -6,7 +6,7 @@
 006. aḳam hanna, ext bēle yušw, maxramča luḳḳi mūṭ uḳči ʕarrōfa maxramča la yḳumṭenne b-eḥḏa l-xūray?
 007. aḳam zalle... ōyṯ nbīt, hanna nbīt ʕaččeḳ bə-čnīsča w ḳōm xūray, mašəḳ menne bə-mnasabyōṯa.
 008. ṣallaṭ ʕal-anna nbīt hanna w_aptay šaṯēlun.
-009. xān luḳḳil_iḥṣel hanna nbīt, lō-ḏ̣el mēt.
+009. xān luḳḳil_iḥsel hanna nbīt, lō-ḏ̣el mēt.
 010. aṯa xalḳa l-ʕa xūray bēle yḏ̣ayyafēn nbīt.
 011. zalle l-ʕal-ō xābye — čūyṯ mēt.
 012. aḳam amelle, amelle: «l-uḳči bi-yiṯḳan ʕarrōfa bax čiʕbar čʕarref hāč xwō lōḏ_ommṯa!»
@@ -14,7 +14,7 @@
 014. l-muhīm ʕáppari lanna ḳandleft, aṯa... amelle: «aṯa tawrax, čiʕbar hōš hāč, baḥ nʕarrafennax maxramča nuġforlax lab čšawway ḏinpō, lab čšawway xaṭiʔyōṯa mahmi čšawway. mahmi nimšaʕʕellax bēx čaḥəč!»
 015. aḳam amelle: «ē!», iʕber w saččar lanna ṯarʕa eʕle.
 016. amelle: «mā wa čšawway b-zamanūx luḳ wa čuzʕur?»
-017. iḳʕay aptay maḥčēle maʕ šaġlō wa ču manfʕan ti wa mišwēlen maxramča yuġforle.
+017. iḳʕay aptay maḥčēle maʕ šaġlō wa ču manəfʕan ti wa mišwēlen maxramča yuġforle.
 018. aḳam amelle: «ṭayyeb hanna nbīt ti čnīsča mannu wa šaṯēle?»
 019. aḳam hanna ḳandleft baṭṭel yaḥəč hū w šūn ḥōle lafaš šōmaʕ.
 020. šaʕʕle xaṭərṯa, ṯarč, eṯlaṯ, lorčaʕ aḥref.
@@ -32,4 +32,3 @@
 032. amelle: «ʕaya lorčaʕ aḥərfič?»
 033. amelle: «fiʕlan, ti ʕōber l-ulġul lafaš šōmaʕ».
 034. w hōxa ḥislaṯ ḥučīṯa.
-

@@ -1,4 +1,4 @@
-001. ōyṯ aḥḥa ixṭeb eḥḏa w_ēle emma ʕwōra, ču ḥōmya bnawb, w ṯōle mn-eččṯe busunū, arpʕa ḥamša psūn.
+﻿001. ōyṯ aḥḥa ixṭeb eḥḏa w_ēle emma ʕwōra, ču ḥōmya bnawb, w ṯōle mn-eččṯe busunū, arpʕa ḥamša psūn.
 002. eččṯe malʕūnay w emmil_eččṯe malʕūnay, aptaṯ emmil_eččṯe mḥarršōl_eččṯe innu: «ḳallōʕ stōḏiš m-bayṯa! ču bīlay emmi biʕliš čiḳəʕ ʕimmiš. ḳallaʕō!»
 003. ṯyōla ečči lanna zaləmṯa mamrō zaləmṯa: «emmax ʕamamrōlay w ʕemmax ʕammišwōlay w ču bin niḳəʕ ʕemmil_emmax w bex čḳallaʕēll_emmax.»
 004. amella: «wrīš ya ḥarīmča ḏ̣rīra, ču ḥōmya bnawb. ext bin nḳallaʕenna?»
@@ -14,8 +14,8 @@
 014. amrōle: «ē, ext ma čbōʕ.»
 015. amella: «yalla ḳū rxōb!»
 016. amell_eččṯe: «šwōlay zwōḏa!»
-017. šwalle zwōda eččṯe w_arxpil_emme w yalla ʕal-ō barrīya.
-018. abʕeḏ baḥer m-ʕa blōta, iḳʕay b-doččṯa, aḳʕnil_emme luḳḳi ʕirpaṯ tunya xān.
+017. šwalle zwōḏa eččṯe w_arxpil_emme w yalla ʕal-ō barrīya.
+018. abʕeḏ baḥer m-ʕa blōta, iḳʕay b-ḏoččṯa, aḳʕnil_emme luḳḳi ʕirpaṯ tunya xān.
 019. emme ču ḥammīya, la ʕrība tunya w la sallīḳa šimša, ču yaḏḏīʕa b-mīt.
 020. amella: «ḳʕōy ya immay b-arʕa hōxa. ana nīz bal-ḥūḏay xān načšef mah hōyṯ ma čūyṯ w hōš nimʕōwet liʕliš.»
 021. arnaḥlēla zwōḏa ḳūrah w ṭáššaril_emme b-barrīya w_aṯa ʕa bayṯa.

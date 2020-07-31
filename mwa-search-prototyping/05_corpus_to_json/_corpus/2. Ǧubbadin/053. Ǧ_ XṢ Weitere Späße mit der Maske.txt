@@ -1,11 +1,11 @@
-001. yōm aḥḥa, īlay ffō xassīč, yaʕni xulle ti ḥamēl zōyeʕ minnāy.
+001. yōm aḥḥa, īlay ffō xassīč, yaʕni xulle ti ḥamēl zōyeʕ minnāy..
 002. xassīč yōm aḥḥa w nifḳiṯ ʕrōba m-bayṯa w niḥčiṯ ēl bay žittay ḏōrča ʕaččīḳa eppa ṯannūrča, felči blōta ṯyōla mūfya bāh.
 003. ōmriṯ bīlay numruḳ ʕal-ō ṯannūrča, hān til_ayban ulġul mzawwaʕennen.
 004. l-muhīm ḏʕiččen ṯarčōṯen mūn hān.
 005. eḥḏa minnayhen stōḏay w eḥḏa xān xičyōrča, rappa b-ʕomra.
 006. aṯiṯ ʕa ṯarʕi lō ṯannūrča ana w laṭṭiṯ mn-anna ṯarʕa w ntayyīri muḥḥay l-elʕel w nafḥiṯ b-ān ffō.
 007. hān ffō luḳḳi ḥmaččen ḥarīmča w hinnen ʕamsawəlfan, ʕamsawəlfan b-baʕḏ̣innen, w luḳḳi nafḥičči lān ffō ana, imġat xān xwō mah hešme, xarṭūma.
-008. hōṯa, ti wa ʕamṭōʕša w ʕammūfya b... ʕamṭōʕša w ʕamlaḳḳḥōl l-ōṯa čīf, luḳḳi ḥmaččay irfaʕ ḏwōṯa ʕa hwō w msawəlfa ʕemmi lōṯa.
+008. hōṯa, ti wa ʕamṭōʕža w ʕammūfya b... ʕamṭōʕža w ʕamlaḳḳḥōl l-ōṯa čīf, luḳḳi ḥmaččay irfaʕ ḏwōṯa bə-hwō aptaṯ faḳʕō ḏwōṯa ʕa hwō w msawəlfa ʕemmi lōṯa.
 009. ana nčabhiṯ eʕla innu zōʕaṯ minnay, ḳōmiṯ ṭáššariṯ w zlillay.
 010. ṯēn yōma ʕammūmrin: flanūyṯa ečči flanū xān xān rumiš p-ṯannūrči bay ġaḏīyi, činya mā eḥmaṯ sawəfṯa xān.
 011. w aspūla yaʕni šaġəlṯa rappa w hī čūla ḳīmča.
@@ -35,7 +35,7 @@
 035. luḳḳi ḥimnay, ʕōwet ffōye ḥuwwūrin xwō lanna xoṯla.
 036. amēl lān til_aybin ulġul: «til_ōb minnayəx zaləmṯa w mišwē ḥōle ášbahay yūḳu ylāṭ w yūsub emʕa warəḳ mn-anna šuppōča!»
 037. lasa barnaš mčār yuffuḳ.
-038. ṭaššarnaḥəl w zlinnaḥ xīt l-ʕa ġayr naḥḥīṯa. 
+038. ṭaššarnaḥəl w zlinnaḥ xīt l-ʕa ġayr naḥḥīṯa.
 039. ōyṯ aḥḥa mə-rfiḳaynaḥ wa irḥem eḥḏa w marō ču ʕamrōṣin yappulle, lā p-čayyes w lā b-irtay.
 040. amrille: «baḥ nušw šaġəlṯa mēt xān yaʕni nzawwaʕēn marōyi lō bisnīṯa w marōyi lō naḥḥīṯa xulla».
 041. ōmar: «mā baḥ nušw?»
@@ -63,4 +63,3 @@
 063. ōmar: «aṣbaḥ hanna hāč. ʕanū hāč, felči marōx bi-yībun b-zerpa w felči marōx bi-yībun p-ḳabrō!»
 064. ḳaṭṭarnaḥ anaḥ w nižəm w zalle išəččay ʕlaynaḥ w žarrasannaḥ.
 065. w hōxa ḥislaṯ ḥučīṯa.
-

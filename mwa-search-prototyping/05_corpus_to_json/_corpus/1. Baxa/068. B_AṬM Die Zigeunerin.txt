@@ -6,7 +6,7 @@
 006. ʕappirlaḥla, wībin hann šappō, ḳiʕlaḥlaḥ.
 007. ṯiḳnaṯ rōḳḏa, ṯiḳnaṯ mšōpša nmappyilla miṣəryōṯa.
 008. l-muhimm iʕbar šappa minnaynaḥ, ešmi ʕabdəllaṭīf, ustōz yaʕni hōš m-matrasća hū.
-009. walla ḳʕōli, la ʕakəbni waḏ̣ʕa inni ʕa_asōs šappō w nḳaʕyin bēn nawaryōṯa w hanna, tīrəl ḥaṣṣi w infaḳ.
+009. walla ḳʕōli, la aʕkəbni waḏ̣ʕa inni ʕa_asōs šappō w nḳaʕyin bēn nawaryōṯa w hanna, tīrəl ḥaṣṣi w infaḳ.
 010. zalli amerəl ḥōlći: «yā ḥōləć. zīš əšṭay bnōš, ćabrunxun ʕamma miṣəryōṯa ći ʕimmayxun applull nawarīṯa».
 011. hanna mćaḏ̣yaṯ iṯṯar ṯlōṯa yūm ʕamma nimḏarryin ġappil pē ǧitt ṣōleḥ, yaʕni anaḥ w hann šappō ʕanimsaʕtillun msaʕatća.
 012. walla silḳaṯ l-elʕel, hinn w ʕamḏarryin, ṯōli aḥḥaḏ ešmi saʕt ʕabdəlʕōl w ōb ḥōl ʕazīz.
@@ -45,7 +45,7 @@
 045. iṯḳan ma ōmer hū? ōmer: «asəḥxun!» p-siryēni inni: «asəḥxun ćīmrun ē, ana nōmer ē.» ʕa_asōs la yinəkšaf ḳomma yaʕni. «ana mōmer ē w haćxun ćōmrin lā».
 046. walla allxiṯ ana w naǧīb xann ḳalles w ṯilaḥlaḥ, lamar nišćaḥ nćiǧća.
 047. hī illa batta ćínnahap.
-048. w hī ḳaʕʕīya hī w hū bēl lanna summaḳ ʕamma mićġōzlin w anaḥ allxinnaḥ xann mett yaʕni emʕa micər w ʕawtinnaḥ ʕlēn.
+048. w hī ḳaʕʕīya hī w hū bēl lanna summaḳ ʕamma mićġōzlin w anaḥ allxinnaḥ xann mett yaʕni emʕa mićər w ʕawtinnaḥ ʕlēn.
 049. amərlaḥli: «mā?»
 050. amar: «asəḥxun! ḳrīṯa ću yaḏḏīʕa w hanna, ṯlōla šurṭa, luḳḳa ōṯ mett slōḥa ġappaynaḥ ḥarpill payṯaynah.»
 051. walla ṯalla fekərṯa r-rēš inni ʕa_asōs nḳaṭṭaʕ xann l-uḳbil lōṯ ʕaḳəpṯa w nṯīl ʕlēn namerlun «ṯalla immiš» minšōn nušmuṭ.
@@ -80,8 +80,8 @@
 080. arəḥlaṯ, walla anaḥ ʕamma nḳaʕyillaḥ b... yaʕni nḳaʕyin xann p-payṯa, lawinni iʕbar iṯṯar ġaribōyin mnə-mʕarra.
 081. nyōḏaʕ aḥḥaḏ minnēn ana: «ahlēn ōblə flanō, ahlēn!»
 082. iʕbar, «ext xann ćōṯ l-ōxa?»
-083. «nīšeṭ m-bōš».
-084. amar: «walla ću namerəlxun ġērən nawarīṯa ći arəḥlaṯ l-ġappaynaḥ aʕšḳōl ustōz m-ġappayxun w šimṭaṯ minšon ći... w išṭlaḥl ōbu w ṯilaḥlaḥ roḥla nšuḳlenna.»
+083. «nīšeṭ m-bōs».
+084. amar: «walla ću namerəlxun ġērən nawarīṯa ći arəḥlaṯ l-ġappaynaḥ ʕišḳōl ustōz m-ġappayxun w šimṭaṯ minšon ći... w išṭlaḥl ōbu w ṯilaḥlaḥ roḥla nšuḳlenna.»
 085. walla ana la šimʕiṯ xann — hū ḳaʕʕ ustōz ći ʕamma maḥəkyin meʕli, ću yiḏḏiʕilli hinn.
 086. hū aḳam w zalli, hanik batti yišwell ḥōli ysaʕtell man? l-ḥōl lanna zaləmṯa naǧīb, ʕamʕammar yaxōra r-riḥlō.
 087. walla aḳam zalli w ana ḳōmiṯ lina mann nzīl? mann nzīl ntawwar ʕa nawarīṯa hanik ṯiḳnaṯ.
@@ -91,7 +91,7 @@
 091. ana w nōṯ amrilli: «mā ōblə sʕūt — ōbəl bisnīṯa — lina ćōz?»
 092. amar: «walla usmuć, ću namerlax ġēr maha šimṭaṯ, ṯalla l-ġappayxun w ība p-pē flanō, p-pē ḥammōdi.»
 093. ana batt nīḏaʕ hanik, l-muhimm tallin zaləmṯa.
-094. zill išćaḥyiṯ mett ʕisər ṯlēṯ zaləm ǧmīʕin b-anna payṯa w hī ḳaʕʕīya, w ṯōli ōbəl šōher w ʕōbəl bisnīṯa.
+094. zill išćaḥyiṯ mett ʕisər ṯlēṯ zaləm ǧmīʕin b-anna payṯa w hī ḳaʕʕīya, w ṯōli ōbəl šōher w ōbəl bisnīṯa.
 095. ḳʕōlun ḳūra, iṯḳan amrilla: «aḷḷāh yirṣ iʕliš w xann ću kayyes w xann yaʕni šoməʕṯil ōbuš, miššōn šoməʕṯil ōbuš ću kayyes hōš šaġəlṯa šišwinna.
 096. waḳćil battaḥ nxuṭbinniš nizlillaḥ nxaṭbilliš anaḥ m-ġappil ōbuš w ḳū zilliš ʕemmi!»
 097. atar hī mʕēnya bī ana w nḳaʕʕ b-ōṯ ǧalīsća, mʕēnya mn-erraʕ l-erraʕ.
@@ -101,14 +101,14 @@
 101. mʕēnya bī namerla: «lā širəṣ!»
 102. b-išōrća bass ana namerla yaʕni.
 103. ḳōm ana ʕanamerla «la širəṣ!», man iḥmin? iḥmin ōbu šōher ći ōṯ yḥullell muškelća.
-104. amar: «ḳō nfoḳ mn-ōxa wrāx, ḳō nfoḳ affezz, aḥsan ma nīḳu nḳuṭlennax hōš ha!»
+104. amar: «ḳō nfoḳ mn-ōxa wrāx, ḳō nfoḳ afezz, aḥsan ma nīḳu nḳuṭlennax hōš ha!»
 105. ḳōmiṯ, l-muhimm šaḳlull bisnīṯa w zallun.
-106. ṯill ana, atar ʕakkarōyəl  pē ǧitt maṭillin ʕa ḏōrćil lanna ustōz ći matrasća.
+106. ṯill ana, atar ʕakkarōyəl pē ǧitt maṭillin ʕa ḏōrćil lanna ustōz ći matrasća.
 107. ōḳfiṯ ʕa ḥaṣṣil ʕakkarō, ʕamṭayynill ʕakkarō hinn, lawinni niftaṯ emmi.
 108. amrilla: «yā emmil asʕat!»
 109. hū ešmi ʕabdo, atar anaḥ... lebḳa asʕat ći nahpil nawarīṯa awwalnōyṯa.
-110. amərlaḥla: «yā emmil asʕat, hanik ōb, nawarīṯa ṯalla w zallxun xuṭbunna!»
+110. amərlaḥla: «yā emmil asʕat, hanik ōb, nawarīṯa ṯalla w zallxun xuṭbunnā!»
 111. mazḥa, nmōzaḥ ʕal_emmi ana.
-112. ḳōm amar: «xull hōṯ šaġəlṯa mennax, lafaš ṯṯex l-ġappaynaḥ.»
+112. ḳōm amar: «xull hōṯ šaġəlṯa mennax, lafaš ṯṯēx l-ġappaynaḥ.»
 113. ṯiḳnaṯ mnáppaha iʕəl amar: «lafaš ṯṯēx l-ġappaynaḥ».
-114. amar šaġəlṯa minn w naǧīb, yaʕni ebra la taxənni.
+114. amar šaġəlṯa minn w m-naǧīb, yaʕni ebra la taxənni.
